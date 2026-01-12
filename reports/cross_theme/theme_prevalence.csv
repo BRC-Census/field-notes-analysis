@@ -1,0 +1,2042 @@
+year,set,cohort_type,cohort,theme_id,theme_label,count,cohort_n,prevalence
+2024,J - Survival,burn_status,Veteran,t1,days / water / bottle,16,40,0.4
+2024,J - Survival,burn_status,Veteran,t3,bike / community / engagement,3,40,0.075
+2024,J - Survival,burn_status,Veteran,t0,love / self / gifting,10,40,0.25
+2024,J - Survival,burn_status,Veteran,t2,share / food / good,3,40,0.075
+2024,J - Survival,burn_status,Veteran,t5,cup / supplies / shade,4,40,0.1
+2024,J - Survival,burn_status,Veteran,t4,weeks / cup / tent,3,40,0.075
+2024,J - Survival,burn_status,Veteran,t6,ask / days / help,1,40,0.025
+2024,J - Survival,burn_status,Sophomore,t4,weeks / cup / tent,4,41,0.097561
+2024,J - Survival,burn_status,Sophomore,t1,days / water / bottle,13,41,0.317073
+2024,J - Survival,burn_status,Sophomore,t0,love / self / gifting,17,41,0.414634
+2024,J - Survival,burn_status,Sophomore,t3,bike / community / engagement,2,41,0.04878
+2024,J - Survival,burn_status,Sophomore,t7,emotional / support / camp,2,41,0.04878
+2024,J - Survival,burn_status,Sophomore,t5,cup / supplies / shade,2,41,0.04878
+2024,J - Survival,burn_status,Sophomore,t2,share / food / good,1,41,0.02439
+2024,J - Survival,burn_status,Virgin,t1,days / water / bottle,9,49,0.183673
+2024,J - Survival,burn_status,Virgin,t4,weeks / cup / tent,5,49,0.102041
+2024,J - Survival,burn_status,Virgin,t3,bike / community / engagement,3,49,0.061224
+2024,J - Survival,burn_status,Virgin,t0,love / self / gifting,14,49,0.285714
+2024,J - Survival,burn_status,Virgin,t7,emotional / support / camp,2,49,0.040816
+2024,J - Survival,burn_status,Virgin,t5,cup / supplies / shade,7,49,0.142857
+2024,J - Survival,burn_status,Virgin,t6,ask / days / help,5,49,0.102041
+2024,J - Survival,burn_status,Virgin,t2,share / food / good,4,49,0.081633
+2024,J - Survival,burn_status,Elder,t1,days / water / bottle,4,19,0.210526
+2024,J - Survival,burn_status,Elder,t0,love / self / gifting,8,19,0.421053
+2024,J - Survival,burn_status,Elder,t2,share / food / good,2,19,0.105263
+2024,J - Survival,burn_status,Elder,t4,weeks / cup / tent,1,19,0.052632
+2024,J - Survival,burn_status,Elder,t6,ask / days / help,1,19,0.052632
+2024,J - Survival,burn_status,Elder,t7,emotional / support / camp,2,19,0.105263
+2024,J - Survival,burn_status,Elder,t5,cup / supplies / shade,1,19,0.052632
+2024,J - Survival,burn_status,Unknown,t3,bike / community / engagement,2,20,0.1
+2024,J - Survival,burn_status,Unknown,t0,love / self / gifting,6,20,0.3
+2024,J - Survival,burn_status,Unknown,t1,days / water / bottle,6,20,0.3
+2024,J - Survival,burn_status,Unknown,t2,share / food / good,1,20,0.05
+2024,J - Survival,burn_status,Unknown,t7,emotional / support / camp,2,20,0.1
+2024,J - Survival,burn_status,Unknown,t5,cup / supplies / shade,1,20,0.05
+2024,J - Survival,burn_status,Unknown,t6,ask / days / help,1,20,0.05
+2024,J - Survival,burn_status,Unknown,t4,weeks / cup / tent,1,20,0.05
+2024,J - Survival,gender,M,t1,days / water / bottle,19,76,0.25
+2024,J - Survival,gender,M,t4,weeks / cup / tent,6,76,0.078947
+2024,J - Survival,gender,M,t3,bike / community / engagement,8,76,0.105263
+2024,J - Survival,gender,M,t5,cup / supplies / shade,8,76,0.105263
+2024,J - Survival,gender,M,t0,love / self / gifting,25,76,0.328947
+2024,J - Survival,gender,M,t7,emotional / support / camp,4,76,0.052632
+2024,J - Survival,gender,M,t2,share / food / good,3,76,0.039474
+2024,J - Survival,gender,M,t6,ask / days / help,3,76,0.039474
+2024,J - Survival,gender,F,t4,weeks / cup / tent,6,71,0.084507
+2024,J - Survival,gender,F,t1,days / water / bottle,23,71,0.323944
+2024,J - Survival,gender,F,t0,love / self / gifting,21,71,0.295775
+2024,J - Survival,gender,F,t7,emotional / support / camp,3,71,0.042254
+2024,J - Survival,gender,F,t5,cup / supplies / shade,6,71,0.084507
+2024,J - Survival,gender,F,t2,share / food / good,6,71,0.084507
+2024,J - Survival,gender,F,t6,ask / days / help,5,71,0.070423
+2024,J - Survival,gender,F,t3,bike / community / engagement,1,71,0.014085
+2024,J - Survival,gender,O,t1,days / water / bottle,5,17,0.294118
+2024,J - Survival,gender,O,t0,love / self / gifting,7,17,0.411765
+2024,J - Survival,gender,O,t2,share / food / good,1,17,0.058824
+2024,J - Survival,gender,O,t5,cup / supplies / shade,1,17,0.058824
+2024,J - Survival,gender,O,t4,weeks / cup / tent,2,17,0.117647
+2024,J - Survival,gender,O,t3,bike / community / engagement,1,17,0.058824
+2024,J - Survival,region,Local/West,t1,days / water / bottle,23,76,0.302632
+2024,J - Survival,region,Local/West,t3,bike / community / engagement,5,76,0.065789
+2024,J - Survival,region,Local/West,t0,love / self / gifting,20,76,0.263158
+2024,J - Survival,region,Local/West,t5,cup / supplies / shade,12,76,0.157895
+2024,J - Survival,region,Local/West,t2,share / food / good,4,76,0.052632
+2024,J - Survival,region,Local/West,t6,ask / days / help,4,76,0.052632
+2024,J - Survival,region,Local/West,t4,weeks / cup / tent,5,76,0.065789
+2024,J - Survival,region,Local/West,t7,emotional / support / camp,3,76,0.039474
+2024,J - Survival,region,US Other,t1,days / water / bottle,23,84,0.27381
+2024,J - Survival,region,US Other,t4,weeks / cup / tent,7,84,0.083333
+2024,J - Survival,region,US Other,t3,bike / community / engagement,5,84,0.059524
+2024,J - Survival,region,US Other,t0,love / self / gifting,31,84,0.369048
+2024,J - Survival,region,US Other,t5,cup / supplies / shade,3,84,0.035714
+2024,J - Survival,region,US Other,t2,share / food / good,7,84,0.083333
+2024,J - Survival,region,US Other,t6,ask / days / help,4,84,0.047619
+2024,J - Survival,region,US Other,t7,emotional / support / camp,4,84,0.047619
+2024,J - Survival,age_band,40s,t1,days / water / bottle,8,28,0.285714
+2024,J - Survival,age_band,40s,t3,bike / community / engagement,3,28,0.107143
+2024,J - Survival,age_band,40s,t7,emotional / support / camp,2,28,0.071429
+2024,J - Survival,age_band,40s,t0,love / self / gifting,7,28,0.25
+2024,J - Survival,age_band,40s,t2,share / food / good,2,28,0.071429
+2024,J - Survival,age_band,40s,t5,cup / supplies / shade,2,28,0.071429
+2024,J - Survival,age_band,40s,t4,weeks / cup / tent,3,28,0.107143
+2024,J - Survival,age_band,40s,t6,ask / days / help,1,28,0.035714
+2024,J - Survival,age_band,30s,t4,weeks / cup / tent,3,65,0.046154
+2024,J - Survival,age_band,30s,t0,love / self / gifting,26,65,0.4
+2024,J - Survival,age_band,30s,t5,cup / supplies / shade,5,65,0.076923
+2024,J - Survival,age_band,30s,t1,days / water / bottle,19,65,0.292308
+2024,J - Survival,age_band,30s,t6,ask / days / help,2,65,0.030769
+2024,J - Survival,age_band,30s,t7,emotional / support / camp,3,65,0.046154
+2024,J - Survival,age_band,30s,t2,share / food / good,3,65,0.046154
+2024,J - Survival,age_band,30s,t3,bike / community / engagement,4,65,0.061538
+2024,J - Survival,age_band,<30,t1,days / water / bottle,14,37,0.378378
+2024,J - Survival,age_band,<30,t4,weeks / cup / tent,4,37,0.108108
+2024,J - Survival,age_band,<30,t0,love / self / gifting,11,37,0.297297
+2024,J - Survival,age_band,<30,t6,ask / days / help,3,37,0.081081
+2024,J - Survival,age_band,<30,t2,share / food / good,1,37,0.027027
+2024,J - Survival,age_band,<30,t3,bike / community / engagement,1,37,0.027027
+2024,J - Survival,age_band,<30,t7,emotional / support / camp,1,37,0.027027
+2024,J - Survival,age_band,<30,t5,cup / supplies / shade,2,37,0.054054
+2024,J - Survival,age_band,50s,t1,days / water / bottle,3,16,0.1875
+2024,J - Survival,age_band,50s,t5,cup / supplies / shade,5,16,0.3125
+2024,J - Survival,age_band,50s,t0,love / self / gifting,4,16,0.25
+2024,J - Survival,age_band,50s,t2,share / food / good,2,16,0.125
+2024,J - Survival,age_band,50s,t4,weeks / cup / tent,2,16,0.125
+2024,J - Survival,age_band,60+,t1,days / water / bottle,4,19,0.210526
+2024,J - Survival,age_band,60+,t3,bike / community / engagement,2,19,0.105263
+2024,J - Survival,age_band,60+,t0,love / self / gifting,4,19,0.210526
+2024,J - Survival,age_band,60+,t4,weeks / cup / tent,2,19,0.105263
+2024,J - Survival,age_band,60+,t2,share / food / good,2,19,0.105263
+2024,J - Survival,age_band,60+,t6,ask / days / help,2,19,0.105263
+2024,J - Survival,age_band,60+,t7,emotional / support / camp,2,19,0.105263
+2024,J - Survival,age_band,60+,t5,cup / supplies / shade,1,19,0.052632
+2024,J - Survival,burn_statusxgender,Veteran | M,t1,days / water / bottle,4,17,0.235294
+2024,J - Survival,burn_statusxgender,Veteran | M,t3,bike / community / engagement,2,17,0.117647
+2024,J - Survival,burn_statusxgender,Veteran | M,t0,love / self / gifting,6,17,0.352941
+2024,J - Survival,burn_statusxgender,Veteran | M,t5,cup / supplies / shade,2,17,0.117647
+2024,J - Survival,burn_statusxgender,Veteran | M,t2,share / food / good,1,17,0.058824
+2024,J - Survival,burn_statusxgender,Veteran | M,t4,weeks / cup / tent,1,17,0.058824
+2024,J - Survival,burn_statusxgender,Veteran | M,t6,ask / days / help,1,17,0.058824
+2024,J - Survival,burn_statusxgender,Sophomore | F,t4,weeks / cup / tent,3,15,0.2
+2024,J - Survival,burn_statusxgender,Sophomore | F,t1,days / water / bottle,4,15,0.266667
+2024,J - Survival,burn_statusxgender,Sophomore | F,t0,love / self / gifting,4,15,0.266667
+2024,J - Survival,burn_statusxgender,Sophomore | F,t3,bike / community / engagement,1,15,0.066667
+2024,J - Survival,burn_statusxgender,Sophomore | F,t5,cup / supplies / shade,2,15,0.133333
+2024,J - Survival,burn_statusxgender,Sophomore | F,t2,share / food / good,1,15,0.066667
+2024,J - Survival,burn_statusxgender,Sophomore | M,t1,days / water / bottle,8,21,0.380952
+2024,J - Survival,burn_statusxgender,Sophomore | M,t0,love / self / gifting,10,21,0.47619
+2024,J - Survival,burn_statusxgender,Sophomore | M,t4,weeks / cup / tent,1,21,0.047619
+2024,J - Survival,burn_statusxgender,Sophomore | M,t3,bike / community / engagement,1,21,0.047619
+2024,J - Survival,burn_statusxgender,Sophomore | M,t7,emotional / support / camp,1,21,0.047619
+2024,J - Survival,burn_statusxgender,Virgin | M,t1,days / water / bottle,3,23,0.130435
+2024,J - Survival,burn_statusxgender,Virgin | M,t4,weeks / cup / tent,3,23,0.130435
+2024,J - Survival,burn_statusxgender,Virgin | M,t3,bike / community / engagement,3,23,0.130435
+2024,J - Survival,burn_statusxgender,Virgin | M,t5,cup / supplies / shade,5,23,0.217391
+2024,J - Survival,burn_statusxgender,Virgin | M,t0,love / self / gifting,5,23,0.217391
+2024,J - Survival,burn_statusxgender,Virgin | M,t6,ask / days / help,2,23,0.086957
+2024,J - Survival,burn_statusxgender,Virgin | M,t7,emotional / support / camp,1,23,0.043478
+2024,J - Survival,burn_statusxgender,Virgin | M,t2,share / food / good,1,23,0.043478
+2024,J - Survival,burn_statusxgender,Virgin | F,t0,love / self / gifting,8,21,0.380952
+2024,J - Survival,burn_statusxgender,Virgin | F,t7,emotional / support / camp,1,21,0.047619
+2024,J - Survival,burn_statusxgender,Virgin | F,t5,cup / supplies / shade,2,21,0.095238
+2024,J - Survival,burn_statusxgender,Virgin | F,t1,days / water / bottle,4,21,0.190476
+2024,J - Survival,burn_statusxgender,Virgin | F,t6,ask / days / help,3,21,0.142857
+2024,J - Survival,burn_statusxgender,Virgin | F,t2,share / food / good,2,21,0.095238
+2024,J - Survival,burn_statusxgender,Virgin | F,t4,weeks / cup / tent,1,21,0.047619
+2024,J - Survival,burn_statusxgender,Veteran | F,t0,love / self / gifting,2,15,0.133333
+2024,J - Survival,burn_statusxgender,Veteran | F,t2,share / food / good,1,15,0.066667
+2024,J - Survival,burn_statusxgender,Veteran | F,t1,days / water / bottle,9,15,0.6
+2024,J - Survival,burn_statusxgender,Veteran | F,t5,cup / supplies / shade,1,15,0.066667
+2024,J - Survival,burn_statusxgender,Veteran | F,t4,weeks / cup / tent,2,15,0.133333
+2024,J - Survival,burn_statusxregion,Veteran | Local/West,t1,days / water / bottle,6,16,0.375
+2024,J - Survival,burn_statusxregion,Veteran | Local/West,t3,bike / community / engagement,1,16,0.0625
+2024,J - Survival,burn_statusxregion,Veteran | Local/West,t0,love / self / gifting,2,16,0.125
+2024,J - Survival,burn_statusxregion,Veteran | Local/West,t5,cup / supplies / shade,3,16,0.1875
+2024,J - Survival,burn_statusxregion,Veteran | Local/West,t2,share / food / good,1,16,0.0625
+2024,J - Survival,burn_statusxregion,Veteran | Local/West,t4,weeks / cup / tent,2,16,0.125
+2024,J - Survival,burn_statusxregion,Veteran | Local/West,t6,ask / days / help,1,16,0.0625
+2024,J - Survival,burn_statusxregion,Sophomore | Local/West,t1,days / water / bottle,9,20,0.45
+2024,J - Survival,burn_statusxregion,Sophomore | Local/West,t0,love / self / gifting,6,20,0.3
+2024,J - Survival,burn_statusxregion,Sophomore | Local/West,t3,bike / community / engagement,1,20,0.05
+2024,J - Survival,burn_statusxregion,Sophomore | Local/West,t4,weeks / cup / tent,1,20,0.05
+2024,J - Survival,burn_statusxregion,Sophomore | Local/West,t7,emotional / support / camp,1,20,0.05
+2024,J - Survival,burn_statusxregion,Sophomore | Local/West,t5,cup / supplies / shade,2,20,0.1
+2024,J - Survival,burn_statusxregion,Sophomore | US Other,t1,days / water / bottle,4,18,0.222222
+2024,J - Survival,burn_statusxregion,Sophomore | US Other,t4,weeks / cup / tent,2,18,0.111111
+2024,J - Survival,burn_statusxregion,Sophomore | US Other,t0,love / self / gifting,9,18,0.5
+2024,J - Survival,burn_statusxregion,Sophomore | US Other,t3,bike / community / engagement,1,18,0.055556
+2024,J - Survival,burn_statusxregion,Sophomore | US Other,t7,emotional / support / camp,1,18,0.055556
+2024,J - Survival,burn_statusxregion,Sophomore | US Other,t2,share / food / good,1,18,0.055556
+2024,J - Survival,burn_statusxregion,Virgin | Local/West,t1,days / water / bottle,3,21,0.142857
+2024,J - Survival,burn_statusxregion,Virgin | Local/West,t5,cup / supplies / shade,6,21,0.285714
+2024,J - Survival,burn_statusxregion,Virgin | Local/West,t0,love / self / gifting,5,21,0.238095
+2024,J - Survival,burn_statusxregion,Virgin | Local/West,t2,share / food / good,2,21,0.095238
+2024,J - Survival,burn_statusxregion,Virgin | Local/West,t6,ask / days / help,2,21,0.095238
+2024,J - Survival,burn_statusxregion,Virgin | Local/West,t3,bike / community / engagement,2,21,0.095238
+2024,J - Survival,burn_statusxregion,Virgin | Local/West,t4,weeks / cup / tent,1,21,0.047619
+2024,J - Survival,burn_statusxregion,Virgin | US Other,t4,weeks / cup / tent,3,24,0.125
+2024,J - Survival,burn_statusxregion,Virgin | US Other,t3,bike / community / engagement,1,24,0.041667
+2024,J - Survival,burn_statusxregion,Virgin | US Other,t0,love / self / gifting,8,24,0.333333
+2024,J - Survival,burn_statusxregion,Virgin | US Other,t5,cup / supplies / shade,1,24,0.041667
+2024,J - Survival,burn_statusxregion,Virgin | US Other,t1,days / water / bottle,5,24,0.208333
+2024,J - Survival,burn_statusxregion,Virgin | US Other,t6,ask / days / help,3,24,0.125
+2024,J - Survival,burn_statusxregion,Virgin | US Other,t2,share / food / good,2,24,0.083333
+2024,J - Survival,burn_statusxregion,Virgin | US Other,t7,emotional / support / camp,1,24,0.041667
+2024,J - Survival,burn_statusxregion,Veteran | US Other,t1,days / water / bottle,9,22,0.409091
+2024,J - Survival,burn_statusxregion,Veteran | US Other,t2,share / food / good,2,22,0.090909
+2024,J - Survival,burn_statusxregion,Veteran | US Other,t0,love / self / gifting,7,22,0.318182
+2024,J - Survival,burn_statusxregion,Veteran | US Other,t4,weeks / cup / tent,1,22,0.045455
+2024,J - Survival,burn_statusxregion,Veteran | US Other,t3,bike / community / engagement,2,22,0.090909
+2024,J - Survival,burn_statusxregion,Veteran | US Other,t5,cup / supplies / shade,1,22,0.045455
+2024,J - Survival,genderxregion,M | Local/West,t1,days / water / bottle,10,36,0.277778
+2024,J - Survival,genderxregion,M | Local/West,t3,bike / community / engagement,4,36,0.111111
+2024,J - Survival,genderxregion,M | Local/West,t0,love / self / gifting,9,36,0.25
+2024,J - Survival,genderxregion,M | Local/West,t5,cup / supplies / shade,6,36,0.166667
+2024,J - Survival,genderxregion,M | Local/West,t2,share / food / good,1,36,0.027778
+2024,J - Survival,genderxregion,M | Local/West,t6,ask / days / help,2,36,0.055556
+2024,J - Survival,genderxregion,M | Local/West,t4,weeks / cup / tent,2,36,0.055556
+2024,J - Survival,genderxregion,M | Local/West,t7,emotional / support / camp,2,36,0.055556
+2024,J - Survival,genderxregion,M | US Other,t1,days / water / bottle,8,36,0.222222
+2024,J - Survival,genderxregion,M | US Other,t4,weeks / cup / tent,3,36,0.083333
+2024,J - Survival,genderxregion,M | US Other,t3,bike / community / engagement,4,36,0.111111
+2024,J - Survival,genderxregion,M | US Other,t5,cup / supplies / shade,2,36,0.055556
+2024,J - Survival,genderxregion,M | US Other,t0,love / self / gifting,14,36,0.388889
+2024,J - Survival,genderxregion,M | US Other,t7,emotional / support / camp,2,36,0.055556
+2024,J - Survival,genderxregion,M | US Other,t2,share / food / good,2,36,0.055556
+2024,J - Survival,genderxregion,M | US Other,t6,ask / days / help,1,36,0.027778
+2024,J - Survival,genderxregion,F | Local/West,t1,days / water / bottle,11,31,0.354839
+2024,J - Survival,genderxregion,F | Local/West,t5,cup / supplies / shade,5,31,0.16129
+2024,J - Survival,genderxregion,F | Local/West,t0,love / self / gifting,7,31,0.225806
+2024,J - Survival,genderxregion,F | Local/West,t4,weeks / cup / tent,3,31,0.096774
+2024,J - Survival,genderxregion,F | Local/West,t2,share / food / good,1,31,0.032258
+2024,J - Survival,genderxregion,F | Local/West,t3,bike / community / engagement,1,31,0.032258
+2024,J - Survival,genderxregion,F | Local/West,t6,ask / days / help,2,31,0.064516
+2024,J - Survival,genderxregion,F | Local/West,t7,emotional / support / camp,1,31,0.032258
+2024,J - Survival,genderxregion,F | US Other,t1,days / water / bottle,12,36,0.333333
+2024,J - Survival,genderxregion,F | US Other,t0,love / self / gifting,12,36,0.333333
+2024,J - Survival,genderxregion,F | US Other,t2,share / food / good,5,36,0.138889
+2024,J - Survival,genderxregion,F | US Other,t4,weeks / cup / tent,2,36,0.055556
+2024,J - Survival,genderxregion,F | US Other,t6,ask / days / help,3,36,0.083333
+2024,J - Survival,genderxregion,F | US Other,t5,cup / supplies / shade,1,36,0.027778
+2024,J - Survival,genderxregion,F | US Other,t7,emotional / support / camp,1,36,0.027778
+2024,B - Symbolism,burn_status,Veteran,t4,place / love / community,28,30,0.933333
+2024,B - Symbolism,burn_status,Veteran,t6,ashes / faith / there,1,30,0.033333
+2024,B - Symbolism,burn_status,Veteran,t1,creating / expression / humanity,1,30,0.033333
+2024,B - Symbolism,burn_status,Unknown,t4,place / love / community,32,33,0.969697
+2024,B - Symbolism,burn_status,Unknown,t7,freedom / emotional,1,33,0.030303
+2024,B - Symbolism,burn_status,Virgin,t4,place / love / community,43,44,0.977273
+2024,B - Symbolism,burn_status,Virgin,t5,art / non / space,1,44,0.022727
+2024,B - Symbolism,burn_status,Sophomore,t4,place / love / community,38,44,0.863636
+2024,B - Symbolism,burn_status,Sophomore,t3,stories / here / there,1,44,0.022727
+2024,B - Symbolism,burn_status,Sophomore,t5,art / non / space,1,44,0.022727
+2024,B - Symbolism,burn_status,Sophomore,t2,show / healing / represents,1,44,0.022727
+2024,B - Symbolism,burn_status,Sophomore,t0,away / others / free,1,44,0.022727
+2024,B - Symbolism,burn_status,Sophomore,t7,freedom / emotional,2,44,0.045455
+2024,B - Symbolism,gender,F,t4,place / love / community,54,58,0.931034
+2024,B - Symbolism,gender,F,t6,ashes / faith / there,1,58,0.017241
+2024,B - Symbolism,gender,F,t5,art / non / space,1,58,0.017241
+2024,B - Symbolism,gender,F,t7,freedom / emotional,2,58,0.034483
+2024,B - Symbolism,gender,O,t4,place / love / community,38,39,0.974359
+2024,B - Symbolism,gender,O,t1,creating / expression / humanity,1,39,0.025641
+2024,B - Symbolism,gender,M,t4,place / love / community,58,63,0.920635
+2024,B - Symbolism,gender,M,t7,freedom / emotional,1,63,0.015873
+2024,B - Symbolism,gender,M,t3,stories / here / there,1,63,0.015873
+2024,B - Symbolism,gender,M,t5,art / non / space,1,63,0.015873
+2024,B - Symbolism,gender,M,t2,show / healing / represents,1,63,0.015873
+2024,B - Symbolism,gender,M,t0,away / others / free,1,63,0.015873
+2024,B - Symbolism,region,Local/West,t4,place / love / community,58,64,0.90625
+2024,B - Symbolism,region,Local/West,t5,art / non / space,2,64,0.03125
+2024,B - Symbolism,region,Local/West,t2,show / healing / represents,1,64,0.015625
+2024,B - Symbolism,region,Local/West,t1,creating / expression / humanity,1,64,0.015625
+2024,B - Symbolism,region,Local/West,t7,freedom / emotional,2,64,0.03125
+2024,B - Symbolism,region,US Other,t4,place / love / community,78,82,0.95122
+2024,B - Symbolism,region,US Other,t7,freedom / emotional,1,82,0.012195
+2024,B - Symbolism,region,US Other,t3,stories / here / there,1,82,0.012195
+2024,B - Symbolism,region,US Other,t6,ashes / faith / there,1,82,0.012195
+2024,B - Symbolism,region,US Other,t0,away / others / free,1,82,0.012195
+2024,B - Symbolism,age_band,40s,t4,place / love / community,26,26,1.0
+2024,B - Symbolism,age_band,<30,t4,place / love / community,23,24,0.958333
+2024,B - Symbolism,age_band,<30,t5,art / non / space,1,24,0.041667
+2024,B - Symbolism,age_band,30s,t4,place / love / community,66,74,0.891892
+2024,B - Symbolism,age_band,30s,t7,freedom / emotional,3,74,0.040541
+2024,B - Symbolism,age_band,30s,t3,stories / here / there,1,74,0.013514
+2024,B - Symbolism,age_band,30s,t5,art / non / space,1,74,0.013514
+2024,B - Symbolism,age_band,30s,t2,show / healing / represents,1,74,0.013514
+2024,B - Symbolism,age_band,30s,t0,away / others / free,1,74,0.013514
+2024,B - Symbolism,age_band,30s,t1,creating / expression / humanity,1,74,0.013514
+2024,B - Symbolism,burn_statusxgender,Veteran | F,t4,place / love / community,15,16,0.9375
+2024,B - Symbolism,burn_statusxgender,Veteran | F,t6,ashes / faith / there,1,16,0.0625
+2024,B - Symbolism,burn_statusxgender,Unknown | O,t4,place / love / community,16,16,1.0
+2024,B - Symbolism,burn_statusxgender,Sophomore | M,t4,place / love / community,19,23,0.826087
+2024,B - Symbolism,burn_statusxgender,Sophomore | M,t3,stories / here / there,1,23,0.043478
+2024,B - Symbolism,burn_statusxgender,Sophomore | M,t5,art / non / space,1,23,0.043478
+2024,B - Symbolism,burn_statusxgender,Sophomore | M,t2,show / healing / represents,1,23,0.043478
+2024,B - Symbolism,burn_statusxgender,Sophomore | M,t0,away / others / free,1,23,0.043478
+2024,B - Symbolism,burn_statusxgender,Virgin | F,t4,place / love / community,15,16,0.9375
+2024,B - Symbolism,burn_statusxgender,Virgin | F,t5,art / non / space,1,16,0.0625
+2024,B - Symbolism,burn_statusxgender,Sophomore | F,t4,place / love / community,13,15,0.866667
+2024,B - Symbolism,burn_statusxgender,Sophomore | F,t7,freedom / emotional,2,15,0.133333
+2024,B - Symbolism,burn_statusxgender,Virgin | M,t4,place / love / community,19,19,1.0
+2024,B - Symbolism,burn_statusxregion,Veteran | Local/West,t4,place / love / community,17,18,0.944444
+2024,B - Symbolism,burn_statusxregion,Veteran | Local/West,t1,creating / expression / humanity,1,18,0.055556
+2024,B - Symbolism,burn_statusxregion,Unknown | US Other,t4,place / love / community,21,22,0.954545
+2024,B - Symbolism,burn_statusxregion,Unknown | US Other,t7,freedom / emotional,1,22,0.045455
+2024,B - Symbolism,burn_statusxregion,Virgin | US Other,t4,place / love / community,22,22,1.0
+2024,B - Symbolism,burn_statusxregion,Virgin | Local/West,t4,place / love / community,15,16,0.9375
+2024,B - Symbolism,burn_statusxregion,Virgin | Local/West,t5,art / non / space,1,16,0.0625
+2024,B - Symbolism,burn_statusxregion,Sophomore | Local/West,t4,place / love / community,12,16,0.75
+2024,B - Symbolism,burn_statusxregion,Sophomore | Local/West,t5,art / non / space,1,16,0.0625
+2024,B - Symbolism,burn_statusxregion,Sophomore | Local/West,t2,show / healing / represents,1,16,0.0625
+2024,B - Symbolism,burn_statusxregion,Sophomore | Local/West,t7,freedom / emotional,2,16,0.125
+2024,B - Symbolism,burn_statusxregion,Sophomore | US Other,t4,place / love / community,19,21,0.904762
+2024,B - Symbolism,burn_statusxregion,Sophomore | US Other,t3,stories / here / there,1,21,0.047619
+2024,B - Symbolism,burn_statusxregion,Sophomore | US Other,t0,away / others / free,1,21,0.047619
+2024,B - Symbolism,genderxregion,F | Local/West,t4,place / love / community,30,33,0.909091
+2024,B - Symbolism,genderxregion,F | Local/West,t5,art / non / space,1,33,0.030303
+2024,B - Symbolism,genderxregion,F | Local/West,t7,freedom / emotional,2,33,0.060606
+2024,B - Symbolism,genderxregion,O | US Other,t4,place / love / community,23,23,1.0
+2024,B - Symbolism,genderxregion,F | US Other,t4,place / love / community,20,21,0.952381
+2024,B - Symbolism,genderxregion,F | US Other,t6,ashes / faith / there,1,21,0.047619
+2024,B - Symbolism,genderxregion,M | US Other,t4,place / love / community,35,38,0.921053
+2024,B - Symbolism,genderxregion,M | US Other,t7,freedom / emotional,1,38,0.026316
+2024,B - Symbolism,genderxregion,M | US Other,t3,stories / here / there,1,38,0.026316
+2024,B - Symbolism,genderxregion,M | US Other,t0,away / others / free,1,38,0.026316
+2024,B - Symbolism,genderxregion,M | Local/West,t4,place / love / community,15,17,0.882353
+2024,B - Symbolism,genderxregion,M | Local/West,t5,art / non / space,1,17,0.058824
+2024,B - Symbolism,genderxregion,M | Local/West,t2,show / healing / represents,1,17,0.058824
+2024,A - Transformation,burn_status,Veteran,t1,first / here / still,2,27,0.074074
+2024,A - Transformation,burn_status,Veteran,t9,was / open / way,12,27,0.444444
+2024,A - Transformation,burn_status,Veteran,t2,gradual / new / learn,2,27,0.074074
+2024,A - Transformation,burn_status,Veteran,t6,being / myself / expectations,3,27,0.111111
+2024,A - Transformation,burn_status,Veteran,t4,more / sudden / acceptance,4,27,0.148148
+2024,A - Transformation,burn_status,Veteran,t3,camp / maybe / creative,2,27,0.074074
+2024,A - Transformation,burn_status,Veteran,t8,love / creativity / more,1,27,0.037037
+2024,A - Transformation,burn_status,Veteran,t5,sure / every / experience,1,27,0.037037
+2024,A - Transformation,burn_status,Virgin,t2,gradual / new / learn,8,43,0.186047
+2024,A - Transformation,burn_status,Virgin,t4,more / sudden / acceptance,1,43,0.023256
+2024,A - Transformation,burn_status,Virgin,t5,sure / every / experience,6,43,0.139535
+2024,A - Transformation,burn_status,Virgin,t1,first / here / still,8,43,0.186047
+2024,A - Transformation,burn_status,Virgin,t3,camp / maybe / creative,5,43,0.116279
+2024,A - Transformation,burn_status,Virgin,t6,being / myself / expectations,5,43,0.116279
+2024,A - Transformation,burn_status,Virgin,t8,love / creativity / more,2,43,0.046512
+2024,A - Transformation,burn_status,Virgin,t9,was / open / way,5,43,0.116279
+2024,A - Transformation,burn_status,Virgin,t7,will / costumes / yet,3,43,0.069767
+2024,A - Transformation,burn_status,Sophomore,t9,was / open / way,4,24,0.166667
+2024,A - Transformation,burn_status,Sophomore,t6,being / myself / expectations,5,24,0.208333
+2024,A - Transformation,burn_status,Sophomore,t3,camp / maybe / creative,4,24,0.166667
+2024,A - Transformation,burn_status,Sophomore,t4,more / sudden / acceptance,3,24,0.125
+2024,A - Transformation,burn_status,Sophomore,t8,love / creativity / more,5,24,0.208333
+2024,A - Transformation,burn_status,Sophomore,t0,let / burns / treat,1,24,0.041667
+2024,A - Transformation,burn_status,Sophomore,t5,sure / every / experience,1,24,0.041667
+2024,A - Transformation,burn_status,Sophomore,t7,will / costumes / yet,1,24,0.041667
+2024,A - Transformation,gender,F,t1,first / here / still,6,43,0.139535
+2024,A - Transformation,gender,F,t4,more / sudden / acceptance,7,43,0.162791
+2024,A - Transformation,gender,F,t2,gradual / new / learn,3,43,0.069767
+2024,A - Transformation,gender,F,t6,being / myself / expectations,6,43,0.139535
+2024,A - Transformation,gender,F,t9,was / open / way,11,43,0.255814
+2024,A - Transformation,gender,F,t0,let / burns / treat,1,43,0.023256
+2024,A - Transformation,gender,F,t8,love / creativity / more,3,43,0.069767
+2024,A - Transformation,gender,F,t5,sure / every / experience,2,43,0.046512
+2024,A - Transformation,gender,F,t3,camp / maybe / creative,2,43,0.046512
+2024,A - Transformation,gender,F,t7,will / costumes / yet,2,43,0.046512
+2024,A - Transformation,gender,M,t9,was / open / way,12,59,0.20339
+2024,A - Transformation,gender,M,t4,more / sudden / acceptance,7,59,0.118644
+2024,A - Transformation,gender,M,t5,sure / every / experience,6,59,0.101695
+2024,A - Transformation,gender,M,t2,gradual / new / learn,8,59,0.135593
+2024,A - Transformation,gender,M,t3,camp / maybe / creative,11,59,0.186441
+2024,A - Transformation,gender,M,t6,being / myself / expectations,5,59,0.084746
+2024,A - Transformation,gender,M,t1,first / here / still,2,59,0.033898
+2024,A - Transformation,gender,M,t8,love / creativity / more,5,59,0.084746
+2024,A - Transformation,gender,M,t0,let / burns / treat,1,59,0.016949
+2024,A - Transformation,gender,M,t7,will / costumes / yet,2,59,0.033898
+2024,A - Transformation,region,Local/West,t1,first / here / still,4,54,0.074074
+2024,A - Transformation,region,Local/West,t4,more / sudden / acceptance,11,54,0.203704
+2024,A - Transformation,region,Local/West,t9,was / open / way,8,54,0.148148
+2024,A - Transformation,region,Local/West,t6,being / myself / expectations,11,54,0.203704
+2024,A - Transformation,region,Local/West,t5,sure / every / experience,5,54,0.092593
+2024,A - Transformation,region,Local/West,t3,camp / maybe / creative,8,54,0.148148
+2024,A - Transformation,region,Local/West,t2,gradual / new / learn,5,54,0.092593
+2024,A - Transformation,region,Local/West,t0,let / burns / treat,1,54,0.018519
+2024,A - Transformation,region,Local/West,t8,love / creativity / more,1,54,0.018519
+2024,A - Transformation,region,US Other,t9,was / open / way,20,53,0.377358
+2024,A - Transformation,region,US Other,t2,gradual / new / learn,4,53,0.075472
+2024,A - Transformation,region,US Other,t5,sure / every / experience,3,53,0.056604
+2024,A - Transformation,region,US Other,t3,camp / maybe / creative,5,53,0.09434
+2024,A - Transformation,region,US Other,t0,let / burns / treat,1,53,0.018868
+2024,A - Transformation,region,US Other,t6,being / myself / expectations,4,53,0.075472
+2024,A - Transformation,region,US Other,t8,love / creativity / more,7,53,0.132075
+2024,A - Transformation,region,US Other,t4,more / sudden / acceptance,2,53,0.037736
+2024,A - Transformation,region,US Other,t7,will / costumes / yet,2,53,0.037736
+2024,A - Transformation,region,US Other,t1,first / here / still,5,53,0.09434
+2024,A - Transformation,age_band,30s,t1,first / here / still,4,42,0.095238
+2024,A - Transformation,age_band,30s,t9,was / open / way,13,42,0.309524
+2024,A - Transformation,age_band,30s,t4,more / sudden / acceptance,5,42,0.119048
+2024,A - Transformation,age_band,30s,t2,gradual / new / learn,2,42,0.047619
+2024,A - Transformation,age_band,30s,t6,being / myself / expectations,8,42,0.190476
+2024,A - Transformation,age_band,30s,t5,sure / every / experience,2,42,0.047619
+2024,A - Transformation,age_band,30s,t3,camp / maybe / creative,3,42,0.071429
+2024,A - Transformation,age_band,30s,t0,let / burns / treat,1,42,0.02381
+2024,A - Transformation,age_band,30s,t8,love / creativity / more,2,42,0.047619
+2024,A - Transformation,age_band,30s,t7,will / costumes / yet,2,42,0.047619
+2024,A - Transformation,age_band,<30,t4,more / sudden / acceptance,1,21,0.047619
+2024,A - Transformation,age_band,<30,t3,camp / maybe / creative,4,21,0.190476
+2024,A - Transformation,age_band,<30,t0,let / burns / treat,1,21,0.047619
+2024,A - Transformation,age_band,<30,t6,being / myself / expectations,3,21,0.142857
+2024,A - Transformation,age_band,<30,t5,sure / every / experience,3,21,0.142857
+2024,A - Transformation,age_band,<30,t1,first / here / still,4,21,0.190476
+2024,A - Transformation,age_band,<30,t2,gradual / new / learn,3,21,0.142857
+2024,A - Transformation,age_band,<30,t9,was / open / way,2,21,0.095238
+2024,A - Transformation,age_band,40s,t2,gradual / new / learn,2,24,0.083333
+2024,A - Transformation,age_band,40s,t9,was / open / way,6,24,0.25
+2024,A - Transformation,age_band,40s,t6,being / myself / expectations,2,24,0.083333
+2024,A - Transformation,age_band,40s,t4,more / sudden / acceptance,1,24,0.041667
+2024,A - Transformation,age_band,40s,t3,camp / maybe / creative,4,24,0.166667
+2024,A - Transformation,age_band,40s,t0,let / burns / treat,1,24,0.041667
+2024,A - Transformation,age_band,40s,t8,love / creativity / more,4,24,0.166667
+2024,A - Transformation,age_band,40s,t1,first / here / still,2,24,0.083333
+2024,A - Transformation,age_band,40s,t5,sure / every / experience,1,24,0.041667
+2024,A - Transformation,age_band,40s,t7,will / costumes / yet,1,24,0.041667
+2024,A - Transformation,burn_statusxgender,Virgin | F,t2,gradual / new / learn,3,17,0.176471
+2024,A - Transformation,burn_statusxgender,Virgin | F,t6,being / myself / expectations,2,17,0.117647
+2024,A - Transformation,burn_statusxgender,Virgin | F,t8,love / creativity / more,1,17,0.058824
+2024,A - Transformation,burn_statusxgender,Virgin | F,t9,was / open / way,3,17,0.176471
+2024,A - Transformation,burn_statusxgender,Virgin | F,t1,first / here / still,5,17,0.294118
+2024,A - Transformation,burn_statusxgender,Virgin | F,t3,camp / maybe / creative,1,17,0.058824
+2024,A - Transformation,burn_statusxgender,Virgin | F,t5,sure / every / experience,1,17,0.058824
+2024,A - Transformation,burn_statusxgender,Virgin | F,t7,will / costumes / yet,1,17,0.058824
+2024,A - Transformation,burn_statusxgender,Virgin | M,t4,more / sudden / acceptance,1,24,0.041667
+2024,A - Transformation,burn_statusxgender,Virgin | M,t5,sure / every / experience,5,24,0.208333
+2024,A - Transformation,burn_statusxgender,Virgin | M,t2,gradual / new / learn,5,24,0.208333
+2024,A - Transformation,burn_statusxgender,Virgin | M,t1,first / here / still,2,24,0.083333
+2024,A - Transformation,burn_statusxgender,Virgin | M,t3,camp / maybe / creative,4,24,0.166667
+2024,A - Transformation,burn_statusxgender,Virgin | M,t9,was / open / way,2,24,0.083333
+2024,A - Transformation,burn_statusxgender,Virgin | M,t7,will / costumes / yet,2,24,0.083333
+2024,A - Transformation,burn_statusxgender,Virgin | M,t8,love / creativity / more,1,24,0.041667
+2024,A - Transformation,burn_statusxgender,Virgin | M,t6,being / myself / expectations,2,24,0.083333
+2024,A - Transformation,burn_statusxregion,Veteran | Local/West,t1,first / here / still,2,17,0.117647
+2024,A - Transformation,burn_statusxregion,Veteran | Local/West,t9,was / open / way,4,17,0.235294
+2024,A - Transformation,burn_statusxregion,Veteran | Local/West,t6,being / myself / expectations,2,17,0.117647
+2024,A - Transformation,burn_statusxregion,Veteran | Local/West,t4,more / sudden / acceptance,4,17,0.235294
+2024,A - Transformation,burn_statusxregion,Veteran | Local/West,t2,gradual / new / learn,1,17,0.058824
+2024,A - Transformation,burn_statusxregion,Veteran | Local/West,t3,camp / maybe / creative,2,17,0.117647
+2024,A - Transformation,burn_statusxregion,Veteran | Local/West,t8,love / creativity / more,1,17,0.058824
+2024,A - Transformation,burn_statusxregion,Veteran | Local/West,t5,sure / every / experience,1,17,0.058824
+2024,A - Transformation,burn_statusxregion,Virgin | US Other,t2,gradual / new / learn,3,19,0.157895
+2024,A - Transformation,burn_statusxregion,Virgin | US Other,t5,sure / every / experience,3,19,0.157895
+2024,A - Transformation,burn_statusxregion,Virgin | US Other,t8,love / creativity / more,2,19,0.105263
+2024,A - Transformation,burn_statusxregion,Virgin | US Other,t9,was / open / way,3,19,0.157895
+2024,A - Transformation,burn_statusxregion,Virgin | US Other,t3,camp / maybe / creative,1,19,0.052632
+2024,A - Transformation,burn_statusxregion,Virgin | US Other,t7,will / costumes / yet,1,19,0.052632
+2024,A - Transformation,burn_statusxregion,Virgin | US Other,t1,first / here / still,5,19,0.263158
+2024,A - Transformation,burn_statusxregion,Virgin | US Other,t6,being / myself / expectations,1,19,0.052632
+2024,A - Transformation,burn_statusxregion,Virgin | Local/West,t5,sure / every / experience,3,16,0.1875
+2024,A - Transformation,burn_statusxregion,Virgin | Local/West,t1,first / here / still,2,16,0.125
+2024,A - Transformation,burn_statusxregion,Virgin | Local/West,t3,camp / maybe / creative,3,16,0.1875
+2024,A - Transformation,burn_statusxregion,Virgin | Local/West,t6,being / myself / expectations,4,16,0.25
+2024,A - Transformation,burn_statusxregion,Virgin | Local/West,t2,gradual / new / learn,3,16,0.1875
+2024,A - Transformation,burn_statusxregion,Virgin | Local/West,t9,was / open / way,1,16,0.0625
+2024,A - Transformation,genderxregion,F | Local/West,t1,first / here / still,1,20,0.05
+2024,A - Transformation,genderxregion,F | Local/West,t4,more / sudden / acceptance,7,20,0.35
+2024,A - Transformation,genderxregion,F | Local/West,t6,being / myself / expectations,5,20,0.25
+2024,A - Transformation,genderxregion,F | Local/West,t9,was / open / way,2,20,0.1
+2024,A - Transformation,genderxregion,F | Local/West,t0,let / burns / treat,1,20,0.05
+2024,A - Transformation,genderxregion,F | Local/West,t5,sure / every / experience,1,20,0.05
+2024,A - Transformation,genderxregion,F | Local/West,t8,love / creativity / more,1,20,0.05
+2024,A - Transformation,genderxregion,F | Local/West,t3,camp / maybe / creative,1,20,0.05
+2024,A - Transformation,genderxregion,F | Local/West,t2,gradual / new / learn,1,20,0.05
+2024,A - Transformation,genderxregion,M | US Other,t9,was / open / way,7,27,0.259259
+2024,A - Transformation,genderxregion,M | US Other,t5,sure / every / experience,2,27,0.074074
+2024,A - Transformation,genderxregion,M | US Other,t3,camp / maybe / creative,5,27,0.185185
+2024,A - Transformation,genderxregion,M | US Other,t2,gradual / new / learn,3,27,0.111111
+2024,A - Transformation,genderxregion,M | US Other,t8,love / creativity / more,5,27,0.185185
+2024,A - Transformation,genderxregion,M | US Other,t4,more / sudden / acceptance,2,27,0.074074
+2024,A - Transformation,genderxregion,M | US Other,t7,will / costumes / yet,1,27,0.037037
+2024,A - Transformation,genderxregion,M | US Other,t6,being / myself / expectations,2,27,0.074074
+2024,A - Transformation,genderxregion,F | US Other,t2,gradual / new / learn,1,16,0.0625
+2024,A - Transformation,genderxregion,F | US Other,t6,being / myself / expectations,1,16,0.0625
+2024,A - Transformation,genderxregion,F | US Other,t9,was / open / way,8,16,0.5
+2024,A - Transformation,genderxregion,F | US Other,t8,love / creativity / more,1,16,0.0625
+2024,A - Transformation,genderxregion,F | US Other,t1,first / here / still,4,16,0.25
+2024,A - Transformation,genderxregion,F | US Other,t5,sure / every / experience,1,16,0.0625
+2024,A - Transformation,genderxregion,M | Local/West,t9,was / open / way,5,28,0.178571
+2024,A - Transformation,genderxregion,M | Local/West,t5,sure / every / experience,4,28,0.142857
+2024,A - Transformation,genderxregion,M | Local/West,t6,being / myself / expectations,3,28,0.107143
+2024,A - Transformation,genderxregion,M | Local/West,t4,more / sudden / acceptance,4,28,0.142857
+2024,A - Transformation,genderxregion,M | Local/West,t1,first / here / still,2,28,0.071429
+2024,A - Transformation,genderxregion,M | Local/West,t3,camp / maybe / creative,6,28,0.214286
+2024,A - Transformation,genderxregion,M | Local/West,t2,gradual / new / learn,4,28,0.142857
+2024,M - Sustainability,burn_status,Virgin,t6,all / much / yeah,3,35,0.085714
+2024,M - Sustainability,burn_status,Virgin,t7,less / gray / more,6,35,0.171429
+2024,M - Sustainability,burn_status,Virgin,t1,sustainability / would / waste,5,35,0.142857
+2024,M - Sustainability,burn_status,Virgin,t3,more / absolutely / how,6,35,0.171429
+2024,M - Sustainability,burn_status,Virgin,t2,don / enough / doubt,2,35,0.057143
+2024,M - Sustainability,burn_status,Virgin,t4,here / some / maybe,6,35,0.171429
+2024,M - Sustainability,burn_status,Virgin,t0,yet / both / such,4,35,0.114286
+2024,M - Sustainability,burn_status,Virgin,t5,solar / default / more,3,35,0.085714
+2024,M - Sustainability,burn_status,Sophomore,t1,sustainability / would / waste,4,30,0.133333
+2024,M - Sustainability,burn_status,Sophomore,t3,more / absolutely / how,4,30,0.133333
+2024,M - Sustainability,burn_status,Sophomore,t5,solar / default / more,6,30,0.2
+2024,M - Sustainability,burn_status,Sophomore,t4,here / some / maybe,5,30,0.166667
+2024,M - Sustainability,burn_status,Sophomore,t6,all / much / yeah,2,30,0.066667
+2024,M - Sustainability,burn_status,Sophomore,t2,don / enough / doubt,3,30,0.1
+2024,M - Sustainability,burn_status,Sophomore,t0,yet / both / such,4,30,0.133333
+2024,M - Sustainability,burn_status,Sophomore,t7,less / gray / more,2,30,0.066667
+2024,M - Sustainability,burn_status,Veteran,t3,more / absolutely / how,5,33,0.151515
+2024,M - Sustainability,burn_status,Veteran,t7,less / gray / more,3,33,0.090909
+2024,M - Sustainability,burn_status,Veteran,t1,sustainability / would / waste,4,33,0.121212
+2024,M - Sustainability,burn_status,Veteran,t6,all / much / yeah,3,33,0.090909
+2024,M - Sustainability,burn_status,Veteran,t4,here / some / maybe,5,33,0.151515
+2024,M - Sustainability,burn_status,Veteran,t5,solar / default / more,8,33,0.242424
+2024,M - Sustainability,burn_status,Veteran,t2,don / enough / doubt,2,33,0.060606
+2024,M - Sustainability,burn_status,Veteran,t0,yet / both / such,3,33,0.090909
+2024,M - Sustainability,gender,F,t6,all / much / yeah,7,47,0.148936
+2024,M - Sustainability,gender,F,t5,solar / default / more,7,47,0.148936
+2024,M - Sustainability,gender,F,t1,sustainability / would / waste,6,47,0.12766
+2024,M - Sustainability,gender,F,t7,less / gray / more,3,47,0.06383
+2024,M - Sustainability,gender,F,t3,more / absolutely / how,6,47,0.12766
+2024,M - Sustainability,gender,F,t4,here / some / maybe,7,47,0.148936
+2024,M - Sustainability,gender,F,t2,don / enough / doubt,4,47,0.085106
+2024,M - Sustainability,gender,F,t0,yet / both / such,7,47,0.148936
+2024,M - Sustainability,gender,M,t1,sustainability / would / waste,10,53,0.188679
+2024,M - Sustainability,gender,M,t3,more / absolutely / how,7,53,0.132075
+2024,M - Sustainability,gender,M,t7,less / gray / more,6,53,0.113208
+2024,M - Sustainability,gender,M,t6,all / much / yeah,4,53,0.075472
+2024,M - Sustainability,gender,M,t5,solar / default / more,11,53,0.207547
+2024,M - Sustainability,gender,M,t4,here / some / maybe,6,53,0.113208
+2024,M - Sustainability,gender,M,t0,yet / both / such,5,53,0.09434
+2024,M - Sustainability,gender,M,t2,don / enough / doubt,4,53,0.075472
+2024,M - Sustainability,gender,O,t3,more / absolutely / how,4,22,0.181818
+2024,M - Sustainability,gender,O,t4,here / some / maybe,4,22,0.181818
+2024,M - Sustainability,gender,O,t6,all / much / yeah,2,22,0.090909
+2024,M - Sustainability,gender,O,t7,less / gray / more,4,22,0.181818
+2024,M - Sustainability,gender,O,t5,solar / default / more,2,22,0.090909
+2024,M - Sustainability,gender,O,t2,don / enough / doubt,1,22,0.045455
+2024,M - Sustainability,gender,O,t0,yet / both / such,4,22,0.181818
+2024,M - Sustainability,gender,O,t1,sustainability / would / waste,1,22,0.045455
+2024,M - Sustainability,region,US Other,t6,all / much / yeah,8,58,0.137931
+2024,M - Sustainability,region,US Other,t5,solar / default / more,6,58,0.103448
+2024,M - Sustainability,region,US Other,t3,more / absolutely / how,10,58,0.172414
+2024,M - Sustainability,region,US Other,t1,sustainability / would / waste,6,58,0.103448
+2024,M - Sustainability,region,US Other,t4,here / some / maybe,6,58,0.103448
+2024,M - Sustainability,region,US Other,t7,less / gray / more,9,58,0.155172
+2024,M - Sustainability,region,US Other,t2,don / enough / doubt,4,58,0.068966
+2024,M - Sustainability,region,US Other,t0,yet / both / such,9,58,0.155172
+2024,M - Sustainability,region,Local/West,t1,sustainability / would / waste,11,62,0.177419
+2024,M - Sustainability,region,Local/West,t7,less / gray / more,4,62,0.064516
+2024,M - Sustainability,region,Local/West,t5,solar / default / more,15,62,0.241935
+2024,M - Sustainability,region,Local/West,t3,more / absolutely / how,7,62,0.112903
+2024,M - Sustainability,region,Local/West,t6,all / much / yeah,5,62,0.080645
+2024,M - Sustainability,region,Local/West,t4,here / some / maybe,10,62,0.16129
+2024,M - Sustainability,region,Local/West,t2,don / enough / doubt,4,62,0.064516
+2024,M - Sustainability,region,Local/West,t0,yet / both / such,6,62,0.096774
+2024,M - Sustainability,age_band,30s,t1,sustainability / would / waste,7,50,0.14
+2024,M - Sustainability,age_band,30s,t3,more / absolutely / how,10,50,0.2
+2024,M - Sustainability,age_band,30s,t5,solar / default / more,12,50,0.24
+2024,M - Sustainability,age_band,30s,t2,don / enough / doubt,2,50,0.04
+2024,M - Sustainability,age_band,30s,t4,here / some / maybe,8,50,0.16
+2024,M - Sustainability,age_band,30s,t7,less / gray / more,2,50,0.04
+2024,M - Sustainability,age_band,30s,t0,yet / both / such,5,50,0.1
+2024,M - Sustainability,age_band,30s,t6,all / much / yeah,4,50,0.08
+2024,M - Sustainability,age_band,40s,t7,less / gray / more,3,21,0.142857
+2024,M - Sustainability,age_band,40s,t6,all / much / yeah,3,21,0.142857
+2024,M - Sustainability,age_band,40s,t3,more / absolutely / how,2,21,0.095238
+2024,M - Sustainability,age_band,40s,t2,don / enough / doubt,3,21,0.142857
+2024,M - Sustainability,age_band,40s,t0,yet / both / such,5,21,0.238095
+2024,M - Sustainability,age_band,40s,t4,here / some / maybe,2,21,0.095238
+2024,M - Sustainability,age_band,40s,t5,solar / default / more,3,21,0.142857
+2024,M - Sustainability,age_band,<30,t1,sustainability / would / waste,3,20,0.15
+2024,M - Sustainability,age_band,<30,t7,less / gray / more,4,20,0.2
+2024,M - Sustainability,age_band,<30,t4,here / some / maybe,2,20,0.1
+2024,M - Sustainability,age_band,<30,t3,more / absolutely / how,4,20,0.2
+2024,M - Sustainability,age_band,<30,t0,yet / both / such,2,20,0.1
+2024,M - Sustainability,age_band,<30,t5,solar / default / more,1,20,0.05
+2024,M - Sustainability,age_band,<30,t6,all / much / yeah,2,20,0.1
+2024,M - Sustainability,age_band,<30,t2,don / enough / doubt,2,20,0.1
+2024,M - Sustainability,burn_statusxgender,Virgin | M,t1,sustainability / would / waste,2,18,0.111111
+2024,M - Sustainability,burn_statusxgender,Virgin | M,t3,more / absolutely / how,4,18,0.222222
+2024,M - Sustainability,burn_statusxgender,Virgin | M,t6,all / much / yeah,1,18,0.055556
+2024,M - Sustainability,burn_statusxgender,Virgin | M,t4,here / some / maybe,4,18,0.222222
+2024,M - Sustainability,burn_statusxgender,Virgin | M,t0,yet / both / such,1,18,0.055556
+2024,M - Sustainability,burn_statusxgender,Virgin | M,t7,less / gray / more,4,18,0.222222
+2024,M - Sustainability,burn_statusxgender,Virgin | M,t2,don / enough / doubt,1,18,0.055556
+2024,M - Sustainability,burn_statusxgender,Virgin | M,t5,solar / default / more,1,18,0.055556
+2024,M - Sustainability,burn_statusxregion,Virgin | US Other,t6,all / much / yeah,3,18,0.166667
+2024,M - Sustainability,burn_statusxregion,Virgin | US Other,t7,less / gray / more,5,18,0.277778
+2024,M - Sustainability,burn_statusxregion,Virgin | US Other,t1,sustainability / would / waste,2,18,0.111111
+2024,M - Sustainability,burn_statusxregion,Virgin | US Other,t3,more / absolutely / how,4,18,0.222222
+2024,M - Sustainability,burn_statusxregion,Virgin | US Other,t0,yet / both / such,2,18,0.111111
+2024,M - Sustainability,burn_statusxregion,Virgin | US Other,t4,here / some / maybe,1,18,0.055556
+2024,M - Sustainability,burn_statusxregion,Virgin | US Other,t5,solar / default / more,1,18,0.055556
+2024,M - Sustainability,burn_statusxregion,Sophomore | Local/West,t1,sustainability / would / waste,2,16,0.125
+2024,M - Sustainability,burn_statusxregion,Sophomore | Local/West,t5,solar / default / more,4,16,0.25
+2024,M - Sustainability,burn_statusxregion,Sophomore | Local/West,t3,more / absolutely / how,3,16,0.1875
+2024,M - Sustainability,burn_statusxregion,Sophomore | Local/West,t6,all / much / yeah,1,16,0.0625
+2024,M - Sustainability,burn_statusxregion,Sophomore | Local/West,t0,yet / both / such,3,16,0.1875
+2024,M - Sustainability,burn_statusxregion,Sophomore | Local/West,t4,here / some / maybe,2,16,0.125
+2024,M - Sustainability,burn_statusxregion,Sophomore | Local/West,t7,less / gray / more,1,16,0.0625
+2024,M - Sustainability,burn_statusxregion,Veteran | Local/West,t7,less / gray / more,1,20,0.05
+2024,M - Sustainability,burn_statusxregion,Veteran | Local/West,t3,more / absolutely / how,1,20,0.05
+2024,M - Sustainability,burn_statusxregion,Veteran | Local/West,t6,all / much / yeah,3,20,0.15
+2024,M - Sustainability,burn_statusxregion,Veteran | Local/West,t4,here / some / maybe,4,20,0.2
+2024,M - Sustainability,burn_statusxregion,Veteran | Local/West,t1,sustainability / would / waste,3,20,0.15
+2024,M - Sustainability,burn_statusxregion,Veteran | Local/West,t5,solar / default / more,7,20,0.35
+2024,M - Sustainability,burn_statusxregion,Veteran | Local/West,t2,don / enough / doubt,1,20,0.05
+2024,M - Sustainability,genderxregion,F | US Other,t6,all / much / yeah,4,22,0.181818
+2024,M - Sustainability,genderxregion,F | US Other,t5,solar / default / more,2,22,0.090909
+2024,M - Sustainability,genderxregion,F | US Other,t1,sustainability / would / waste,3,22,0.136364
+2024,M - Sustainability,genderxregion,F | US Other,t7,less / gray / more,2,22,0.090909
+2024,M - Sustainability,genderxregion,F | US Other,t4,here / some / maybe,3,22,0.136364
+2024,M - Sustainability,genderxregion,F | US Other,t0,yet / both / such,4,22,0.181818
+2024,M - Sustainability,genderxregion,F | US Other,t3,more / absolutely / how,3,22,0.136364
+2024,M - Sustainability,genderxregion,F | US Other,t2,don / enough / doubt,1,22,0.045455
+2024,M - Sustainability,genderxregion,M | Local/West,t1,sustainability / would / waste,7,28,0.25
+2024,M - Sustainability,genderxregion,M | Local/West,t7,less / gray / more,1,28,0.035714
+2024,M - Sustainability,genderxregion,M | Local/West,t6,all / much / yeah,2,28,0.071429
+2024,M - Sustainability,genderxregion,M | Local/West,t5,solar / default / more,8,28,0.285714
+2024,M - Sustainability,genderxregion,M | Local/West,t4,here / some / maybe,5,28,0.178571
+2024,M - Sustainability,genderxregion,M | Local/West,t0,yet / both / such,4,28,0.142857
+2024,M - Sustainability,genderxregion,M | Local/West,t2,don / enough / doubt,1,28,0.035714
+2024,M - Sustainability,genderxregion,M | US Other,t3,more / absolutely / how,6,23,0.26087
+2024,M - Sustainability,genderxregion,M | US Other,t1,sustainability / would / waste,3,23,0.130435
+2024,M - Sustainability,genderxregion,M | US Other,t7,less / gray / more,5,23,0.217391
+2024,M - Sustainability,genderxregion,M | US Other,t6,all / much / yeah,2,23,0.086957
+2024,M - Sustainability,genderxregion,M | US Other,t5,solar / default / more,3,23,0.130435
+2024,M - Sustainability,genderxregion,M | US Other,t4,here / some / maybe,1,23,0.043478
+2024,M - Sustainability,genderxregion,M | US Other,t0,yet / both / such,1,23,0.043478
+2024,M - Sustainability,genderxregion,M | US Other,t2,don / enough / doubt,2,23,0.086957
+2024,M - Sustainability,genderxregion,F | Local/West,t5,solar / default / more,5,23,0.217391
+2024,M - Sustainability,genderxregion,F | Local/West,t1,sustainability / would / waste,3,23,0.130435
+2024,M - Sustainability,genderxregion,F | Local/West,t3,more / absolutely / how,3,23,0.130435
+2024,M - Sustainability,genderxregion,F | Local/West,t2,don / enough / doubt,3,23,0.130435
+2024,M - Sustainability,genderxregion,F | Local/West,t4,here / some / maybe,3,23,0.130435
+2024,M - Sustainability,genderxregion,F | Local/West,t6,all / much / yeah,3,23,0.130435
+2024,M - Sustainability,genderxregion,F | Local/West,t7,less / gray / more,1,23,0.043478
+2024,M - Sustainability,genderxregion,F | Local/West,t0,yet / both / such,2,23,0.086957
+2024,I - Relationships,burn_status,Virgin,t2,here / love / more,28,37,0.756757
+2024,I - Relationships,burn_status,Virgin,t3,yet / here / sure,6,37,0.162162
+2024,I - Relationships,burn_status,Virgin,t8,seems / new / present,1,37,0.027027
+2024,I - Relationships,burn_status,Virgin,t4,seem / which / fleeting,1,37,0.027027
+2024,I - Relationships,burn_status,Virgin,t5,weirder,1,37,0.027027
+2024,I - Relationships,burn_status,Sophomore,t2,here / love / more,21,24,0.875
+2024,I - Relationships,burn_status,Sophomore,t6,yourself / default / let,1,24,0.041667
+2024,I - Relationships,burn_status,Sophomore,t3,yet / here / sure,1,24,0.041667
+2024,I - Relationships,burn_status,Sophomore,t9,would / over / maybe,1,24,0.041667
+2024,I - Relationships,burn_status,Veteran,t2,here / love / more,21,25,0.84
+2024,I - Relationships,burn_status,Veteran,t1,together / part / camp,1,25,0.04
+2024,I - Relationships,burn_status,Veteran,t0,been / great,1,25,0.04
+2024,I - Relationships,burn_status,Veteran,t7,both / sure / recommend,1,25,0.04
+2024,I - Relationships,burn_status,Veteran,t3,yet / here / sure,1,25,0.04
+2024,I - Relationships,burn_status,Unknown,t2,here / love / more,17,20,0.85
+2024,I - Relationships,burn_status,Unknown,t3,yet / here / sure,2,20,0.1
+2024,I - Relationships,burn_status,Unknown,t5,weirder,1,20,0.05
+2024,I - Relationships,gender,M,t2,here / love / more,35,45,0.777778
+2024,I - Relationships,gender,M,t3,yet / here / sure,4,45,0.088889
+2024,I - Relationships,gender,M,t8,seems / new / present,1,45,0.022222
+2024,I - Relationships,gender,M,t6,yourself / default / let,1,45,0.022222
+2024,I - Relationships,gender,M,t0,been / great,1,45,0.022222
+2024,I - Relationships,gender,M,t5,weirder,2,45,0.044444
+2024,I - Relationships,gender,M,t7,both / sure / recommend,1,45,0.022222
+2024,I - Relationships,gender,F,t2,here / love / more,46,52,0.884615
+2024,I - Relationships,gender,F,t4,seem / which / fleeting,1,52,0.019231
+2024,I - Relationships,gender,F,t3,yet / here / sure,4,52,0.076923
+2024,I - Relationships,gender,F,t9,would / over / maybe,1,52,0.019231
+2024,I - Relationships,gender,O,t2,here / love / more,15,17,0.882353
+2024,I - Relationships,gender,O,t3,yet / here / sure,2,17,0.117647
+2024,I - Relationships,region,US Other,t2,here / love / more,45,55,0.818182
+2024,I - Relationships,region,US Other,t3,yet / here / sure,6,55,0.109091
+2024,I - Relationships,region,US Other,t6,yourself / default / let,1,55,0.018182
+2024,I - Relationships,region,US Other,t5,weirder,2,55,0.036364
+2024,I - Relationships,region,US Other,t9,would / over / maybe,1,55,0.018182
+2024,I - Relationships,region,Local/West,t2,here / love / more,49,57,0.859649
+2024,I - Relationships,region,Local/West,t8,seems / new / present,1,57,0.017544
+2024,I - Relationships,region,Local/West,t1,together / part / camp,1,57,0.017544
+2024,I - Relationships,region,Local/West,t4,seem / which / fleeting,1,57,0.017544
+2024,I - Relationships,region,Local/West,t0,been / great,1,57,0.017544
+2024,I - Relationships,region,Local/West,t3,yet / here / sure,3,57,0.052632
+2024,I - Relationships,region,Local/West,t7,both / sure / recommend,1,57,0.017544
+2024,I - Relationships,age_band,40s,t2,here / love / more,18,21,0.857143
+2024,I - Relationships,age_band,40s,t3,yet / here / sure,2,21,0.095238
+2024,I - Relationships,age_band,40s,t8,seems / new / present,1,21,0.047619
+2024,I - Relationships,age_band,<30,t2,here / love / more,14,18,0.777778
+2024,I - Relationships,age_band,<30,t3,yet / here / sure,3,18,0.166667
+2024,I - Relationships,age_band,<30,t4,seem / which / fleeting,1,18,0.055556
+2024,I - Relationships,age_band,30s,t2,here / love / more,36,45,0.8
+2024,I - Relationships,age_band,30s,t6,yourself / default / let,1,45,0.022222
+2024,I - Relationships,age_band,30s,t1,together / part / camp,1,45,0.022222
+2024,I - Relationships,age_band,30s,t0,been / great,1,45,0.022222
+2024,I - Relationships,age_band,30s,t3,yet / here / sure,2,45,0.044444
+2024,I - Relationships,age_band,30s,t5,weirder,2,45,0.044444
+2024,I - Relationships,age_band,30s,t7,both / sure / recommend,1,45,0.022222
+2024,I - Relationships,age_band,30s,t9,would / over / maybe,1,45,0.022222
+2024,I - Relationships,burn_statusxgender,Virgin | F,t2,here / love / more,15,17,0.882353
+2024,I - Relationships,burn_statusxgender,Virgin | F,t4,seem / which / fleeting,1,17,0.058824
+2024,I - Relationships,burn_statusxgender,Virgin | F,t3,yet / here / sure,1,17,0.058824
+2024,I - Relationships,burn_statusxregion,Virgin | US Other,t2,here / love / more,16,21,0.761905
+2024,I - Relationships,burn_statusxregion,Virgin | US Other,t3,yet / here / sure,4,21,0.190476
+2024,I - Relationships,burn_statusxregion,Virgin | US Other,t5,weirder,1,21,0.047619
+2024,I - Relationships,burn_statusxregion,Virgin | Local/West,t2,here / love / more,11,15,0.733333
+2024,I - Relationships,burn_statusxregion,Virgin | Local/West,t8,seems / new / present,1,15,0.066667
+2024,I - Relationships,burn_statusxregion,Virgin | Local/West,t4,seem / which / fleeting,1,15,0.066667
+2024,I - Relationships,burn_statusxregion,Virgin | Local/West,t3,yet / here / sure,2,15,0.133333
+2024,I - Relationships,burn_statusxregion,Veteran | Local/West,t2,here / love / more,12,15,0.8
+2024,I - Relationships,burn_statusxregion,Veteran | Local/West,t1,together / part / camp,1,15,0.066667
+2024,I - Relationships,burn_statusxregion,Veteran | Local/West,t0,been / great,1,15,0.066667
+2024,I - Relationships,burn_statusxregion,Veteran | Local/West,t7,both / sure / recommend,1,15,0.066667
+2024,I - Relationships,genderxregion,M | US Other,t2,here / love / more,18,24,0.75
+2024,I - Relationships,genderxregion,M | US Other,t3,yet / here / sure,3,24,0.125
+2024,I - Relationships,genderxregion,M | US Other,t6,yourself / default / let,1,24,0.041667
+2024,I - Relationships,genderxregion,M | US Other,t5,weirder,2,24,0.083333
+2024,I - Relationships,genderxregion,M | Local/West,t2,here / love / more,16,20,0.8
+2024,I - Relationships,genderxregion,M | Local/West,t8,seems / new / present,1,20,0.05
+2024,I - Relationships,genderxregion,M | Local/West,t0,been / great,1,20,0.05
+2024,I - Relationships,genderxregion,M | Local/West,t7,both / sure / recommend,1,20,0.05
+2024,I - Relationships,genderxregion,M | Local/West,t3,yet / here / sure,1,20,0.05
+2024,I - Relationships,genderxregion,F | US Other,t2,here / love / more,18,20,0.9
+2024,I - Relationships,genderxregion,F | US Other,t3,yet / here / sure,1,20,0.05
+2024,I - Relationships,genderxregion,F | US Other,t9,would / over / maybe,1,20,0.05
+2024,I - Relationships,genderxregion,F | Local/West,t2,here / love / more,27,30,0.9
+2024,I - Relationships,genderxregion,F | Local/West,t4,seem / which / fleeting,1,30,0.033333
+2024,I - Relationships,genderxregion,F | Local/West,t3,yet / here / sure,2,30,0.066667
+2024,C - Emotions,burn_status,Virgin,t4,art / love / nova,6,38,0.157895
+2024,C - Emotions,burn_status,Virgin,t6,friends / lost / most,7,38,0.184211
+2024,C - Emotions,burn_status,Virgin,t2,campmates / all / missing,3,38,0.078947
+2024,C - Emotions,burn_status,Virgin,t7,joy / friend / happiness,2,38,0.052632
+2024,C - Emotions,burn_status,Virgin,t9,overwhelmed / here / friend,7,38,0.184211
+2024,C - Emotions,burn_status,Virgin,t0,all / some / lack,2,38,0.052632
+2024,C - Emotions,burn_status,Virgin,t3,freedom / happy / would,4,38,0.105263
+2024,C - Emotions,burn_status,Virgin,t5,excitement / lights / all,1,38,0.026316
+2024,C - Emotions,burn_status,Virgin,t8,myself / camp / night,5,38,0.131579
+2024,C - Emotions,burn_status,Virgin,t1,laughter / there / excitement,1,38,0.026316
+2024,C - Emotions,burn_status,Elder,t0,all / some / lack,3,18,0.166667
+2024,C - Emotions,burn_status,Elder,t2,campmates / all / missing,2,18,0.111111
+2024,C - Emotions,burn_status,Elder,t4,art / love / nova,3,18,0.166667
+2024,C - Emotions,burn_status,Elder,t9,overwhelmed / here / friend,2,18,0.111111
+2024,C - Emotions,burn_status,Elder,t6,friends / lost / most,1,18,0.055556
+2024,C - Emotions,burn_status,Elder,t7,joy / friend / happiness,4,18,0.222222
+2024,C - Emotions,burn_status,Elder,t5,excitement / lights / all,2,18,0.111111
+2024,C - Emotions,burn_status,Elder,t3,freedom / happy / would,1,18,0.055556
+2024,C - Emotions,burn_status,Veteran,t7,joy / friend / happiness,7,29,0.241379
+2024,C - Emotions,burn_status,Veteran,t4,art / love / nova,2,29,0.068966
+2024,C - Emotions,burn_status,Veteran,t3,freedom / happy / would,2,29,0.068966
+2024,C - Emotions,burn_status,Veteran,t8,myself / camp / night,3,29,0.103448
+2024,C - Emotions,burn_status,Veteran,t5,excitement / lights / all,2,29,0.068966
+2024,C - Emotions,burn_status,Veteran,t6,friends / lost / most,6,29,0.206897
+2024,C - Emotions,burn_status,Veteran,t9,overwhelmed / here / friend,3,29,0.103448
+2024,C - Emotions,burn_status,Veteran,t2,campmates / all / missing,2,29,0.068966
+2024,C - Emotions,burn_status,Veteran,t0,all / some / lack,2,29,0.068966
+2024,C - Emotions,burn_status,Unknown,t9,overwhelmed / here / friend,2,15,0.133333
+2024,C - Emotions,burn_status,Unknown,t6,friends / lost / most,5,15,0.333333
+2024,C - Emotions,burn_status,Unknown,t0,all / some / lack,2,15,0.133333
+2024,C - Emotions,burn_status,Unknown,t1,laughter / there / excitement,1,15,0.066667
+2024,C - Emotions,burn_status,Unknown,t5,excitement / lights / all,1,15,0.066667
+2024,C - Emotions,burn_status,Unknown,t8,myself / camp / night,2,15,0.133333
+2024,C - Emotions,burn_status,Unknown,t7,joy / friend / happiness,1,15,0.066667
+2024,C - Emotions,burn_status,Unknown,t4,art / love / nova,1,15,0.066667
+2024,C - Emotions,burn_status,Sophomore,t4,art / love / nova,5,38,0.131579
+2024,C - Emotions,burn_status,Sophomore,t0,all / some / lack,1,38,0.026316
+2024,C - Emotions,burn_status,Sophomore,t3,freedom / happy / would,2,38,0.052632
+2024,C - Emotions,burn_status,Sophomore,t5,excitement / lights / all,5,38,0.131579
+2024,C - Emotions,burn_status,Sophomore,t8,myself / camp / night,4,38,0.105263
+2024,C - Emotions,burn_status,Sophomore,t7,joy / friend / happiness,12,38,0.315789
+2024,C - Emotions,burn_status,Sophomore,t6,friends / lost / most,6,38,0.157895
+2024,C - Emotions,burn_status,Sophomore,t9,overwhelmed / here / friend,2,38,0.052632
+2024,C - Emotions,burn_status,Sophomore,t2,campmates / all / missing,1,38,0.026316
+2024,C - Emotions,gender,M,t4,art / love / nova,6,48,0.125
+2024,C - Emotions,gender,M,t2,campmates / all / missing,2,48,0.041667
+2024,C - Emotions,gender,M,t7,joy / friend / happiness,9,48,0.1875
+2024,C - Emotions,gender,M,t8,myself / camp / night,4,48,0.083333
+2024,C - Emotions,gender,M,t6,friends / lost / most,11,48,0.229167
+2024,C - Emotions,gender,M,t0,all / some / lack,5,48,0.104167
+2024,C - Emotions,gender,M,t3,freedom / happy / would,3,48,0.0625
+2024,C - Emotions,gender,M,t9,overwhelmed / here / friend,6,48,0.125
+2024,C - Emotions,gender,M,t1,laughter / there / excitement,1,48,0.020833
+2024,C - Emotions,gender,M,t5,excitement / lights / all,1,48,0.020833
+2024,C - Emotions,gender,F,t6,friends / lost / most,7,65,0.107692
+2024,C - Emotions,gender,F,t4,art / love / nova,9,65,0.138462
+2024,C - Emotions,gender,F,t9,overwhelmed / here / friend,7,65,0.107692
+2024,C - Emotions,gender,F,t3,freedom / happy / would,5,65,0.076923
+2024,C - Emotions,gender,F,t0,all / some / lack,4,65,0.061538
+2024,C - Emotions,gender,F,t5,excitement / lights / all,7,65,0.107692
+2024,C - Emotions,gender,F,t7,joy / friend / happiness,12,65,0.184615
+2024,C - Emotions,gender,F,t8,myself / camp / night,8,65,0.123077
+2024,C - Emotions,gender,F,t2,campmates / all / missing,5,65,0.076923
+2024,C - Emotions,gender,F,t1,laughter / there / excitement,1,65,0.015385
+2024,C - Emotions,gender,O,t0,all / some / lack,1,22,0.045455
+2024,C - Emotions,gender,O,t7,joy / friend / happiness,3,22,0.136364
+2024,C - Emotions,gender,O,t6,friends / lost / most,7,22,0.318182
+2024,C - Emotions,gender,O,t9,overwhelmed / here / friend,3,22,0.136364
+2024,C - Emotions,gender,O,t4,art / love / nova,2,22,0.090909
+2024,C - Emotions,gender,O,t5,excitement / lights / all,2,22,0.090909
+2024,C - Emotions,gender,O,t8,myself / camp / night,2,22,0.090909
+2024,C - Emotions,gender,O,t3,freedom / happy / would,1,22,0.045455
+2024,C - Emotions,gender,O,t2,campmates / all / missing,1,22,0.045455
+2024,C - Emotions,region,US Other,t4,art / love / nova,7,62,0.112903
+2024,C - Emotions,region,US Other,t2,campmates / all / missing,5,62,0.080645
+2024,C - Emotions,region,US Other,t0,all / some / lack,4,62,0.064516
+2024,C - Emotions,region,US Other,t7,joy / friend / happiness,10,62,0.16129
+2024,C - Emotions,region,US Other,t9,overwhelmed / here / friend,9,62,0.145161
+2024,C - Emotions,region,US Other,t8,myself / camp / night,4,62,0.064516
+2024,C - Emotions,region,US Other,t5,excitement / lights / all,4,62,0.064516
+2024,C - Emotions,region,US Other,t3,freedom / happy / would,7,62,0.112903
+2024,C - Emotions,region,US Other,t6,friends / lost / most,12,62,0.193548
+2024,C - Emotions,region,Local/West,t6,friends / lost / most,11,68,0.161765
+2024,C - Emotions,region,Local/West,t7,joy / friend / happiness,14,68,0.205882
+2024,C - Emotions,region,Local/West,t4,art / love / nova,10,68,0.147059
+2024,C - Emotions,region,Local/West,t3,freedom / happy / would,2,68,0.029412
+2024,C - Emotions,region,Local/West,t5,excitement / lights / all,7,68,0.102941
+2024,C - Emotions,region,Local/West,t0,all / some / lack,6,68,0.088235
+2024,C - Emotions,region,Local/West,t2,campmates / all / missing,3,68,0.044118
+2024,C - Emotions,region,Local/West,t9,overwhelmed / here / friend,6,68,0.088235
+2024,C - Emotions,region,Local/West,t1,laughter / there / excitement,2,68,0.029412
+2024,C - Emotions,region,Local/West,t8,myself / camp / night,7,68,0.102941
+2024,C - Emotions,age_band,<30,t4,art / love / nova,4,24,0.166667
+2024,C - Emotions,age_band,<30,t7,joy / friend / happiness,2,24,0.083333
+2024,C - Emotions,age_band,<30,t0,all / some / lack,2,24,0.083333
+2024,C - Emotions,age_band,<30,t3,freedom / happy / would,3,24,0.125
+2024,C - Emotions,age_band,<30,t6,friends / lost / most,4,24,0.166667
+2024,C - Emotions,age_band,<30,t5,excitement / lights / all,2,24,0.083333
+2024,C - Emotions,age_band,<30,t9,overwhelmed / here / friend,4,24,0.166667
+2024,C - Emotions,age_band,<30,t8,myself / camp / night,2,24,0.083333
+2024,C - Emotions,age_band,<30,t2,campmates / all / missing,1,24,0.041667
+2024,C - Emotions,age_band,30s,t2,campmates / all / missing,5,61,0.081967
+2024,C - Emotions,age_band,30s,t7,joy / friend / happiness,10,61,0.163934
+2024,C - Emotions,age_band,30s,t4,art / love / nova,10,61,0.163934
+2024,C - Emotions,age_band,30s,t6,friends / lost / most,11,61,0.180328
+2024,C - Emotions,age_band,30s,t9,overwhelmed / here / friend,7,61,0.114754
+2024,C - Emotions,age_band,30s,t3,freedom / happy / would,5,61,0.081967
+2024,C - Emotions,age_band,30s,t5,excitement / lights / all,6,61,0.098361
+2024,C - Emotions,age_band,30s,t8,myself / camp / night,6,61,0.098361
+2024,C - Emotions,age_band,30s,t1,laughter / there / excitement,1,61,0.016393
+2024,C - Emotions,age_band,50s,t0,all / some / lack,2,18,0.111111
+2024,C - Emotions,age_band,50s,t4,art / love / nova,2,18,0.111111
+2024,C - Emotions,age_band,50s,t7,joy / friend / happiness,4,18,0.222222
+2024,C - Emotions,age_band,50s,t5,excitement / lights / all,1,18,0.055556
+2024,C - Emotions,age_band,50s,t8,myself / camp / night,3,18,0.166667
+2024,C - Emotions,age_band,50s,t9,overwhelmed / here / friend,2,18,0.111111
+2024,C - Emotions,age_band,50s,t6,friends / lost / most,3,18,0.166667
+2024,C - Emotions,age_band,50s,t3,freedom / happy / would,1,18,0.055556
+2024,C - Emotions,age_band,40s,t7,joy / friend / happiness,8,24,0.333333
+2024,C - Emotions,age_band,40s,t0,all / some / lack,4,24,0.166667
+2024,C - Emotions,age_band,40s,t9,overwhelmed / here / friend,3,24,0.125
+2024,C - Emotions,age_band,40s,t6,friends / lost / most,3,24,0.125
+2024,C - Emotions,age_band,40s,t2,campmates / all / missing,2,24,0.083333
+2024,C - Emotions,age_band,40s,t1,laughter / there / excitement,1,24,0.041667
+2024,C - Emotions,age_band,40s,t8,myself / camp / night,2,24,0.083333
+2024,C - Emotions,age_band,40s,t4,art / love / nova,1,24,0.041667
+2024,C - Emotions,burn_statusxgender,Virgin | M,t4,art / love / nova,3,16,0.1875
+2024,C - Emotions,burn_statusxgender,Virgin | M,t2,campmates / all / missing,2,16,0.125
+2024,C - Emotions,burn_statusxgender,Virgin | M,t7,joy / friend / happiness,1,16,0.0625
+2024,C - Emotions,burn_statusxgender,Virgin | M,t0,all / some / lack,2,16,0.125
+2024,C - Emotions,burn_statusxgender,Virgin | M,t6,friends / lost / most,3,16,0.1875
+2024,C - Emotions,burn_statusxgender,Virgin | M,t3,freedom / happy / would,1,16,0.0625
+2024,C - Emotions,burn_statusxgender,Virgin | M,t9,overwhelmed / here / friend,2,16,0.125
+2024,C - Emotions,burn_statusxgender,Virgin | M,t8,myself / camp / night,2,16,0.125
+2024,C - Emotions,burn_statusxgender,Virgin | F,t6,friends / lost / most,2,15,0.133333
+2024,C - Emotions,burn_statusxgender,Virgin | F,t7,joy / friend / happiness,1,15,0.066667
+2024,C - Emotions,burn_statusxgender,Virgin | F,t9,overwhelmed / here / friend,3,15,0.2
+2024,C - Emotions,burn_statusxgender,Virgin | F,t5,excitement / lights / all,1,15,0.066667
+2024,C - Emotions,burn_statusxgender,Virgin | F,t3,freedom / happy / would,2,15,0.133333
+2024,C - Emotions,burn_statusxgender,Virgin | F,t8,myself / camp / night,3,15,0.2
+2024,C - Emotions,burn_statusxgender,Virgin | F,t4,art / love / nova,2,15,0.133333
+2024,C - Emotions,burn_statusxgender,Virgin | F,t1,laughter / there / excitement,1,15,0.066667
+2024,C - Emotions,burn_statusxgender,Sophomore | F,t4,art / love / nova,5,24,0.208333
+2024,C - Emotions,burn_statusxgender,Sophomore | F,t0,all / some / lack,1,24,0.041667
+2024,C - Emotions,burn_statusxgender,Sophomore | F,t3,freedom / happy / would,2,24,0.083333
+2024,C - Emotions,burn_statusxgender,Sophomore | F,t5,excitement / lights / all,2,24,0.083333
+2024,C - Emotions,burn_statusxgender,Sophomore | F,t8,myself / camp / night,4,24,0.166667
+2024,C - Emotions,burn_statusxgender,Sophomore | F,t7,joy / friend / happiness,6,24,0.25
+2024,C - Emotions,burn_statusxgender,Sophomore | F,t6,friends / lost / most,2,24,0.083333
+2024,C - Emotions,burn_statusxgender,Sophomore | F,t2,campmates / all / missing,1,24,0.041667
+2024,C - Emotions,burn_statusxgender,Sophomore | F,t9,overwhelmed / here / friend,1,24,0.041667
+2024,C - Emotions,burn_statusxregion,Virgin | US Other,t4,art / love / nova,3,19,0.157895
+2024,C - Emotions,burn_statusxregion,Virgin | US Other,t2,campmates / all / missing,2,19,0.105263
+2024,C - Emotions,burn_statusxregion,Virgin | US Other,t7,joy / friend / happiness,2,19,0.105263
+2024,C - Emotions,burn_statusxregion,Virgin | US Other,t3,freedom / happy / would,3,19,0.157895
+2024,C - Emotions,burn_statusxregion,Virgin | US Other,t9,overwhelmed / here / friend,4,19,0.210526
+2024,C - Emotions,burn_statusxregion,Virgin | US Other,t8,myself / camp / night,1,19,0.052632
+2024,C - Emotions,burn_statusxregion,Virgin | US Other,t6,friends / lost / most,3,19,0.157895
+2024,C - Emotions,burn_statusxregion,Virgin | US Other,t0,all / some / lack,1,19,0.052632
+2024,C - Emotions,burn_statusxregion,Virgin | Local/West,t6,friends / lost / most,4,15,0.266667
+2024,C - Emotions,burn_statusxregion,Virgin | Local/West,t0,all / some / lack,1,15,0.066667
+2024,C - Emotions,burn_statusxregion,Virgin | Local/West,t5,excitement / lights / all,1,15,0.066667
+2024,C - Emotions,burn_statusxregion,Virgin | Local/West,t2,campmates / all / missing,1,15,0.066667
+2024,C - Emotions,burn_statusxregion,Virgin | Local/West,t9,overwhelmed / here / friend,2,15,0.133333
+2024,C - Emotions,burn_statusxregion,Virgin | Local/West,t4,art / love / nova,3,15,0.2
+2024,C - Emotions,burn_statusxregion,Virgin | Local/West,t8,myself / camp / night,1,15,0.066667
+2024,C - Emotions,burn_statusxregion,Virgin | Local/West,t1,laughter / there / excitement,1,15,0.066667
+2024,C - Emotions,burn_statusxregion,Virgin | Local/West,t3,freedom / happy / would,1,15,0.066667
+2024,C - Emotions,burn_statusxregion,Veteran | US Other,t7,joy / friend / happiness,4,16,0.25
+2024,C - Emotions,burn_statusxregion,Veteran | US Other,t8,myself / camp / night,2,16,0.125
+2024,C - Emotions,burn_statusxregion,Veteran | US Other,t5,excitement / lights / all,1,16,0.0625
+2024,C - Emotions,burn_statusxregion,Veteran | US Other,t9,overwhelmed / here / friend,2,16,0.125
+2024,C - Emotions,burn_statusxregion,Veteran | US Other,t2,campmates / all / missing,2,16,0.125
+2024,C - Emotions,burn_statusxregion,Veteran | US Other,t6,friends / lost / most,3,16,0.1875
+2024,C - Emotions,burn_statusxregion,Veteran | US Other,t3,freedom / happy / would,1,16,0.0625
+2024,C - Emotions,burn_statusxregion,Veteran | US Other,t4,art / love / nova,1,16,0.0625
+2024,C - Emotions,burn_statusxregion,Sophomore | Local/West,t4,art / love / nova,3,20,0.15
+2024,C - Emotions,burn_statusxregion,Sophomore | Local/West,t5,excitement / lights / all,3,20,0.15
+2024,C - Emotions,burn_statusxregion,Sophomore | Local/West,t7,joy / friend / happiness,6,20,0.3
+2024,C - Emotions,burn_statusxregion,Sophomore | Local/West,t6,friends / lost / most,3,20,0.15
+2024,C - Emotions,burn_statusxregion,Sophomore | Local/West,t9,overwhelmed / here / friend,2,20,0.1
+2024,C - Emotions,burn_statusxregion,Sophomore | Local/West,t8,myself / camp / night,3,20,0.15
+2024,C - Emotions,burn_statusxregion,Sophomore | US Other,t0,all / some / lack,1,15,0.066667
+2024,C - Emotions,burn_statusxregion,Sophomore | US Other,t3,freedom / happy / would,2,15,0.133333
+2024,C - Emotions,burn_statusxregion,Sophomore | US Other,t8,myself / camp / night,1,15,0.066667
+2024,C - Emotions,burn_statusxregion,Sophomore | US Other,t7,joy / friend / happiness,4,15,0.266667
+2024,C - Emotions,burn_statusxregion,Sophomore | US Other,t2,campmates / all / missing,1,15,0.066667
+2024,C - Emotions,burn_statusxregion,Sophomore | US Other,t5,excitement / lights / all,2,15,0.133333
+2024,C - Emotions,burn_statusxregion,Sophomore | US Other,t4,art / love / nova,2,15,0.133333
+2024,C - Emotions,burn_statusxregion,Sophomore | US Other,t6,friends / lost / most,2,15,0.133333
+2024,C - Emotions,genderxregion,M | US Other,t4,art / love / nova,3,24,0.125
+2024,C - Emotions,genderxregion,M | US Other,t2,campmates / all / missing,1,24,0.041667
+2024,C - Emotions,genderxregion,M | US Other,t7,joy / friend / happiness,4,24,0.166667
+2024,C - Emotions,genderxregion,M | US Other,t8,myself / camp / night,2,24,0.083333
+2024,C - Emotions,genderxregion,M | US Other,t3,freedom / happy / would,3,24,0.125
+2024,C - Emotions,genderxregion,M | US Other,t9,overwhelmed / here / friend,4,24,0.166667
+2024,C - Emotions,genderxregion,M | US Other,t0,all / some / lack,2,24,0.083333
+2024,C - Emotions,genderxregion,M | US Other,t6,friends / lost / most,5,24,0.208333
+2024,C - Emotions,genderxregion,F | Local/West,t6,friends / lost / most,5,38,0.131579
+2024,C - Emotions,genderxregion,F | Local/West,t4,art / love / nova,6,38,0.157895
+2024,C - Emotions,genderxregion,F | Local/West,t3,freedom / happy / would,1,38,0.026316
+2024,C - Emotions,genderxregion,F | Local/West,t5,excitement / lights / all,5,38,0.131579
+2024,C - Emotions,genderxregion,F | Local/West,t7,joy / friend / happiness,8,38,0.210526
+2024,C - Emotions,genderxregion,F | Local/West,t2,campmates / all / missing,2,38,0.052632
+2024,C - Emotions,genderxregion,F | Local/West,t0,all / some / lack,3,38,0.078947
+2024,C - Emotions,genderxregion,F | Local/West,t8,myself / camp / night,5,38,0.131579
+2024,C - Emotions,genderxregion,F | Local/West,t9,overwhelmed / here / friend,2,38,0.052632
+2024,C - Emotions,genderxregion,F | Local/West,t1,laughter / there / excitement,1,38,0.026316
+2024,C - Emotions,genderxregion,M | Local/West,t7,joy / friend / happiness,3,20,0.15
+2024,C - Emotions,genderxregion,M | Local/West,t6,friends / lost / most,5,20,0.25
+2024,C - Emotions,genderxregion,M | Local/West,t0,all / some / lack,3,20,0.15
+2024,C - Emotions,genderxregion,M | Local/West,t4,art / love / nova,3,20,0.15
+2024,C - Emotions,genderxregion,M | Local/West,t2,campmates / all / missing,1,20,0.05
+2024,C - Emotions,genderxregion,M | Local/West,t9,overwhelmed / here / friend,2,20,0.1
+2024,C - Emotions,genderxregion,M | Local/West,t1,laughter / there / excitement,1,20,0.05
+2024,C - Emotions,genderxregion,M | Local/West,t5,excitement / lights / all,1,20,0.05
+2024,C - Emotions,genderxregion,M | Local/West,t8,myself / camp / night,1,20,0.05
+2024,C - Emotions,genderxregion,F | US Other,t9,overwhelmed / here / friend,4,24,0.166667
+2024,C - Emotions,genderxregion,F | US Other,t0,all / some / lack,1,24,0.041667
+2024,C - Emotions,genderxregion,F | US Other,t5,excitement / lights / all,2,24,0.083333
+2024,C - Emotions,genderxregion,F | US Other,t3,freedom / happy / would,4,24,0.166667
+2024,C - Emotions,genderxregion,F | US Other,t7,joy / friend / happiness,4,24,0.166667
+2024,C - Emotions,genderxregion,F | US Other,t8,myself / camp / night,1,24,0.041667
+2024,C - Emotions,genderxregion,F | US Other,t2,campmates / all / missing,3,24,0.125
+2024,C - Emotions,genderxregion,F | US Other,t6,friends / lost / most,2,24,0.083333
+2024,C - Emotions,genderxregion,F | US Other,t4,art / love / nova,3,24,0.125
+2024,L - Beyond Black Rock City,burn_status,Unknown,t0,more / self / radical,29,33,0.878788
+2024,L - Beyond Black Rock City,burn_status,Unknown,t1,part / yet / big,1,33,0.030303
+2024,L - Beyond Black Rock City,burn_status,Unknown,t3,joining / sexy / most,1,33,0.030303
+2024,L - Beyond Black Rock City,burn_status,Unknown,t2,leave / trace / gift,2,33,0.060606
+2024,L - Beyond Black Rock City,burn_status,Virgin,t0,more / self / radical,41,47,0.87234
+2024,L - Beyond Black Rock City,burn_status,Virgin,t5,love / kindness / peace,2,47,0.042553
+2024,L - Beyond Black Rock City,burn_status,Virgin,t1,part / yet / big,2,47,0.042553
+2024,L - Beyond Black Rock City,burn_status,Virgin,t4,okay / beige / outside,2,47,0.042553
+2024,L - Beyond Black Rock City,burn_status,Veteran,t0,more / self / radical,35,39,0.897436
+2024,L - Beyond Black Rock City,burn_status,Veteran,t3,joining / sexy / most,1,39,0.025641
+2024,L - Beyond Black Rock City,burn_status,Veteran,t6,leave / trace / open,2,39,0.051282
+2024,L - Beyond Black Rock City,burn_status,Veteran,t7,life / open / more,1,39,0.025641
+2024,L - Beyond Black Rock City,burn_status,Sophomore,t0,more / self / radical,22,26,0.846154
+2024,L - Beyond Black Rock City,burn_status,Sophomore,t7,life / open / more,1,26,0.038462
+2024,L - Beyond Black Rock City,burn_status,Sophomore,t5,love / kindness / peace,2,26,0.076923
+2024,L - Beyond Black Rock City,burn_status,Sophomore,t2,leave / trace / gift,1,26,0.038462
+2024,L - Beyond Black Rock City,burn_status,Elder,t7,life / open / more,2,15,0.133333
+2024,L - Beyond Black Rock City,burn_status,Elder,t0,more / self / radical,10,15,0.666667
+2024,L - Beyond Black Rock City,burn_status,Elder,t6,leave / trace / open,2,15,0.133333
+2024,L - Beyond Black Rock City,burn_status,Elder,t2,leave / trace / gift,1,15,0.066667
+2024,L - Beyond Black Rock City,gender,O,t0,more / self / radical,36,38,0.947368
+2024,L - Beyond Black Rock City,gender,O,t1,part / yet / big,1,38,0.026316
+2024,L - Beyond Black Rock City,gender,O,t3,joining / sexy / most,1,38,0.026316
+2024,L - Beyond Black Rock City,gender,M,t0,more / self / radical,43,54,0.796296
+2024,L - Beyond Black Rock City,gender,M,t7,life / open / more,2,54,0.037037
+2024,L - Beyond Black Rock City,gender,M,t5,love / kindness / peace,2,54,0.037037
+2024,L - Beyond Black Rock City,gender,M,t6,leave / trace / open,4,54,0.074074
+2024,L - Beyond Black Rock City,gender,M,t2,leave / trace / gift,3,54,0.055556
+2024,L - Beyond Black Rock City,gender,F,t0,more / self / radical,53,61,0.868852
+2024,L - Beyond Black Rock City,gender,F,t7,life / open / more,2,61,0.032787
+2024,L - Beyond Black Rock City,gender,F,t5,love / kindness / peace,2,61,0.032787
+2024,L - Beyond Black Rock City,gender,F,t3,joining / sexy / most,1,61,0.016393
+2024,L - Beyond Black Rock City,gender,F,t4,okay / beige / outside,2,61,0.032787
+2024,L - Beyond Black Rock City,gender,F,t1,part / yet / big,1,61,0.016393
+2024,L - Beyond Black Rock City,region,US Other,t0,more / self / radical,71,85,0.835294
+2024,L - Beyond Black Rock City,region,US Other,t5,love / kindness / peace,4,85,0.047059
+2024,L - Beyond Black Rock City,region,US Other,t1,part / yet / big,2,85,0.023529
+2024,L - Beyond Black Rock City,region,US Other,t3,joining / sexy / most,1,85,0.011765
+2024,L - Beyond Black Rock City,region,US Other,t2,leave / trace / gift,3,85,0.035294
+2024,L - Beyond Black Rock City,region,US Other,t6,leave / trace / open,2,85,0.023529
+2024,L - Beyond Black Rock City,region,US Other,t7,life / open / more,2,85,0.023529
+2024,L - Beyond Black Rock City,region,Local/West,t0,more / self / radical,54,62,0.870968
+2024,L - Beyond Black Rock City,region,Local/West,t7,life / open / more,2,62,0.032258
+2024,L - Beyond Black Rock City,region,Local/West,t3,joining / sexy / most,1,62,0.016129
+2024,L - Beyond Black Rock City,region,Local/West,t4,okay / beige / outside,2,62,0.032258
+2024,L - Beyond Black Rock City,region,Local/West,t6,leave / trace / open,2,62,0.032258
+2024,L - Beyond Black Rock City,region,Local/West,t1,part / yet / big,1,62,0.016129
+2024,L - Beyond Black Rock City,age_band,<30,t0,more / self / radical,26,29,0.896552
+2024,L - Beyond Black Rock City,age_band,<30,t7,life / open / more,1,29,0.034483
+2024,L - Beyond Black Rock City,age_band,<30,t1,part / yet / big,1,29,0.034483
+2024,L - Beyond Black Rock City,age_band,<30,t5,love / kindness / peace,1,29,0.034483
+2024,L - Beyond Black Rock City,age_band,30s,t0,more / self / radical,57,67,0.850746
+2024,L - Beyond Black Rock City,age_band,30s,t7,life / open / more,1,67,0.014925
+2024,L - Beyond Black Rock City,age_band,30s,t5,love / kindness / peace,2,67,0.029851
+2024,L - Beyond Black Rock City,age_band,30s,t3,joining / sexy / most,1,67,0.014925
+2024,L - Beyond Black Rock City,age_band,30s,t4,okay / beige / outside,2,67,0.029851
+2024,L - Beyond Black Rock City,age_band,30s,t6,leave / trace / open,3,67,0.044776
+2024,L - Beyond Black Rock City,age_band,30s,t2,leave / trace / gift,1,67,0.014925
+2024,L - Beyond Black Rock City,age_band,40s,t5,love / kindness / peace,1,21,0.047619
+2024,L - Beyond Black Rock City,age_band,40s,t0,more / self / radical,18,21,0.857143
+2024,L - Beyond Black Rock City,age_band,40s,t1,part / yet / big,1,21,0.047619
+2024,L - Beyond Black Rock City,age_band,40s,t7,life / open / more,1,21,0.047619
+2024,L - Beyond Black Rock City,age_band,60+,t0,more / self / radical,12,15,0.8
+2024,L - Beyond Black Rock City,age_band,60+,t2,leave / trace / gift,2,15,0.133333
+2024,L - Beyond Black Rock City,age_band,60+,t6,leave / trace / open,1,15,0.066667
+2024,L - Beyond Black Rock City,burn_statusxgender,Unknown | O,t0,more / self / radical,14,16,0.875
+2024,L - Beyond Black Rock City,burn_statusxgender,Unknown | O,t1,part / yet / big,1,16,0.0625
+2024,L - Beyond Black Rock City,burn_statusxgender,Unknown | O,t3,joining / sexy / most,1,16,0.0625
+2024,L - Beyond Black Rock City,burn_statusxgender,Virgin | M,t0,more / self / radical,17,19,0.894737
+2024,L - Beyond Black Rock City,burn_statusxgender,Virgin | M,t5,love / kindness / peace,2,19,0.105263
+2024,L - Beyond Black Rock City,burn_statusxgender,Veteran | F,t0,more / self / radical,16,17,0.941176
+2024,L - Beyond Black Rock City,burn_statusxgender,Veteran | F,t3,joining / sexy / most,1,17,0.058824
+2024,L - Beyond Black Rock City,burn_statusxgender,Virgin | F,t0,more / self / radical,16,19,0.842105
+2024,L - Beyond Black Rock City,burn_statusxgender,Virgin | F,t4,okay / beige / outside,2,19,0.105263
+2024,L - Beyond Black Rock City,burn_statusxgender,Virgin | F,t1,part / yet / big,1,19,0.052632
+2024,L - Beyond Black Rock City,burn_statusxgender,Veteran | M,t0,more / self / radical,12,15,0.8
+2024,L - Beyond Black Rock City,burn_statusxgender,Veteran | M,t6,leave / trace / open,2,15,0.133333
+2024,L - Beyond Black Rock City,burn_statusxgender,Veteran | M,t7,life / open / more,1,15,0.066667
+2024,L - Beyond Black Rock City,burn_statusxregion,Unknown | US Other,t0,more / self / radical,15,17,0.882353
+2024,L - Beyond Black Rock City,burn_statusxregion,Unknown | US Other,t1,part / yet / big,1,17,0.058824
+2024,L - Beyond Black Rock City,burn_statusxregion,Unknown | US Other,t2,leave / trace / gift,1,17,0.058824
+2024,L - Beyond Black Rock City,burn_statusxregion,Virgin | US Other,t0,more / self / radical,24,27,0.888889
+2024,L - Beyond Black Rock City,burn_statusxregion,Virgin | US Other,t5,love / kindness / peace,2,27,0.074074
+2024,L - Beyond Black Rock City,burn_statusxregion,Virgin | US Other,t1,part / yet / big,1,27,0.037037
+2024,L - Beyond Black Rock City,burn_statusxregion,Veteran | US Other,t0,more / self / radical,16,20,0.8
+2024,L - Beyond Black Rock City,burn_statusxregion,Veteran | US Other,t3,joining / sexy / most,1,20,0.05
+2024,L - Beyond Black Rock City,burn_statusxregion,Veteran | US Other,t6,leave / trace / open,2,20,0.1
+2024,L - Beyond Black Rock City,burn_statusxregion,Veteran | US Other,t7,life / open / more,1,20,0.05
+2024,L - Beyond Black Rock City,burn_statusxregion,Sophomore | US Other,t0,more / self / radical,12,15,0.8
+2024,L - Beyond Black Rock City,burn_statusxregion,Sophomore | US Other,t5,love / kindness / peace,2,15,0.133333
+2024,L - Beyond Black Rock City,burn_statusxregion,Sophomore | US Other,t2,leave / trace / gift,1,15,0.066667
+2024,L - Beyond Black Rock City,burn_statusxregion,Veteran | Local/West,t0,more / self / radical,18,18,1.0
+2024,L - Beyond Black Rock City,burn_statusxregion,Virgin | Local/West,t0,more / self / radical,12,15,0.8
+2024,L - Beyond Black Rock City,burn_statusxregion,Virgin | Local/West,t4,okay / beige / outside,2,15,0.133333
+2024,L - Beyond Black Rock City,burn_statusxregion,Virgin | Local/West,t1,part / yet / big,1,15,0.066667
+2024,L - Beyond Black Rock City,genderxregion,O | US Other,t0,more / self / radical,24,25,0.96
+2024,L - Beyond Black Rock City,genderxregion,O | US Other,t1,part / yet / big,1,25,0.04
+2024,L - Beyond Black Rock City,genderxregion,M | US Other,t0,more / self / radical,25,33,0.757576
+2024,L - Beyond Black Rock City,genderxregion,M | US Other,t5,love / kindness / peace,2,33,0.060606
+2024,L - Beyond Black Rock City,genderxregion,M | US Other,t2,leave / trace / gift,3,33,0.090909
+2024,L - Beyond Black Rock City,genderxregion,M | US Other,t6,leave / trace / open,2,33,0.060606
+2024,L - Beyond Black Rock City,genderxregion,M | US Other,t7,life / open / more,1,33,0.030303
+2024,L - Beyond Black Rock City,genderxregion,F | US Other,t0,more / self / radical,22,26,0.846154
+2024,L - Beyond Black Rock City,genderxregion,F | US Other,t5,love / kindness / peace,2,26,0.076923
+2024,L - Beyond Black Rock City,genderxregion,F | US Other,t3,joining / sexy / most,1,26,0.038462
+2024,L - Beyond Black Rock City,genderxregion,F | US Other,t7,life / open / more,1,26,0.038462
+2024,L - Beyond Black Rock City,genderxregion,M | Local/West,t7,life / open / more,1,17,0.058824
+2024,L - Beyond Black Rock City,genderxregion,M | Local/West,t0,more / self / radical,14,17,0.823529
+2024,L - Beyond Black Rock City,genderxregion,M | Local/West,t6,leave / trace / open,2,17,0.117647
+2024,L - Beyond Black Rock City,genderxregion,F | Local/West,t0,more / self / radical,29,33,0.878788
+2024,L - Beyond Black Rock City,genderxregion,F | Local/West,t7,life / open / more,1,33,0.030303
+2024,L - Beyond Black Rock City,genderxregion,F | Local/West,t4,okay / beige / outside,2,33,0.060606
+2024,L - Beyond Black Rock City,genderxregion,F | Local/West,t1,part / yet / big,1,33,0.030303
+2024,H - Experiences,burn_status,Virgin,t2,being / here / new,6,44,0.136364
+2024,H - Experiences,burn_status,Virgin,t6,fun / dust / love,6,44,0.136364
+2024,H - Experiences,burn_status,Virgin,t3,art / was / own,7,44,0.159091
+2024,H - Experiences,burn_status,Virgin,t7,all / positive / experiences,5,44,0.113636
+2024,H - Experiences,burn_status,Virgin,t1,community / heat / friends,14,44,0.318182
+2024,H - Experiences,burn_status,Virgin,t0,drugs / bad / too,4,44,0.090909
+2024,H - Experiences,burn_status,Virgin,t4,weather / art / serendipity,1,44,0.022727
+2024,H - Experiences,burn_status,Virgin,t5,camp / doing / issues,1,44,0.022727
+2024,H - Experiences,burn_status,Veteran,t4,weather / art / serendipity,3,35,0.085714
+2024,H - Experiences,burn_status,Veteran,t7,all / positive / experiences,3,35,0.085714
+2024,H - Experiences,burn_status,Veteran,t3,art / was / own,5,35,0.142857
+2024,H - Experiences,burn_status,Veteran,t1,community / heat / friends,15,35,0.428571
+2024,H - Experiences,burn_status,Veteran,t0,drugs / bad / too,3,35,0.085714
+2024,H - Experiences,burn_status,Veteran,t6,fun / dust / love,2,35,0.057143
+2024,H - Experiences,burn_status,Veteran,t5,camp / doing / issues,1,35,0.028571
+2024,H - Experiences,burn_status,Veteran,t2,being / here / new,3,35,0.085714
+2024,H - Experiences,burn_status,Elder,t0,drugs / bad / too,2,18,0.111111
+2024,H - Experiences,burn_status,Elder,t1,community / heat / friends,8,18,0.444444
+2024,H - Experiences,burn_status,Elder,t2,being / here / new,2,18,0.111111
+2024,H - Experiences,burn_status,Elder,t6,fun / dust / love,2,18,0.111111
+2024,H - Experiences,burn_status,Elder,t5,camp / doing / issues,1,18,0.055556
+2024,H - Experiences,burn_status,Elder,t4,weather / art / serendipity,1,18,0.055556
+2024,H - Experiences,burn_status,Elder,t7,all / positive / experiences,2,18,0.111111
+2024,H - Experiences,burn_status,Sophomore,t0,drugs / bad / too,4,36,0.111111
+2024,H - Experiences,burn_status,Sophomore,t4,weather / art / serendipity,2,36,0.055556
+2024,H - Experiences,burn_status,Sophomore,t1,community / heat / friends,17,36,0.472222
+2024,H - Experiences,burn_status,Sophomore,t3,art / was / own,7,36,0.194444
+2024,H - Experiences,burn_status,Sophomore,t2,being / here / new,3,36,0.083333
+2024,H - Experiences,burn_status,Sophomore,t6,fun / dust / love,2,36,0.055556
+2024,H - Experiences,burn_status,Sophomore,t5,camp / doing / issues,1,36,0.027778
+2024,H - Experiences,gender,O,t4,weather / art / serendipity,2,27,0.074074
+2024,H - Experiences,gender,O,t7,all / positive / experiences,2,27,0.074074
+2024,H - Experiences,gender,O,t1,community / heat / friends,14,27,0.518519
+2024,H - Experiences,gender,O,t3,art / was / own,6,27,0.222222
+2024,H - Experiences,gender,O,t5,camp / doing / issues,1,27,0.037037
+2024,H - Experiences,gender,O,t2,being / here / new,1,27,0.037037
+2024,H - Experiences,gender,O,t6,fun / dust / love,1,27,0.037037
+2024,H - Experiences,gender,F,t2,being / here / new,7,53,0.132075
+2024,H - Experiences,gender,F,t4,weather / art / serendipity,3,53,0.056604
+2024,H - Experiences,gender,F,t1,community / heat / friends,19,53,0.358491
+2024,H - Experiences,gender,F,t3,art / was / own,5,53,0.09434
+2024,H - Experiences,gender,F,t6,fun / dust / love,8,53,0.150943
+2024,H - Experiences,gender,F,t0,drugs / bad / too,5,53,0.09434
+2024,H - Experiences,gender,F,t7,all / positive / experiences,4,53,0.075472
+2024,H - Experiences,gender,F,t5,camp / doing / issues,2,53,0.037736
+2024,H - Experiences,gender,M,t0,drugs / bad / too,8,61,0.131148
+2024,H - Experiences,gender,M,t1,community / heat / friends,24,61,0.393443
+2024,H - Experiences,gender,M,t6,fun / dust / love,4,61,0.065574
+2024,H - Experiences,gender,M,t2,being / here / new,8,61,0.131148
+2024,H - Experiences,gender,M,t4,weather / art / serendipity,3,61,0.04918
+2024,H - Experiences,gender,M,t3,art / was / own,8,61,0.131148
+2024,H - Experiences,gender,M,t7,all / positive / experiences,5,61,0.081967
+2024,H - Experiences,gender,M,t5,camp / doing / issues,1,61,0.016393
+2024,H - Experiences,region,Local/West,t4,weather / art / serendipity,5,73,0.068493
+2024,H - Experiences,region,Local/West,t1,community / heat / friends,26,73,0.356164
+2024,H - Experiences,region,Local/West,t0,drugs / bad / too,9,73,0.123288
+2024,H - Experiences,region,Local/West,t2,being / here / new,9,73,0.123288
+2024,H - Experiences,region,Local/West,t3,art / was / own,10,73,0.136986
+2024,H - Experiences,region,Local/West,t7,all / positive / experiences,7,73,0.09589
+2024,H - Experiences,region,Local/West,t6,fun / dust / love,4,73,0.054795
+2024,H - Experiences,region,Local/West,t5,camp / doing / issues,3,73,0.041096
+2024,H - Experiences,region,US Other,t0,drugs / bad / too,5,63,0.079365
+2024,H - Experiences,region,US Other,t6,fun / dust / love,9,63,0.142857
+2024,H - Experiences,region,US Other,t2,being / here / new,4,63,0.063492
+2024,H - Experiences,region,US Other,t4,weather / art / serendipity,2,63,0.031746
+2024,H - Experiences,region,US Other,t3,art / was / own,7,63,0.111111
+2024,H - Experiences,region,US Other,t7,all / positive / experiences,4,63,0.063492
+2024,H - Experiences,region,US Other,t1,community / heat / friends,30,63,0.47619
+2024,H - Experiences,region,US Other,t5,camp / doing / issues,2,63,0.031746
+2024,H - Experiences,age_band,30s,t4,weather / art / serendipity,3,60,0.05
+2024,H - Experiences,age_band,30s,t2,being / here / new,7,60,0.116667
+2024,H - Experiences,age_band,30s,t3,art / was / own,9,60,0.15
+2024,H - Experiences,age_band,30s,t1,community / heat / friends,27,60,0.45
+2024,H - Experiences,age_band,30s,t0,drugs / bad / too,8,60,0.133333
+2024,H - Experiences,age_band,30s,t7,all / positive / experiences,3,60,0.05
+2024,H - Experiences,age_band,30s,t6,fun / dust / love,2,60,0.033333
+2024,H - Experiences,age_band,30s,t5,camp / doing / issues,1,60,0.016667
+2024,H - Experiences,age_band,60+,t0,drugs / bad / too,1,15,0.066667
+2024,H - Experiences,age_band,60+,t2,being / here / new,1,15,0.066667
+2024,H - Experiences,age_band,60+,t4,weather / art / serendipity,2,15,0.133333
+2024,H - Experiences,age_band,60+,t1,community / heat / friends,7,15,0.466667
+2024,H - Experiences,age_band,60+,t6,fun / dust / love,1,15,0.066667
+2024,H - Experiences,age_band,60+,t3,art / was / own,1,15,0.066667
+2024,H - Experiences,age_band,60+,t5,camp / doing / issues,2,15,0.133333
+2024,H - Experiences,age_band,50s,t1,community / heat / friends,7,16,0.4375
+2024,H - Experiences,age_band,50s,t7,all / positive / experiences,3,16,0.1875
+2024,H - Experiences,age_band,50s,t6,fun / dust / love,2,16,0.125
+2024,H - Experiences,age_band,50s,t0,drugs / bad / too,1,16,0.0625
+2024,H - Experiences,age_band,50s,t3,art / was / own,2,16,0.125
+2024,H - Experiences,age_band,50s,t2,being / here / new,1,16,0.0625
+2024,H - Experiences,age_band,40s,t6,fun / dust / love,5,24,0.208333
+2024,H - Experiences,age_band,40s,t4,weather / art / serendipity,2,24,0.083333
+2024,H - Experiences,age_band,40s,t1,community / heat / friends,6,24,0.25
+2024,H - Experiences,age_band,40s,t2,being / here / new,3,24,0.125
+2024,H - Experiences,age_band,40s,t5,camp / doing / issues,2,24,0.083333
+2024,H - Experiences,age_band,40s,t0,drugs / bad / too,1,24,0.041667
+2024,H - Experiences,age_band,40s,t3,art / was / own,3,24,0.125
+2024,H - Experiences,age_band,40s,t7,all / positive / experiences,2,24,0.083333
+2024,H - Experiences,age_band,<30,t0,drugs / bad / too,3,23,0.130435
+2024,H - Experiences,age_band,<30,t2,being / here / new,2,23,0.086957
+2024,H - Experiences,age_band,<30,t7,all / positive / experiences,3,23,0.130435
+2024,H - Experiences,age_band,<30,t3,art / was / own,4,23,0.173913
+2024,H - Experiences,age_band,<30,t6,fun / dust / love,3,23,0.130435
+2024,H - Experiences,age_band,<30,t1,community / heat / friends,7,23,0.304348
+2024,H - Experiences,age_band,<30,t4,weather / art / serendipity,1,23,0.043478
+2024,H - Experiences,burn_statusxgender,Virgin | F,t2,being / here / new,3,18,0.166667
+2024,H - Experiences,burn_statusxgender,Virgin | F,t3,art / was / own,3,18,0.166667
+2024,H - Experiences,burn_statusxgender,Virgin | F,t6,fun / dust / love,3,18,0.166667
+2024,H - Experiences,burn_statusxgender,Virgin | F,t0,drugs / bad / too,2,18,0.111111
+2024,H - Experiences,burn_statusxgender,Virgin | F,t7,all / positive / experiences,3,18,0.166667
+2024,H - Experiences,burn_statusxgender,Virgin | F,t4,weather / art / serendipity,1,18,0.055556
+2024,H - Experiences,burn_statusxgender,Virgin | F,t1,community / heat / friends,3,18,0.166667
+2024,H - Experiences,burn_statusxgender,Virgin | M,t6,fun / dust / love,3,19,0.157895
+2024,H - Experiences,burn_statusxgender,Virgin | M,t3,art / was / own,2,19,0.105263
+2024,H - Experiences,burn_statusxgender,Virgin | M,t1,community / heat / friends,7,19,0.368421
+2024,H - Experiences,burn_statusxgender,Virgin | M,t2,being / here / new,3,19,0.157895
+2024,H - Experiences,burn_statusxgender,Virgin | M,t0,drugs / bad / too,2,19,0.105263
+2024,H - Experiences,burn_statusxgender,Virgin | M,t7,all / positive / experiences,1,19,0.052632
+2024,H - Experiences,burn_statusxgender,Virgin | M,t5,camp / doing / issues,1,19,0.052632
+2024,H - Experiences,burn_statusxgender,Veteran | M,t4,weather / art / serendipity,2,15,0.133333
+2024,H - Experiences,burn_statusxgender,Veteran | M,t7,all / positive / experiences,2,15,0.133333
+2024,H - Experiences,burn_statusxgender,Veteran | M,t1,community / heat / friends,6,15,0.4
+2024,H - Experiences,burn_statusxgender,Veteran | M,t0,drugs / bad / too,1,15,0.066667
+2024,H - Experiences,burn_statusxgender,Veteran | M,t3,art / was / own,2,15,0.133333
+2024,H - Experiences,burn_statusxgender,Veteran | M,t2,being / here / new,2,15,0.133333
+2024,H - Experiences,burn_statusxregion,Veteran | Local/West,t4,weather / art / serendipity,2,17,0.117647
+2024,H - Experiences,burn_statusxregion,Veteran | Local/West,t1,community / heat / friends,6,17,0.352941
+2024,H - Experiences,burn_statusxregion,Veteran | Local/West,t7,all / positive / experiences,1,17,0.058824
+2024,H - Experiences,burn_statusxregion,Veteran | Local/West,t0,drugs / bad / too,2,17,0.117647
+2024,H - Experiences,burn_statusxregion,Veteran | Local/West,t3,art / was / own,3,17,0.176471
+2024,H - Experiences,burn_statusxregion,Veteran | Local/West,t6,fun / dust / love,1,17,0.058824
+2024,H - Experiences,burn_statusxregion,Veteran | Local/West,t2,being / here / new,2,17,0.117647
+2024,H - Experiences,burn_statusxregion,Virgin | US Other,t6,fun / dust / love,6,15,0.4
+2024,H - Experiences,burn_statusxregion,Virgin | US Other,t3,art / was / own,1,15,0.066667
+2024,H - Experiences,burn_statusxregion,Virgin | US Other,t7,all / positive / experiences,1,15,0.066667
+2024,H - Experiences,burn_statusxregion,Virgin | US Other,t1,community / heat / friends,6,15,0.4
+2024,H - Experiences,burn_statusxregion,Virgin | US Other,t0,drugs / bad / too,1,15,0.066667
+2024,H - Experiences,burn_statusxregion,Sophomore | US Other,t4,weather / art / serendipity,1,21,0.047619
+2024,H - Experiences,burn_statusxregion,Sophomore | US Other,t1,community / heat / friends,11,21,0.52381
+2024,H - Experiences,burn_statusxregion,Sophomore | US Other,t2,being / here / new,2,21,0.095238
+2024,H - Experiences,burn_statusxregion,Sophomore | US Other,t3,art / was / own,4,21,0.190476
+2024,H - Experiences,burn_statusxregion,Sophomore | US Other,t0,drugs / bad / too,2,21,0.095238
+2024,H - Experiences,burn_statusxregion,Sophomore | US Other,t6,fun / dust / love,1,21,0.047619
+2024,H - Experiences,burn_statusxregion,Veteran | US Other,t7,all / positive / experiences,2,17,0.117647
+2024,H - Experiences,burn_statusxregion,Veteran | US Other,t3,art / was / own,2,17,0.117647
+2024,H - Experiences,burn_statusxregion,Veteran | US Other,t1,community / heat / friends,8,17,0.470588
+2024,H - Experiences,burn_statusxregion,Veteran | US Other,t0,drugs / bad / too,1,17,0.058824
+2024,H - Experiences,burn_statusxregion,Veteran | US Other,t5,camp / doing / issues,1,17,0.058824
+2024,H - Experiences,burn_statusxregion,Veteran | US Other,t4,weather / art / serendipity,1,17,0.058824
+2024,H - Experiences,burn_statusxregion,Veteran | US Other,t6,fun / dust / love,1,17,0.058824
+2024,H - Experiences,burn_statusxregion,Veteran | US Other,t2,being / here / new,1,17,0.058824
+2024,H - Experiences,burn_statusxregion,Virgin | Local/West,t2,being / here / new,3,22,0.136364
+2024,H - Experiences,burn_statusxregion,Virgin | Local/West,t3,art / was / own,4,22,0.181818
+2024,H - Experiences,burn_statusxregion,Virgin | Local/West,t0,drugs / bad / too,3,22,0.136364
+2024,H - Experiences,burn_statusxregion,Virgin | Local/West,t1,community / heat / friends,6,22,0.272727
+2024,H - Experiences,burn_statusxregion,Virgin | Local/West,t7,all / positive / experiences,4,22,0.181818
+2024,H - Experiences,burn_statusxregion,Virgin | Local/West,t4,weather / art / serendipity,1,22,0.045455
+2024,H - Experiences,burn_statusxregion,Virgin | Local/West,t5,camp / doing / issues,1,22,0.045455
+2024,H - Experiences,genderxregion,F | Local/West,t4,weather / art / serendipity,3,27,0.111111
+2024,H - Experiences,genderxregion,F | Local/West,t2,being / here / new,5,27,0.185185
+2024,H - Experiences,genderxregion,F | Local/West,t3,art / was / own,3,27,0.111111
+2024,H - Experiences,genderxregion,F | Local/West,t1,community / heat / friends,5,27,0.185185
+2024,H - Experiences,genderxregion,F | Local/West,t0,drugs / bad / too,3,27,0.111111
+2024,H - Experiences,genderxregion,F | Local/West,t6,fun / dust / love,3,27,0.111111
+2024,H - Experiences,genderxregion,F | Local/West,t7,all / positive / experiences,3,27,0.111111
+2024,H - Experiences,genderxregion,F | Local/West,t5,camp / doing / issues,2,27,0.074074
+2024,H - Experiences,genderxregion,M | US Other,t0,drugs / bad / too,2,25,0.08
+2024,H - Experiences,genderxregion,M | US Other,t6,fun / dust / love,4,25,0.16
+2024,H - Experiences,genderxregion,M | US Other,t2,being / here / new,3,25,0.12
+2024,H - Experiences,genderxregion,M | US Other,t4,weather / art / serendipity,2,25,0.08
+2024,H - Experiences,genderxregion,M | US Other,t3,art / was / own,4,25,0.16
+2024,H - Experiences,genderxregion,M | US Other,t1,community / heat / friends,9,25,0.36
+2024,H - Experiences,genderxregion,M | US Other,t7,all / positive / experiences,1,25,0.04
+2024,H - Experiences,genderxregion,M | Local/West,t1,community / heat / friends,14,32,0.4375
+2024,H - Experiences,genderxregion,M | Local/West,t0,drugs / bad / too,6,32,0.1875
+2024,H - Experiences,genderxregion,M | Local/West,t2,being / here / new,3,32,0.09375
+2024,H - Experiences,genderxregion,M | Local/West,t4,weather / art / serendipity,1,32,0.03125
+2024,H - Experiences,genderxregion,M | Local/West,t3,art / was / own,3,32,0.09375
+2024,H - Experiences,genderxregion,M | Local/West,t7,all / positive / experiences,4,32,0.125
+2024,H - Experiences,genderxregion,M | Local/West,t5,camp / doing / issues,1,32,0.03125
+2024,H - Experiences,genderxregion,F | US Other,t1,community / heat / friends,12,22,0.545455
+2024,H - Experiences,genderxregion,F | US Other,t6,fun / dust / love,5,22,0.227273
+2024,H - Experiences,genderxregion,F | US Other,t3,art / was / own,1,22,0.045455
+2024,H - Experiences,genderxregion,F | US Other,t0,drugs / bad / too,2,22,0.090909
+2024,H - Experiences,genderxregion,F | US Other,t7,all / positive / experiences,1,22,0.045455
+2024,H - Experiences,genderxregion,F | US Other,t2,being / here / new,1,22,0.045455
+2024,F - Costumes,burn_status,Unknown,t0,both / positively / most,2,22,0.090909
+2024,F - Costumes,burn_status,Unknown,t4,clothes / normal / ahead,5,22,0.227273
+2024,F - Costumes,burn_status,Unknown,t7,more / much / comfortable,5,22,0.227273
+2024,F - Costumes,burn_status,Unknown,t1,plan / ahead / others,3,22,0.136364
+2024,F - Costumes,burn_status,Unknown,t2,myself / comfort / express,3,22,0.136364
+2024,F - Costumes,burn_status,Unknown,t6,outfits / love / more,2,22,0.090909
+2024,F - Costumes,burn_status,Unknown,t5,good / conversation / fun,1,22,0.045455
+2024,F - Costumes,burn_status,Unknown,t3,mood / self / depends,1,22,0.045455
+2024,F - Costumes,burn_status,Virgin,t6,outfits / love / more,5,38,0.131579
+2024,F - Costumes,burn_status,Virgin,t5,good / conversation / fun,3,38,0.078947
+2024,F - Costumes,burn_status,Virgin,t7,more / much / comfortable,12,38,0.315789
+2024,F - Costumes,burn_status,Virgin,t2,myself / comfort / express,5,38,0.131579
+2024,F - Costumes,burn_status,Virgin,t4,clothes / normal / ahead,2,38,0.052632
+2024,F - Costumes,burn_status,Virgin,t1,plan / ahead / others,3,38,0.078947
+2024,F - Costumes,burn_status,Virgin,t3,mood / self / depends,6,38,0.157895
+2024,F - Costumes,burn_status,Virgin,t0,both / positively / most,2,38,0.052632
+2024,F - Costumes,burn_status,Veteran,t7,more / much / comfortable,6,29,0.206897
+2024,F - Costumes,burn_status,Veteran,t2,myself / comfort / express,8,29,0.275862
+2024,F - Costumes,burn_status,Veteran,t3,mood / self / depends,3,29,0.103448
+2024,F - Costumes,burn_status,Veteran,t1,plan / ahead / others,2,29,0.068966
+2024,F - Costumes,burn_status,Veteran,t5,good / conversation / fun,4,29,0.137931
+2024,F - Costumes,burn_status,Veteran,t6,outfits / love / more,4,29,0.137931
+2024,F - Costumes,burn_status,Veteran,t4,clothes / normal / ahead,2,29,0.068966
+2024,F - Costumes,burn_status,Elder,t2,myself / comfort / express,3,17,0.176471
+2024,F - Costumes,burn_status,Elder,t7,more / much / comfortable,3,17,0.176471
+2024,F - Costumes,burn_status,Elder,t6,outfits / love / more,3,17,0.176471
+2024,F - Costumes,burn_status,Elder,t0,both / positively / most,1,17,0.058824
+2024,F - Costumes,burn_status,Elder,t5,good / conversation / fun,3,17,0.176471
+2024,F - Costumes,burn_status,Elder,t1,plan / ahead / others,2,17,0.117647
+2024,F - Costumes,burn_status,Elder,t3,mood / self / depends,2,17,0.117647
+2024,F - Costumes,burn_status,Sophomore,t0,both / positively / most,2,33,0.060606
+2024,F - Costumes,burn_status,Sophomore,t1,plan / ahead / others,6,33,0.181818
+2024,F - Costumes,burn_status,Sophomore,t4,clothes / normal / ahead,5,33,0.151515
+2024,F - Costumes,burn_status,Sophomore,t7,more / much / comfortable,8,33,0.242424
+2024,F - Costumes,burn_status,Sophomore,t6,outfits / love / more,3,33,0.090909
+2024,F - Costumes,burn_status,Sophomore,t5,good / conversation / fun,1,33,0.030303
+2024,F - Costumes,burn_status,Sophomore,t2,myself / comfort / express,3,33,0.090909
+2024,F - Costumes,burn_status,Sophomore,t3,mood / self / depends,5,33,0.151515
+2024,F - Costumes,gender,M,t0,both / positively / most,3,54,0.055556
+2024,F - Costumes,gender,M,t6,outfits / love / more,9,54,0.166667
+2024,F - Costumes,gender,M,t5,good / conversation / fun,5,54,0.092593
+2024,F - Costumes,gender,M,t2,myself / comfort / express,7,54,0.12963
+2024,F - Costumes,gender,M,t7,more / much / comfortable,14,54,0.259259
+2024,F - Costumes,gender,M,t4,clothes / normal / ahead,2,54,0.037037
+2024,F - Costumes,gender,M,t1,plan / ahead / others,8,54,0.148148
+2024,F - Costumes,gender,M,t3,mood / self / depends,6,54,0.111111
+2024,F - Costumes,gender,O,t0,both / positively / most,1,24,0.041667
+2024,F - Costumes,gender,O,t4,clothes / normal / ahead,5,24,0.208333
+2024,F - Costumes,gender,O,t7,more / much / comfortable,8,24,0.333333
+2024,F - Costumes,gender,O,t2,myself / comfort / express,2,24,0.083333
+2024,F - Costumes,gender,O,t6,outfits / love / more,3,24,0.125
+2024,F - Costumes,gender,O,t1,plan / ahead / others,1,24,0.041667
+2024,F - Costumes,gender,O,t5,good / conversation / fun,1,24,0.041667
+2024,F - Costumes,gender,O,t3,mood / self / depends,3,24,0.125
+2024,F - Costumes,gender,F,t7,more / much / comfortable,12,58,0.206897
+2024,F - Costumes,gender,F,t2,myself / comfort / express,12,58,0.206897
+2024,F - Costumes,gender,F,t3,mood / self / depends,8,58,0.137931
+2024,F - Costumes,gender,F,t1,plan / ahead / others,7,58,0.12069
+2024,F - Costumes,gender,F,t4,clothes / normal / ahead,6,58,0.103448
+2024,F - Costumes,gender,F,t6,outfits / love / more,4,58,0.068966
+2024,F - Costumes,gender,F,t5,good / conversation / fun,6,58,0.103448
+2024,F - Costumes,gender,F,t0,both / positively / most,3,58,0.051724
+2024,F - Costumes,region,US Other,t0,both / positively / most,3,67,0.044776
+2024,F - Costumes,region,US Other,t6,outfits / love / more,10,67,0.149254
+2024,F - Costumes,region,US Other,t2,myself / comfort / express,11,67,0.164179
+2024,F - Costumes,region,US Other,t5,good / conversation / fun,6,67,0.089552
+2024,F - Costumes,region,US Other,t7,more / much / comfortable,16,67,0.238806
+2024,F - Costumes,region,US Other,t3,mood / self / depends,7,67,0.104478
+2024,F - Costumes,region,US Other,t1,plan / ahead / others,9,67,0.134328
+2024,F - Costumes,region,US Other,t4,clothes / normal / ahead,5,67,0.074627
+2024,F - Costumes,region,Local/West,t7,more / much / comfortable,16,66,0.242424
+2024,F - Costumes,region,Local/West,t0,both / positively / most,4,66,0.060606
+2024,F - Costumes,region,Local/West,t2,myself / comfort / express,10,66,0.151515
+2024,F - Costumes,region,Local/West,t4,clothes / normal / ahead,9,66,0.136364
+2024,F - Costumes,region,Local/West,t5,good / conversation / fun,5,66,0.075758
+2024,F - Costumes,region,Local/West,t3,mood / self / depends,10,66,0.151515
+2024,F - Costumes,region,Local/West,t6,outfits / love / more,7,66,0.106061
+2024,F - Costumes,region,Local/West,t1,plan / ahead / others,5,66,0.075758
+2024,F - Costumes,age_band,30s,t6,outfits / love / more,8,53,0.150943
+2024,F - Costumes,age_band,30s,t2,myself / comfort / express,11,53,0.207547
+2024,F - Costumes,age_band,30s,t5,good / conversation / fun,3,53,0.056604
+2024,F - Costumes,age_band,30s,t0,both / positively / most,1,53,0.018868
+2024,F - Costumes,age_band,30s,t4,clothes / normal / ahead,8,53,0.150943
+2024,F - Costumes,age_band,30s,t1,plan / ahead / others,4,53,0.075472
+2024,F - Costumes,age_band,30s,t7,more / much / comfortable,13,53,0.245283
+2024,F - Costumes,age_band,30s,t3,mood / self / depends,5,53,0.09434
+2024,F - Costumes,age_band,40s,t7,more / much / comfortable,6,27,0.222222
+2024,F - Costumes,age_band,40s,t3,mood / self / depends,4,27,0.148148
+2024,F - Costumes,age_band,40s,t2,myself / comfort / express,4,27,0.148148
+2024,F - Costumes,age_band,40s,t6,outfits / love / more,3,27,0.111111
+2024,F - Costumes,age_band,40s,t0,both / positively / most,2,27,0.074074
+2024,F - Costumes,age_band,40s,t1,plan / ahead / others,6,27,0.222222
+2024,F - Costumes,age_band,40s,t5,good / conversation / fun,2,27,0.074074
+2024,F - Costumes,age_band,<30,t7,more / much / comfortable,6,19,0.315789
+2024,F - Costumes,age_band,<30,t6,outfits / love / more,4,19,0.210526
+2024,F - Costumes,age_band,<30,t2,myself / comfort / express,3,19,0.157895
+2024,F - Costumes,age_band,<30,t5,good / conversation / fun,1,19,0.052632
+2024,F - Costumes,age_band,<30,t4,clothes / normal / ahead,3,19,0.157895
+2024,F - Costumes,age_band,<30,t0,both / positively / most,1,19,0.052632
+2024,F - Costumes,age_band,<30,t3,mood / self / depends,1,19,0.052632
+2024,F - Costumes,age_band,50s,t1,plan / ahead / others,5,18,0.277778
+2024,F - Costumes,age_band,50s,t4,clothes / normal / ahead,1,18,0.055556
+2024,F - Costumes,age_band,50s,t5,good / conversation / fun,3,18,0.166667
+2024,F - Costumes,age_band,50s,t3,mood / self / depends,4,18,0.222222
+2024,F - Costumes,age_band,50s,t2,myself / comfort / express,3,18,0.166667
+2024,F - Costumes,age_band,50s,t6,outfits / love / more,1,18,0.055556
+2024,F - Costumes,age_band,50s,t7,more / much / comfortable,1,18,0.055556
+2024,F - Costumes,burn_statusxgender,Virgin | M,t6,outfits / love / more,2,20,0.1
+2024,F - Costumes,burn_statusxgender,Virgin | M,t5,good / conversation / fun,2,20,0.1
+2024,F - Costumes,burn_statusxgender,Virgin | M,t7,more / much / comfortable,6,20,0.3
+2024,F - Costumes,burn_statusxgender,Virgin | M,t2,myself / comfort / express,2,20,0.1
+2024,F - Costumes,burn_statusxgender,Virgin | M,t1,plan / ahead / others,3,20,0.15
+2024,F - Costumes,burn_statusxgender,Virgin | M,t3,mood / self / depends,4,20,0.2
+2024,F - Costumes,burn_statusxgender,Virgin | M,t0,both / positively / most,1,20,0.05
+2024,F - Costumes,burn_statusxgender,Veteran | M,t2,myself / comfort / express,5,16,0.3125
+2024,F - Costumes,burn_statusxgender,Veteran | M,t7,more / much / comfortable,3,16,0.1875
+2024,F - Costumes,burn_statusxgender,Veteran | M,t1,plan / ahead / others,2,16,0.125
+2024,F - Costumes,burn_statusxgender,Veteran | M,t5,good / conversation / fun,2,16,0.125
+2024,F - Costumes,burn_statusxgender,Veteran | M,t6,outfits / love / more,3,16,0.1875
+2024,F - Costumes,burn_statusxgender,Veteran | M,t3,mood / self / depends,1,16,0.0625
+2024,F - Costumes,burn_statusxgender,Sophomore | F,t1,plan / ahead / others,5,22,0.227273
+2024,F - Costumes,burn_statusxgender,Sophomore | F,t6,outfits / love / more,2,22,0.090909
+2024,F - Costumes,burn_statusxgender,Sophomore | F,t5,good / conversation / fun,1,22,0.045455
+2024,F - Costumes,burn_statusxgender,Sophomore | F,t4,clothes / normal / ahead,4,22,0.181818
+2024,F - Costumes,burn_statusxgender,Sophomore | F,t7,more / much / comfortable,4,22,0.181818
+2024,F - Costumes,burn_statusxgender,Sophomore | F,t2,myself / comfort / express,2,22,0.090909
+2024,F - Costumes,burn_statusxgender,Sophomore | F,t3,mood / self / depends,3,22,0.136364
+2024,F - Costumes,burn_statusxgender,Sophomore | F,t0,both / positively / most,1,22,0.045455
+2024,F - Costumes,burn_statusxregion,Virgin | US Other,t6,outfits / love / more,4,22,0.181818
+2024,F - Costumes,burn_statusxregion,Virgin | US Other,t5,good / conversation / fun,2,22,0.090909
+2024,F - Costumes,burn_statusxregion,Virgin | US Other,t7,more / much / comfortable,5,22,0.227273
+2024,F - Costumes,burn_statusxregion,Virgin | US Other,t4,clothes / normal / ahead,2,22,0.090909
+2024,F - Costumes,burn_statusxregion,Virgin | US Other,t1,plan / ahead / others,3,22,0.136364
+2024,F - Costumes,burn_statusxregion,Virgin | US Other,t0,both / positively / most,1,22,0.045455
+2024,F - Costumes,burn_statusxregion,Virgin | US Other,t3,mood / self / depends,2,22,0.090909
+2024,F - Costumes,burn_statusxregion,Virgin | US Other,t2,myself / comfort / express,3,22,0.136364
+2024,F - Costumes,burn_statusxregion,Veteran | Local/West,t7,more / much / comfortable,3,17,0.176471
+2024,F - Costumes,burn_statusxregion,Veteran | Local/West,t2,myself / comfort / express,5,17,0.294118
+2024,F - Costumes,burn_statusxregion,Veteran | Local/West,t5,good / conversation / fun,3,17,0.176471
+2024,F - Costumes,burn_statusxregion,Veteran | Local/West,t6,outfits / love / more,2,17,0.117647
+2024,F - Costumes,burn_statusxregion,Veteran | Local/West,t1,plan / ahead / others,1,17,0.058824
+2024,F - Costumes,burn_statusxregion,Veteran | Local/West,t4,clothes / normal / ahead,2,17,0.117647
+2024,F - Costumes,burn_statusxregion,Veteran | Local/West,t3,mood / self / depends,1,17,0.058824
+2024,F - Costumes,burn_statusxregion,Sophomore | Local/West,t0,both / positively / most,2,16,0.125
+2024,F - Costumes,burn_statusxregion,Sophomore | Local/West,t4,clothes / normal / ahead,4,16,0.25
+2024,F - Costumes,burn_statusxregion,Sophomore | Local/West,t2,myself / comfort / express,2,16,0.125
+2024,F - Costumes,burn_statusxregion,Sophomore | Local/West,t6,outfits / love / more,1,16,0.0625
+2024,F - Costumes,burn_statusxregion,Sophomore | Local/West,t7,more / much / comfortable,5,16,0.3125
+2024,F - Costumes,burn_statusxregion,Sophomore | Local/West,t3,mood / self / depends,2,16,0.125
+2024,F - Costumes,burn_statusxregion,Sophomore | US Other,t1,plan / ahead / others,5,16,0.3125
+2024,F - Costumes,burn_statusxregion,Sophomore | US Other,t7,more / much / comfortable,3,16,0.1875
+2024,F - Costumes,burn_statusxregion,Sophomore | US Other,t6,outfits / love / more,2,16,0.125
+2024,F - Costumes,burn_statusxregion,Sophomore | US Other,t5,good / conversation / fun,1,16,0.0625
+2024,F - Costumes,burn_statusxregion,Sophomore | US Other,t3,mood / self / depends,3,16,0.1875
+2024,F - Costumes,burn_statusxregion,Sophomore | US Other,t4,clothes / normal / ahead,1,16,0.0625
+2024,F - Costumes,burn_statusxregion,Sophomore | US Other,t2,myself / comfort / express,1,16,0.0625
+2024,F - Costumes,burn_statusxregion,Virgin | Local/West,t2,myself / comfort / express,2,15,0.133333
+2024,F - Costumes,burn_statusxregion,Virgin | Local/West,t5,good / conversation / fun,1,15,0.066667
+2024,F - Costumes,burn_statusxregion,Virgin | Local/West,t7,more / much / comfortable,6,15,0.4
+2024,F - Costumes,burn_statusxregion,Virgin | Local/West,t3,mood / self / depends,4,15,0.266667
+2024,F - Costumes,burn_statusxregion,Virgin | Local/West,t0,both / positively / most,1,15,0.066667
+2024,F - Costumes,burn_statusxregion,Virgin | Local/West,t6,outfits / love / more,1,15,0.066667
+2024,F - Costumes,genderxregion,M | US Other,t0,both / positively / most,1,23,0.043478
+2024,F - Costumes,genderxregion,M | US Other,t6,outfits / love / more,5,23,0.217391
+2024,F - Costumes,genderxregion,M | US Other,t5,good / conversation / fun,1,23,0.043478
+2024,F - Costumes,genderxregion,M | US Other,t7,more / much / comfortable,5,23,0.217391
+2024,F - Costumes,genderxregion,M | US Other,t1,plan / ahead / others,5,23,0.217391
+2024,F - Costumes,genderxregion,M | US Other,t2,myself / comfort / express,4,23,0.173913
+2024,F - Costumes,genderxregion,M | US Other,t3,mood / self / depends,2,23,0.086957
+2024,F - Costumes,genderxregion,F | Local/West,t7,more / much / comfortable,6,26,0.230769
+2024,F - Costumes,genderxregion,F | Local/West,t3,mood / self / depends,4,26,0.153846
+2024,F - Costumes,genderxregion,F | Local/West,t4,clothes / normal / ahead,3,26,0.115385
+2024,F - Costumes,genderxregion,F | Local/West,t0,both / positively / most,2,26,0.076923
+2024,F - Costumes,genderxregion,F | Local/West,t2,myself / comfort / express,6,26,0.230769
+2024,F - Costumes,genderxregion,F | Local/West,t1,plan / ahead / others,2,26,0.076923
+2024,F - Costumes,genderxregion,F | Local/West,t5,good / conversation / fun,2,26,0.076923
+2024,F - Costumes,genderxregion,F | Local/West,t6,outfits / love / more,1,26,0.038462
+2024,F - Costumes,genderxregion,F | US Other,t2,myself / comfort / express,5,30,0.166667
+2024,F - Costumes,genderxregion,F | US Other,t3,mood / self / depends,4,30,0.133333
+2024,F - Costumes,genderxregion,F | US Other,t1,plan / ahead / others,4,30,0.133333
+2024,F - Costumes,genderxregion,F | US Other,t4,clothes / normal / ahead,3,30,0.1
+2024,F - Costumes,genderxregion,F | US Other,t6,outfits / love / more,3,30,0.1
+2024,F - Costumes,genderxregion,F | US Other,t5,good / conversation / fun,4,30,0.133333
+2024,F - Costumes,genderxregion,F | US Other,t0,both / positively / most,1,30,0.033333
+2024,F - Costumes,genderxregion,F | US Other,t7,more / much / comfortable,6,30,0.2
+2024,F - Costumes,genderxregion,M | Local/West,t0,both / positively / most,2,28,0.071429
+2024,F - Costumes,genderxregion,M | Local/West,t2,myself / comfort / express,3,28,0.107143
+2024,F - Costumes,genderxregion,M | Local/West,t4,clothes / normal / ahead,2,28,0.071429
+2024,F - Costumes,genderxregion,M | Local/West,t5,good / conversation / fun,3,28,0.107143
+2024,F - Costumes,genderxregion,M | Local/West,t7,more / much / comfortable,8,28,0.285714
+2024,F - Costumes,genderxregion,M | Local/West,t3,mood / self / depends,4,28,0.142857
+2024,F - Costumes,genderxregion,M | Local/West,t6,outfits / love / more,4,28,0.142857
+2024,F - Costumes,genderxregion,M | Local/West,t1,plan / ahead / others,2,28,0.071429
+2024,D - Boundaries of Humanity,burn_status,Sophomore,t6,compassion / future / only,6,29,0.206897
+2024,D - Boundaries of Humanity,burn_status,Sophomore,t4,capacity / being / bad,4,29,0.137931
+2024,D - Boundaries of Humanity,burn_status,Sophomore,t5,emotions / can / humans,4,29,0.137931
+2024,D - Boundaries of Humanity,burn_status,Sophomore,t0,different / don / work,2,29,0.068966
+2024,D - Boundaries of Humanity,burn_status,Sophomore,t3,self / human / intelligence,3,29,0.103448
+2024,D - Boundaries of Humanity,burn_status,Sophomore,t7,love / hope / empathy,2,29,0.068966
+2024,D - Boundaries of Humanity,burn_status,Sophomore,t9,drink / more / moral,2,29,0.068966
+2024,D - Boundaries of Humanity,burn_status,Sophomore,t8,empathy / emotion / cool,4,29,0.137931
+2024,D - Boundaries of Humanity,burn_status,Sophomore,t1,loss / love / humans,1,29,0.034483
+2024,D - Boundaries of Humanity,burn_status,Sophomore,t2,soul / language / experience,1,29,0.034483
+2024,D - Boundaries of Humanity,burn_status,Virgin,t5,emotions / can / humans,2,23,0.086957
+2024,D - Boundaries of Humanity,burn_status,Virgin,t9,drink / more / moral,3,23,0.130435
+2024,D - Boundaries of Humanity,burn_status,Virgin,t8,empathy / emotion / cool,1,23,0.043478
+2024,D - Boundaries of Humanity,burn_status,Virgin,t7,love / hope / empathy,5,23,0.217391
+2024,D - Boundaries of Humanity,burn_status,Virgin,t3,self / human / intelligence,1,23,0.043478
+2024,D - Boundaries of Humanity,burn_status,Virgin,t4,capacity / being / bad,2,23,0.086957
+2024,D - Boundaries of Humanity,burn_status,Virgin,t2,soul / language / experience,3,23,0.130435
+2024,D - Boundaries of Humanity,burn_status,Virgin,t6,compassion / future / only,6,23,0.26087
+2024,D - Boundaries of Humanity,burn_status,Veteran,t5,emotions / can / humans,4,19,0.210526
+2024,D - Boundaries of Humanity,burn_status,Veteran,t6,compassion / future / only,2,19,0.105263
+2024,D - Boundaries of Humanity,burn_status,Veteran,t7,love / hope / empathy,3,19,0.157895
+2024,D - Boundaries of Humanity,burn_status,Veteran,t3,self / human / intelligence,1,19,0.052632
+2024,D - Boundaries of Humanity,burn_status,Veteran,t8,empathy / emotion / cool,2,19,0.105263
+2024,D - Boundaries of Humanity,burn_status,Veteran,t4,capacity / being / bad,2,19,0.105263
+2024,D - Boundaries of Humanity,burn_status,Veteran,t0,different / don / work,3,19,0.157895
+2024,D - Boundaries of Humanity,burn_status,Veteran,t2,soul / language / experience,1,19,0.052632
+2024,D - Boundaries of Humanity,burn_status,Veteran,t9,drink / more / moral,1,19,0.052632
+2024,D - Boundaries of Humanity,burn_status,Unknown,t6,compassion / future / only,7,16,0.4375
+2024,D - Boundaries of Humanity,burn_status,Unknown,t7,love / hope / empathy,2,16,0.125
+2024,D - Boundaries of Humanity,burn_status,Unknown,t1,loss / love / humans,1,16,0.0625
+2024,D - Boundaries of Humanity,burn_status,Unknown,t0,different / don / work,1,16,0.0625
+2024,D - Boundaries of Humanity,burn_status,Unknown,t5,emotions / can / humans,2,16,0.125
+2024,D - Boundaries of Humanity,burn_status,Unknown,t2,soul / language / experience,1,16,0.0625
+2024,D - Boundaries of Humanity,burn_status,Unknown,t8,empathy / emotion / cool,1,16,0.0625
+2024,D - Boundaries of Humanity,burn_status,Unknown,t3,self / human / intelligence,1,16,0.0625
+2024,D - Boundaries of Humanity,gender,M,t6,compassion / future / only,11,43,0.255814
+2024,D - Boundaries of Humanity,gender,M,t9,drink / more / moral,6,43,0.139535
+2024,D - Boundaries of Humanity,gender,M,t4,capacity / being / bad,4,43,0.093023
+2024,D - Boundaries of Humanity,gender,M,t0,different / don / work,2,43,0.046512
+2024,D - Boundaries of Humanity,gender,M,t5,emotions / can / humans,7,43,0.162791
+2024,D - Boundaries of Humanity,gender,M,t7,love / hope / empathy,4,43,0.093023
+2024,D - Boundaries of Humanity,gender,M,t3,self / human / intelligence,6,43,0.139535
+2024,D - Boundaries of Humanity,gender,M,t8,empathy / emotion / cool,1,43,0.023256
+2024,D - Boundaries of Humanity,gender,M,t2,soul / language / experience,2,43,0.046512
+2024,D - Boundaries of Humanity,gender,F,t6,compassion / future / only,6,39,0.153846
+2024,D - Boundaries of Humanity,gender,F,t8,empathy / emotion / cool,5,39,0.128205
+2024,D - Boundaries of Humanity,gender,F,t5,emotions / can / humans,5,39,0.128205
+2024,D - Boundaries of Humanity,gender,F,t7,love / hope / empathy,6,39,0.153846
+2024,D - Boundaries of Humanity,gender,F,t1,loss / love / humans,1,39,0.025641
+2024,D - Boundaries of Humanity,gender,F,t9,drink / more / moral,3,39,0.076923
+2024,D - Boundaries of Humanity,gender,F,t3,self / human / intelligence,1,39,0.025641
+2024,D - Boundaries of Humanity,gender,F,t4,capacity / being / bad,5,39,0.128205
+2024,D - Boundaries of Humanity,gender,F,t0,different / don / work,3,39,0.076923
+2024,D - Boundaries of Humanity,gender,F,t2,soul / language / experience,4,39,0.102564
+2024,D - Boundaries of Humanity,region,US Other,t6,compassion / future / only,11,47,0.234043
+2024,D - Boundaries of Humanity,region,US Other,t5,emotions / can / humans,8,47,0.170213
+2024,D - Boundaries of Humanity,region,US Other,t8,empathy / emotion / cool,2,47,0.042553
+2024,D - Boundaries of Humanity,region,US Other,t0,different / don / work,3,47,0.06383
+2024,D - Boundaries of Humanity,region,US Other,t7,love / hope / empathy,7,47,0.148936
+2024,D - Boundaries of Humanity,region,US Other,t9,drink / more / moral,4,47,0.085106
+2024,D - Boundaries of Humanity,region,US Other,t4,capacity / being / bad,5,47,0.106383
+2024,D - Boundaries of Humanity,region,US Other,t2,soul / language / experience,4,47,0.085106
+2024,D - Boundaries of Humanity,region,US Other,t1,loss / love / humans,1,47,0.021277
+2024,D - Boundaries of Humanity,region,US Other,t3,self / human / intelligence,2,47,0.042553
+2024,D - Boundaries of Humanity,region,Local/West,t9,drink / more / moral,5,45,0.111111
+2024,D - Boundaries of Humanity,region,Local/West,t4,capacity / being / bad,4,45,0.088889
+2024,D - Boundaries of Humanity,region,Local/West,t5,emotions / can / humans,5,45,0.111111
+2024,D - Boundaries of Humanity,region,Local/West,t1,loss / love / humans,1,45,0.022222
+2024,D - Boundaries of Humanity,region,Local/West,t3,self / human / intelligence,5,45,0.111111
+2024,D - Boundaries of Humanity,region,Local/West,t6,compassion / future / only,8,45,0.177778
+2024,D - Boundaries of Humanity,region,Local/West,t7,love / hope / empathy,7,45,0.155556
+2024,D - Boundaries of Humanity,region,Local/West,t8,empathy / emotion / cool,5,45,0.111111
+2024,D - Boundaries of Humanity,region,Local/West,t0,different / don / work,3,45,0.066667
+2024,D - Boundaries of Humanity,region,Local/West,t2,soul / language / experience,2,45,0.044444
+2024,D - Boundaries of Humanity,age_band,40s,t6,compassion / future / only,6,20,0.3
+2024,D - Boundaries of Humanity,age_band,40s,t7,love / hope / empathy,3,20,0.15
+2024,D - Boundaries of Humanity,age_band,40s,t5,emotions / can / humans,3,20,0.15
+2024,D - Boundaries of Humanity,age_band,40s,t2,soul / language / experience,2,20,0.1
+2024,D - Boundaries of Humanity,age_band,40s,t4,capacity / being / bad,3,20,0.15
+2024,D - Boundaries of Humanity,age_band,40s,t1,loss / love / humans,1,20,0.05
+2024,D - Boundaries of Humanity,age_band,40s,t0,different / don / work,1,20,0.05
+2024,D - Boundaries of Humanity,age_band,40s,t3,self / human / intelligence,1,20,0.05
+2024,D - Boundaries of Humanity,age_band,30s,t5,emotions / can / humans,3,33,0.090909
+2024,D - Boundaries of Humanity,age_band,30s,t4,capacity / being / bad,2,33,0.060606
+2024,D - Boundaries of Humanity,age_band,30s,t8,empathy / emotion / cool,6,33,0.181818
+2024,D - Boundaries of Humanity,age_band,30s,t6,compassion / future / only,8,33,0.242424
+2024,D - Boundaries of Humanity,age_band,30s,t0,different / don / work,3,33,0.090909
+2024,D - Boundaries of Humanity,age_band,30s,t9,drink / more / moral,3,33,0.090909
+2024,D - Boundaries of Humanity,age_band,30s,t7,love / hope / empathy,4,33,0.121212
+2024,D - Boundaries of Humanity,age_band,30s,t3,self / human / intelligence,2,33,0.060606
+2024,D - Boundaries of Humanity,age_band,30s,t2,soul / language / experience,2,33,0.060606
+2024,D - Boundaries of Humanity,age_band,<30,t9,drink / more / moral,3,19,0.157895
+2024,D - Boundaries of Humanity,age_band,<30,t5,emotions / can / humans,4,19,0.210526
+2024,D - Boundaries of Humanity,age_band,<30,t6,compassion / future / only,2,19,0.105263
+2024,D - Boundaries of Humanity,age_band,<30,t3,self / human / intelligence,2,19,0.105263
+2024,D - Boundaries of Humanity,age_band,<30,t7,love / hope / empathy,2,19,0.105263
+2024,D - Boundaries of Humanity,age_band,<30,t4,capacity / being / bad,3,19,0.157895
+2024,D - Boundaries of Humanity,age_band,<30,t2,soul / language / experience,2,19,0.105263
+2024,D - Boundaries of Humanity,age_band,<30,t8,empathy / emotion / cool,1,19,0.052632
+2024,D - Boundaries of Humanity,burn_statusxregion,Sophomore | US Other,t6,compassion / future / only,5,18,0.277778
+2024,D - Boundaries of Humanity,burn_statusxregion,Sophomore | US Other,t0,different / don / work,2,18,0.111111
+2024,D - Boundaries of Humanity,burn_statusxregion,Sophomore | US Other,t5,emotions / can / humans,1,18,0.055556
+2024,D - Boundaries of Humanity,burn_statusxregion,Sophomore | US Other,t4,capacity / being / bad,2,18,0.111111
+2024,D - Boundaries of Humanity,burn_statusxregion,Sophomore | US Other,t9,drink / more / moral,2,18,0.111111
+2024,D - Boundaries of Humanity,burn_statusxregion,Sophomore | US Other,t7,love / hope / empathy,1,18,0.055556
+2024,D - Boundaries of Humanity,burn_statusxregion,Sophomore | US Other,t1,loss / love / humans,1,18,0.055556
+2024,D - Boundaries of Humanity,burn_statusxregion,Sophomore | US Other,t3,self / human / intelligence,2,18,0.111111
+2024,D - Boundaries of Humanity,burn_statusxregion,Sophomore | US Other,t8,empathy / emotion / cool,1,18,0.055556
+2024,D - Boundaries of Humanity,burn_statusxregion,Sophomore | US Other,t2,soul / language / experience,1,18,0.055556
+2024,D - Boundaries of Humanity,genderxregion,M | US Other,t6,compassion / future / only,5,18,0.277778
+2024,D - Boundaries of Humanity,genderxregion,M | US Other,t0,different / don / work,2,18,0.111111
+2024,D - Boundaries of Humanity,genderxregion,M | US Other,t5,emotions / can / humans,5,18,0.277778
+2024,D - Boundaries of Humanity,genderxregion,M | US Other,t7,love / hope / empathy,1,18,0.055556
+2024,D - Boundaries of Humanity,genderxregion,M | US Other,t4,capacity / being / bad,3,18,0.166667
+2024,D - Boundaries of Humanity,genderxregion,M | US Other,t3,self / human / intelligence,1,18,0.055556
+2024,D - Boundaries of Humanity,genderxregion,M | US Other,t9,drink / more / moral,1,18,0.055556
+2024,D - Boundaries of Humanity,genderxregion,M | Local/West,t9,drink / more / moral,5,22,0.227273
+2024,D - Boundaries of Humanity,genderxregion,M | Local/West,t4,capacity / being / bad,1,22,0.045455
+2024,D - Boundaries of Humanity,genderxregion,M | Local/West,t5,emotions / can / humans,2,22,0.090909
+2024,D - Boundaries of Humanity,genderxregion,M | Local/West,t6,compassion / future / only,5,22,0.227273
+2024,D - Boundaries of Humanity,genderxregion,M | Local/West,t7,love / hope / empathy,3,22,0.136364
+2024,D - Boundaries of Humanity,genderxregion,M | Local/West,t3,self / human / intelligence,4,22,0.181818
+2024,D - Boundaries of Humanity,genderxregion,M | Local/West,t8,empathy / emotion / cool,1,22,0.045455
+2024,D - Boundaries of Humanity,genderxregion,M | Local/West,t2,soul / language / experience,1,22,0.045455
+2024,D - Boundaries of Humanity,genderxregion,F | US Other,t6,compassion / future / only,4,20,0.2
+2024,D - Boundaries of Humanity,genderxregion,F | US Other,t8,empathy / emotion / cool,2,20,0.1
+2024,D - Boundaries of Humanity,genderxregion,F | US Other,t7,love / hope / empathy,3,20,0.15
+2024,D - Boundaries of Humanity,genderxregion,F | US Other,t9,drink / more / moral,3,20,0.15
+2024,D - Boundaries of Humanity,genderxregion,F | US Other,t4,capacity / being / bad,2,20,0.1
+2024,D - Boundaries of Humanity,genderxregion,F | US Other,t0,different / don / work,1,20,0.05
+2024,D - Boundaries of Humanity,genderxregion,F | US Other,t2,soul / language / experience,3,20,0.15
+2024,D - Boundaries of Humanity,genderxregion,F | US Other,t5,emotions / can / humans,2,20,0.1
+2024,D - Boundaries of Humanity,genderxregion,F | Local/West,t5,emotions / can / humans,3,19,0.157895
+2024,D - Boundaries of Humanity,genderxregion,F | Local/West,t1,loss / love / humans,1,19,0.052632
+2024,D - Boundaries of Humanity,genderxregion,F | Local/West,t3,self / human / intelligence,1,19,0.052632
+2024,D - Boundaries of Humanity,genderxregion,F | Local/West,t4,capacity / being / bad,3,19,0.157895
+2024,D - Boundaries of Humanity,genderxregion,F | Local/West,t7,love / hope / empathy,3,19,0.157895
+2024,D - Boundaries of Humanity,genderxregion,F | Local/West,t8,empathy / emotion / cool,3,19,0.157895
+2024,D - Boundaries of Humanity,genderxregion,F | Local/West,t6,compassion / future / only,2,19,0.105263
+2024,D - Boundaries of Humanity,genderxregion,F | Local/West,t0,different / don / work,2,19,0.105263
+2024,D - Boundaries of Humanity,genderxregion,F | Local/West,t2,soul / language / experience,1,19,0.052632
+2024,K - Diversity & Inclusion,burn_status,Sophomore,t4,sure / bit / watch,4,27,0.148148
+2024,K - Diversity & Inclusion,burn_status,Sophomore,t2,others / express / census,4,27,0.148148
+2024,K - Diversity & Inclusion,burn_status,Sophomore,t6,sometimes / english / hot,3,27,0.111111
+2024,K - Diversity & Inclusion,burn_status,Sophomore,t3,look / sometimes / care,6,27,0.222222
+2024,K - Diversity & Inclusion,burn_status,Sophomore,t1,more / much / way,2,27,0.074074
+2024,K - Diversity & Inclusion,burn_status,Sophomore,t5,hair / dress / dye,1,27,0.037037
+2024,K - Diversity & Inclusion,burn_status,Sophomore,t0,white / male / art,6,27,0.222222
+2024,K - Diversity & Inclusion,burn_status,Sophomore,t8,white / skin / accent,1,27,0.037037
+2024,K - Diversity & Inclusion,burn_status,Unknown,t0,white / male / art,5,21,0.238095
+2024,K - Diversity & Inclusion,burn_status,Unknown,t5,hair / dress / dye,1,21,0.047619
+2024,K - Diversity & Inclusion,burn_status,Unknown,t8,white / skin / accent,4,21,0.190476
+2024,K - Diversity & Inclusion,burn_status,Unknown,t2,others / express / census,3,21,0.142857
+2024,K - Diversity & Inclusion,burn_status,Unknown,t7,fun / life / tattoos,2,21,0.095238
+2024,K - Diversity & Inclusion,burn_status,Unknown,t1,more / much / way,3,21,0.142857
+2024,K - Diversity & Inclusion,burn_status,Unknown,t4,sure / bit / watch,2,21,0.095238
+2024,K - Diversity & Inclusion,burn_status,Unknown,t3,look / sometimes / care,1,21,0.047619
+2024,K - Diversity & Inclusion,burn_status,Virgin,t5,hair / dress / dye,2,17,0.117647
+2024,K - Diversity & Inclusion,burn_status,Virgin,t2,others / express / census,3,17,0.176471
+2024,K - Diversity & Inclusion,burn_status,Virgin,t1,more / much / way,2,17,0.117647
+2024,K - Diversity & Inclusion,burn_status,Virgin,t7,fun / life / tattoos,3,17,0.176471
+2024,K - Diversity & Inclusion,burn_status,Virgin,t0,white / male / art,5,17,0.294118
+2024,K - Diversity & Inclusion,burn_status,Virgin,t4,sure / bit / watch,1,17,0.058824
+2024,K - Diversity & Inclusion,burn_status,Virgin,t6,sometimes / english / hot,1,17,0.058824
+2024,K - Diversity & Inclusion,burn_status,Veteran,t1,more / much / way,6,20,0.3
+2024,K - Diversity & Inclusion,burn_status,Veteran,t8,white / skin / accent,1,20,0.05
+2024,K - Diversity & Inclusion,burn_status,Veteran,t3,look / sometimes / care,3,20,0.15
+2024,K - Diversity & Inclusion,burn_status,Veteran,t6,sometimes / english / hot,1,20,0.05
+2024,K - Diversity & Inclusion,burn_status,Veteran,t2,others / express / census,1,20,0.05
+2024,K - Diversity & Inclusion,burn_status,Veteran,t0,white / male / art,5,20,0.25
+2024,K - Diversity & Inclusion,burn_status,Veteran,t5,hair / dress / dye,3,20,0.15
+2024,K - Diversity & Inclusion,gender,F,t4,sure / bit / watch,6,44,0.136364
+2024,K - Diversity & Inclusion,gender,F,t5,hair / dress / dye,6,44,0.136364
+2024,K - Diversity & Inclusion,gender,F,t6,sometimes / english / hot,4,44,0.090909
+2024,K - Diversity & Inclusion,gender,F,t1,more / much / way,5,44,0.113636
+2024,K - Diversity & Inclusion,gender,F,t8,white / skin / accent,3,44,0.068182
+2024,K - Diversity & Inclusion,gender,F,t3,look / sometimes / care,7,44,0.159091
+2024,K - Diversity & Inclusion,gender,F,t2,others / express / census,5,44,0.113636
+2024,K - Diversity & Inclusion,gender,F,t0,white / male / art,6,44,0.136364
+2024,K - Diversity & Inclusion,gender,F,t7,fun / life / tattoos,2,44,0.045455
+2024,K - Diversity & Inclusion,gender,M,t0,white / male / art,14,35,0.4
+2024,K - Diversity & Inclusion,gender,M,t5,hair / dress / dye,2,35,0.057143
+2024,K - Diversity & Inclusion,gender,M,t2,others / express / census,3,35,0.085714
+2024,K - Diversity & Inclusion,gender,M,t3,look / sometimes / care,4,35,0.114286
+2024,K - Diversity & Inclusion,gender,M,t7,fun / life / tattoos,2,35,0.057143
+2024,K - Diversity & Inclusion,gender,M,t1,more / much / way,6,35,0.171429
+2024,K - Diversity & Inclusion,gender,M,t4,sure / bit / watch,1,35,0.028571
+2024,K - Diversity & Inclusion,gender,M,t6,sometimes / english / hot,1,35,0.028571
+2024,K - Diversity & Inclusion,gender,M,t8,white / skin / accent,2,35,0.057143
+2024,K - Diversity & Inclusion,region,US Other,t4,sure / bit / watch,3,41,0.073171
+2024,K - Diversity & Inclusion,region,US Other,t0,white / male / art,10,41,0.243902
+2024,K - Diversity & Inclusion,region,US Other,t2,others / express / census,2,41,0.04878
+2024,K - Diversity & Inclusion,region,US Other,t8,white / skin / accent,4,41,0.097561
+2024,K - Diversity & Inclusion,region,US Other,t1,more / much / way,8,41,0.195122
+2024,K - Diversity & Inclusion,region,US Other,t7,fun / life / tattoos,2,41,0.04878
+2024,K - Diversity & Inclusion,region,US Other,t3,look / sometimes / care,7,41,0.170732
+2024,K - Diversity & Inclusion,region,US Other,t6,sometimes / english / hot,2,41,0.04878
+2024,K - Diversity & Inclusion,region,US Other,t5,hair / dress / dye,3,41,0.073171
+2024,K - Diversity & Inclusion,region,Local/West,t5,hair / dress / dye,5,50,0.1
+2024,K - Diversity & Inclusion,region,Local/West,t2,others / express / census,9,50,0.18
+2024,K - Diversity & Inclusion,region,Local/West,t3,look / sometimes / care,7,50,0.14
+2024,K - Diversity & Inclusion,region,Local/West,t6,sometimes / english / hot,4,50,0.08
+2024,K - Diversity & Inclusion,region,Local/West,t1,more / much / way,5,50,0.1
+2024,K - Diversity & Inclusion,region,Local/West,t0,white / male / art,11,50,0.22
+2024,K - Diversity & Inclusion,region,Local/West,t7,fun / life / tattoos,2,50,0.04
+2024,K - Diversity & Inclusion,region,Local/West,t4,sure / bit / watch,5,50,0.1
+2024,K - Diversity & Inclusion,region,Local/West,t8,white / skin / accent,2,50,0.04
+2024,K - Diversity & Inclusion,age_band,30s,t4,sure / bit / watch,5,38,0.131579
+2024,K - Diversity & Inclusion,age_band,30s,t0,white / male / art,9,38,0.236842
+2024,K - Diversity & Inclusion,age_band,30s,t5,hair / dress / dye,3,38,0.078947
+2024,K - Diversity & Inclusion,age_band,30s,t2,others / express / census,6,38,0.157895
+2024,K - Diversity & Inclusion,age_band,30s,t6,sometimes / english / hot,2,38,0.052632
+2024,K - Diversity & Inclusion,age_band,30s,t1,more / much / way,3,38,0.078947
+2024,K - Diversity & Inclusion,age_band,30s,t8,white / skin / accent,4,38,0.105263
+2024,K - Diversity & Inclusion,age_band,30s,t3,look / sometimes / care,5,38,0.131579
+2024,K - Diversity & Inclusion,age_band,30s,t7,fun / life / tattoos,1,38,0.026316
+2024,K - Diversity & Inclusion,age_band,40s,t5,hair / dress / dye,2,20,0.1
+2024,K - Diversity & Inclusion,age_band,40s,t2,others / express / census,3,20,0.15
+2024,K - Diversity & Inclusion,age_band,40s,t1,more / much / way,5,20,0.25
+2024,K - Diversity & Inclusion,age_band,40s,t7,fun / life / tattoos,1,20,0.05
+2024,K - Diversity & Inclusion,age_band,40s,t0,white / male / art,4,20,0.2
+2024,K - Diversity & Inclusion,age_band,40s,t4,sure / bit / watch,1,20,0.05
+2024,K - Diversity & Inclusion,age_band,40s,t6,sometimes / english / hot,2,20,0.1
+2024,K - Diversity & Inclusion,age_band,40s,t3,look / sometimes / care,2,20,0.1
+2024,K - Diversity & Inclusion,age_band,<30,t8,white / skin / accent,2,19,0.105263
+2024,K - Diversity & Inclusion,age_band,<30,t7,fun / life / tattoos,3,19,0.157895
+2024,K - Diversity & Inclusion,age_band,<30,t6,sometimes / english / hot,2,19,0.105263
+2024,K - Diversity & Inclusion,age_band,<30,t3,look / sometimes / care,4,19,0.210526
+2024,K - Diversity & Inclusion,age_band,<30,t5,hair / dress / dye,1,19,0.052632
+2024,K - Diversity & Inclusion,age_band,<30,t1,more / much / way,2,19,0.105263
+2024,K - Diversity & Inclusion,age_band,<30,t2,others / express / census,1,19,0.052632
+2024,K - Diversity & Inclusion,age_band,<30,t0,white / male / art,4,19,0.210526
+2024,K - Diversity & Inclusion,genderxregion,M | US Other,t0,white / male / art,6,19,0.315789
+2024,K - Diversity & Inclusion,genderxregion,M | US Other,t2,others / express / census,2,19,0.105263
+2024,K - Diversity & Inclusion,genderxregion,M | US Other,t7,fun / life / tattoos,2,19,0.105263
+2024,K - Diversity & Inclusion,genderxregion,M | US Other,t3,look / sometimes / care,2,19,0.105263
+2024,K - Diversity & Inclusion,genderxregion,M | US Other,t1,more / much / way,3,19,0.157895
+2024,K - Diversity & Inclusion,genderxregion,M | US Other,t5,hair / dress / dye,1,19,0.052632
+2024,K - Diversity & Inclusion,genderxregion,M | US Other,t4,sure / bit / watch,1,19,0.052632
+2024,K - Diversity & Inclusion,genderxregion,M | US Other,t6,sometimes / english / hot,1,19,0.052632
+2024,K - Diversity & Inclusion,genderxregion,M | US Other,t8,white / skin / accent,1,19,0.052632
+2024,K - Diversity & Inclusion,genderxregion,F | Local/West,t5,hair / dress / dye,4,27,0.148148
+2024,K - Diversity & Inclusion,genderxregion,F | Local/West,t6,sometimes / english / hot,3,27,0.111111
+2024,K - Diversity & Inclusion,genderxregion,F | Local/West,t1,more / much / way,3,27,0.111111
+2024,K - Diversity & Inclusion,genderxregion,F | Local/West,t3,look / sometimes / care,5,27,0.185185
+2024,K - Diversity & Inclusion,genderxregion,F | Local/West,t2,others / express / census,5,27,0.185185
+2024,K - Diversity & Inclusion,genderxregion,F | Local/West,t4,sure / bit / watch,4,27,0.148148
+2024,K - Diversity & Inclusion,genderxregion,F | Local/West,t0,white / male / art,1,27,0.037037
+2024,K - Diversity & Inclusion,genderxregion,F | Local/West,t7,fun / life / tattoos,1,27,0.037037
+2024,K - Diversity & Inclusion,genderxregion,F | Local/West,t8,white / skin / accent,1,27,0.037037
+2024,G - Drinking & Smoking,burn_status,Unknown,t6,little / drink / smoke,5,27,0.185185
+2024,G - Drinking & Smoking,burn_status,Unknown,t0,smoke / weed / drink,5,27,0.185185
+2024,G - Drinking & Smoking,burn_status,Unknown,t1,all / shade / impact,9,27,0.333333
+2024,G - Drinking & Smoking,burn_status,Unknown,t2,more / fun / drinking,2,27,0.074074
+2024,G - Drinking & Smoking,burn_status,Unknown,t3,cannabis / alcohol / daily,3,27,0.111111
+2024,G - Drinking & Smoking,burn_status,Unknown,t5,less / smoking / play,2,27,0.074074
+2024,G - Drinking & Smoking,burn_status,Unknown,t7,same / much / vape,1,27,0.037037
+2024,G - Drinking & Smoking,burn_status,Sophomore,t7,same / much / vape,7,30,0.233333
+2024,G - Drinking & Smoking,burn_status,Sophomore,t0,smoke / weed / drink,6,30,0.2
+2024,G - Drinking & Smoking,burn_status,Sophomore,t2,more / fun / drinking,4,30,0.133333
+2024,G - Drinking & Smoking,burn_status,Sophomore,t3,cannabis / alcohol / daily,1,30,0.033333
+2024,G - Drinking & Smoking,burn_status,Sophomore,t6,little / drink / smoke,7,30,0.233333
+2024,G - Drinking & Smoking,burn_status,Sophomore,t5,less / smoking / play,2,30,0.066667
+2024,G - Drinking & Smoking,burn_status,Sophomore,t1,all / shade / impact,2,30,0.066667
+2024,G - Drinking & Smoking,burn_status,Sophomore,t4,recreation / change / legal,1,30,0.033333
+2024,G - Drinking & Smoking,burn_status,Elder,t7,same / much / vape,2,18,0.111111
+2024,G - Drinking & Smoking,burn_status,Elder,t2,more / fun / drinking,3,18,0.166667
+2024,G - Drinking & Smoking,burn_status,Elder,t1,all / shade / impact,7,18,0.388889
+2024,G - Drinking & Smoking,burn_status,Elder,t6,little / drink / smoke,2,18,0.111111
+2024,G - Drinking & Smoking,burn_status,Elder,t0,smoke / weed / drink,3,18,0.166667
+2024,G - Drinking & Smoking,burn_status,Elder,t4,recreation / change / legal,1,18,0.055556
+2024,G - Drinking & Smoking,burn_status,Veteran,t1,all / shade / impact,7,25,0.28
+2024,G - Drinking & Smoking,burn_status,Veteran,t0,smoke / weed / drink,4,25,0.16
+2024,G - Drinking & Smoking,burn_status,Veteran,t2,more / fun / drinking,3,25,0.12
+2024,G - Drinking & Smoking,burn_status,Veteran,t3,cannabis / alcohol / daily,1,25,0.04
+2024,G - Drinking & Smoking,burn_status,Veteran,t6,little / drink / smoke,2,25,0.08
+2024,G - Drinking & Smoking,burn_status,Veteran,t5,less / smoking / play,3,25,0.12
+2024,G - Drinking & Smoking,burn_status,Veteran,t7,same / much / vape,3,25,0.12
+2024,G - Drinking & Smoking,burn_status,Veteran,t4,recreation / change / legal,2,25,0.08
+2024,G - Drinking & Smoking,burn_status,Virgin,t2,more / fun / drinking,7,37,0.189189
+2024,G - Drinking & Smoking,burn_status,Virgin,t0,smoke / weed / drink,5,37,0.135135
+2024,G - Drinking & Smoking,burn_status,Virgin,t5,less / smoking / play,9,37,0.243243
+2024,G - Drinking & Smoking,burn_status,Virgin,t1,all / shade / impact,5,37,0.135135
+2024,G - Drinking & Smoking,burn_status,Virgin,t6,little / drink / smoke,3,37,0.081081
+2024,G - Drinking & Smoking,burn_status,Virgin,t4,recreation / change / legal,4,37,0.108108
+2024,G - Drinking & Smoking,burn_status,Virgin,t3,cannabis / alcohol / daily,3,37,0.081081
+2024,G - Drinking & Smoking,burn_status,Virgin,t7,same / much / vape,1,37,0.027027
+2024,G - Drinking & Smoking,gender,F,t6,little / drink / smoke,10,53,0.188679
+2024,G - Drinking & Smoking,gender,F,t7,same / much / vape,2,53,0.037736
+2024,G - Drinking & Smoking,gender,F,t0,smoke / weed / drink,9,53,0.169811
+2024,G - Drinking & Smoking,gender,F,t2,more / fun / drinking,10,53,0.188679
+2024,G - Drinking & Smoking,gender,F,t5,less / smoking / play,7,53,0.132075
+2024,G - Drinking & Smoking,gender,F,t1,all / shade / impact,9,53,0.169811
+2024,G - Drinking & Smoking,gender,F,t3,cannabis / alcohol / daily,3,53,0.056604
+2024,G - Drinking & Smoking,gender,F,t4,recreation / change / legal,3,53,0.056604
+2024,G - Drinking & Smoking,gender,M,t7,same / much / vape,5,52,0.096154
+2024,G - Drinking & Smoking,gender,M,t0,smoke / weed / drink,9,52,0.173077
+2024,G - Drinking & Smoking,gender,M,t1,all / shade / impact,13,52,0.25
+2024,G - Drinking & Smoking,gender,M,t2,more / fun / drinking,7,52,0.134615
+2024,G - Drinking & Smoking,gender,M,t3,cannabis / alcohol / daily,3,52,0.057692
+2024,G - Drinking & Smoking,gender,M,t6,little / drink / smoke,6,52,0.115385
+2024,G - Drinking & Smoking,gender,M,t5,less / smoking / play,5,52,0.096154
+2024,G - Drinking & Smoking,gender,M,t4,recreation / change / legal,4,52,0.076923
+2024,G - Drinking & Smoking,gender,O,t1,all / shade / impact,8,24,0.333333
+2024,G - Drinking & Smoking,gender,O,t6,little / drink / smoke,3,24,0.125
+2024,G - Drinking & Smoking,gender,O,t0,smoke / weed / drink,4,24,0.166667
+2024,G - Drinking & Smoking,gender,O,t7,same / much / vape,3,24,0.125
+2024,G - Drinking & Smoking,gender,O,t2,more / fun / drinking,1,24,0.041667
+2024,G - Drinking & Smoking,gender,O,t4,recreation / change / legal,1,24,0.041667
+2024,G - Drinking & Smoking,gender,O,t5,less / smoking / play,3,24,0.125
+2024,G - Drinking & Smoking,gender,O,t3,cannabis / alcohol / daily,1,24,0.041667
+2024,G - Drinking & Smoking,region,Local/West,t6,little / drink / smoke,9,69,0.130435
+2024,G - Drinking & Smoking,region,Local/West,t7,same / much / vape,5,69,0.072464
+2024,G - Drinking & Smoking,region,Local/West,t0,smoke / weed / drink,19,69,0.275362
+2024,G - Drinking & Smoking,region,Local/West,t1,all / shade / impact,14,69,0.202899
+2024,G - Drinking & Smoking,region,Local/West,t2,more / fun / drinking,9,69,0.130435
+2024,G - Drinking & Smoking,region,Local/West,t5,less / smoking / play,4,69,0.057971
+2024,G - Drinking & Smoking,region,Local/West,t3,cannabis / alcohol / daily,4,69,0.057971
+2024,G - Drinking & Smoking,region,Local/West,t4,recreation / change / legal,5,69,0.072464
+2024,G - Drinking & Smoking,region,US Other,t7,same / much / vape,6,55,0.109091
+2024,G - Drinking & Smoking,region,US Other,t1,all / shade / impact,15,55,0.272727
+2024,G - Drinking & Smoking,region,US Other,t2,more / fun / drinking,8,55,0.145455
+2024,G - Drinking & Smoking,region,US Other,t6,little / drink / smoke,7,55,0.127273
+2024,G - Drinking & Smoking,region,US Other,t5,less / smoking / play,11,55,0.2
+2024,G - Drinking & Smoking,region,US Other,t4,recreation / change / legal,3,55,0.054545
+2024,G - Drinking & Smoking,region,US Other,t3,cannabis / alcohol / daily,3,55,0.054545
+2024,G - Drinking & Smoking,region,US Other,t0,smoke / weed / drink,2,55,0.036364
+2024,G - Drinking & Smoking,age_band,40s,t6,little / drink / smoke,4,27,0.148148
+2024,G - Drinking & Smoking,age_band,40s,t7,same / much / vape,4,27,0.148148
+2024,G - Drinking & Smoking,age_band,40s,t1,all / shade / impact,5,27,0.185185
+2024,G - Drinking & Smoking,age_band,40s,t0,smoke / weed / drink,1,27,0.037037
+2024,G - Drinking & Smoking,age_band,40s,t2,more / fun / drinking,4,27,0.148148
+2024,G - Drinking & Smoking,age_band,40s,t5,less / smoking / play,5,27,0.185185
+2024,G - Drinking & Smoking,age_band,40s,t4,recreation / change / legal,3,27,0.111111
+2024,G - Drinking & Smoking,age_band,40s,t3,cannabis / alcohol / daily,1,27,0.037037
+2024,G - Drinking & Smoking,age_band,30s,t7,same / much / vape,6,57,0.105263
+2024,G - Drinking & Smoking,age_band,30s,t0,smoke / weed / drink,12,57,0.210526
+2024,G - Drinking & Smoking,age_band,30s,t1,all / shade / impact,11,57,0.192982
+2024,G - Drinking & Smoking,age_band,30s,t2,more / fun / drinking,10,57,0.175439
+2024,G - Drinking & Smoking,age_band,30s,t6,little / drink / smoke,7,57,0.122807
+2024,G - Drinking & Smoking,age_band,30s,t3,cannabis / alcohol / daily,3,57,0.052632
+2024,G - Drinking & Smoking,age_band,30s,t5,less / smoking / play,7,57,0.122807
+2024,G - Drinking & Smoking,age_band,30s,t4,recreation / change / legal,1,57,0.017544
+2024,G - Drinking & Smoking,age_band,<30,t0,smoke / weed / drink,6,20,0.3
+2024,G - Drinking & Smoking,age_band,<30,t6,little / drink / smoke,3,20,0.15
+2024,G - Drinking & Smoking,age_band,<30,t4,recreation / change / legal,3,20,0.15
+2024,G - Drinking & Smoking,age_band,<30,t1,all / shade / impact,3,20,0.15
+2024,G - Drinking & Smoking,age_band,<30,t5,less / smoking / play,2,20,0.1
+2024,G - Drinking & Smoking,age_band,<30,t7,same / much / vape,1,20,0.05
+2024,G - Drinking & Smoking,age_band,<30,t2,more / fun / drinking,1,20,0.05
+2024,G - Drinking & Smoking,age_band,<30,t3,cannabis / alcohol / daily,1,20,0.05
+2024,G - Drinking & Smoking,burn_statusxgender,Veteran | M,t1,all / shade / impact,4,16,0.25
+2024,G - Drinking & Smoking,burn_statusxgender,Veteran | M,t2,more / fun / drinking,2,16,0.125
+2024,G - Drinking & Smoking,burn_statusxgender,Veteran | M,t3,cannabis / alcohol / daily,1,16,0.0625
+2024,G - Drinking & Smoking,burn_statusxgender,Veteran | M,t0,smoke / weed / drink,2,16,0.125
+2024,G - Drinking & Smoking,burn_statusxgender,Veteran | M,t5,less / smoking / play,2,16,0.125
+2024,G - Drinking & Smoking,burn_statusxgender,Veteran | M,t7,same / much / vape,3,16,0.1875
+2024,G - Drinking & Smoking,burn_statusxgender,Veteran | M,t4,recreation / change / legal,2,16,0.125
+2024,G - Drinking & Smoking,burn_statusxgender,Virgin | F,t0,smoke / weed / drink,2,17,0.117647
+2024,G - Drinking & Smoking,burn_statusxgender,Virgin | F,t5,less / smoking / play,5,17,0.294118
+2024,G - Drinking & Smoking,burn_statusxgender,Virgin | F,t6,little / drink / smoke,1,17,0.058824
+2024,G - Drinking & Smoking,burn_statusxgender,Virgin | F,t1,all / shade / impact,3,17,0.176471
+2024,G - Drinking & Smoking,burn_statusxgender,Virgin | F,t4,recreation / change / legal,2,17,0.117647
+2024,G - Drinking & Smoking,burn_statusxgender,Virgin | F,t2,more / fun / drinking,3,17,0.176471
+2024,G - Drinking & Smoking,burn_statusxgender,Virgin | F,t3,cannabis / alcohol / daily,1,17,0.058824
+2024,G - Drinking & Smoking,burn_statusxregion,Sophomore | Local/West,t7,same / much / vape,4,15,0.266667
+2024,G - Drinking & Smoking,burn_statusxregion,Sophomore | Local/West,t0,smoke / weed / drink,4,15,0.266667
+2024,G - Drinking & Smoking,burn_statusxregion,Sophomore | Local/West,t2,more / fun / drinking,3,15,0.2
+2024,G - Drinking & Smoking,burn_statusxregion,Sophomore | Local/West,t3,cannabis / alcohol / daily,1,15,0.066667
+2024,G - Drinking & Smoking,burn_statusxregion,Sophomore | Local/West,t6,little / drink / smoke,2,15,0.133333
+2024,G - Drinking & Smoking,burn_statusxregion,Sophomore | Local/West,t1,all / shade / impact,1,15,0.066667
+2024,G - Drinking & Smoking,burn_statusxregion,Virgin | US Other,t2,more / fun / drinking,4,17,0.235294
+2024,G - Drinking & Smoking,burn_statusxregion,Virgin | US Other,t1,all / shade / impact,3,17,0.176471
+2024,G - Drinking & Smoking,burn_statusxregion,Virgin | US Other,t6,little / drink / smoke,1,17,0.058824
+2024,G - Drinking & Smoking,burn_statusxregion,Virgin | US Other,t5,less / smoking / play,7,17,0.411765
+2024,G - Drinking & Smoking,burn_statusxregion,Virgin | US Other,t3,cannabis / alcohol / daily,2,17,0.117647
+2024,G - Drinking & Smoking,burn_statusxregion,Virgin | Local/West,t0,smoke / weed / drink,3,17,0.176471
+2024,G - Drinking & Smoking,burn_statusxregion,Virgin | Local/West,t5,less / smoking / play,2,17,0.117647
+2024,G - Drinking & Smoking,burn_statusxregion,Virgin | Local/West,t6,little / drink / smoke,2,17,0.117647
+2024,G - Drinking & Smoking,burn_statusxregion,Virgin | Local/West,t1,all / shade / impact,2,17,0.117647
+2024,G - Drinking & Smoking,burn_statusxregion,Virgin | Local/West,t4,recreation / change / legal,4,17,0.235294
+2024,G - Drinking & Smoking,burn_statusxregion,Virgin | Local/West,t2,more / fun / drinking,2,17,0.117647
+2024,G - Drinking & Smoking,burn_statusxregion,Virgin | Local/West,t3,cannabis / alcohol / daily,1,17,0.058824
+2024,G - Drinking & Smoking,burn_statusxregion,Virgin | Local/West,t7,same / much / vape,1,17,0.058824
+2024,G - Drinking & Smoking,genderxregion,F | Local/West,t6,little / drink / smoke,4,30,0.133333
+2024,G - Drinking & Smoking,genderxregion,F | Local/West,t0,smoke / weed / drink,8,30,0.266667
+2024,G - Drinking & Smoking,genderxregion,F | Local/West,t2,more / fun / drinking,5,30,0.166667
+2024,G - Drinking & Smoking,genderxregion,F | Local/West,t5,less / smoking / play,3,30,0.1
+2024,G - Drinking & Smoking,genderxregion,F | Local/West,t1,all / shade / impact,6,30,0.2
+2024,G - Drinking & Smoking,genderxregion,F | Local/West,t3,cannabis / alcohol / daily,1,30,0.033333
+2024,G - Drinking & Smoking,genderxregion,F | Local/West,t4,recreation / change / legal,2,30,0.066667
+2024,G - Drinking & Smoking,genderxregion,F | Local/West,t7,same / much / vape,1,30,0.033333
+2024,G - Drinking & Smoking,genderxregion,M | Local/West,t7,same / much / vape,1,25,0.04
+2024,G - Drinking & Smoking,genderxregion,M | Local/West,t0,smoke / weed / drink,8,25,0.32
+2024,G - Drinking & Smoking,genderxregion,M | Local/West,t1,all / shade / impact,6,25,0.24
+2024,G - Drinking & Smoking,genderxregion,M | Local/West,t3,cannabis / alcohol / daily,2,25,0.08
+2024,G - Drinking & Smoking,genderxregion,M | Local/West,t6,little / drink / smoke,3,25,0.12
+2024,G - Drinking & Smoking,genderxregion,M | Local/West,t4,recreation / change / legal,2,25,0.08
+2024,G - Drinking & Smoking,genderxregion,M | Local/West,t2,more / fun / drinking,3,25,0.12
+2024,G - Drinking & Smoking,genderxregion,F | US Other,t7,same / much / vape,1,21,0.047619
+2024,G - Drinking & Smoking,genderxregion,F | US Other,t6,little / drink / smoke,4,21,0.190476
+2024,G - Drinking & Smoking,genderxregion,F | US Other,t5,less / smoking / play,4,21,0.190476
+2024,G - Drinking & Smoking,genderxregion,F | US Other,t2,more / fun / drinking,5,21,0.238095
+2024,G - Drinking & Smoking,genderxregion,F | US Other,t4,recreation / change / legal,1,21,0.047619
+2024,G - Drinking & Smoking,genderxregion,F | US Other,t1,all / shade / impact,3,21,0.142857
+2024,G - Drinking & Smoking,genderxregion,F | US Other,t3,cannabis / alcohol / daily,2,21,0.095238
+2024,G - Drinking & Smoking,genderxregion,F | US Other,t0,smoke / weed / drink,1,21,0.047619
+2024,G - Drinking & Smoking,genderxregion,M | US Other,t1,all / shade / impact,6,20,0.3
+2024,G - Drinking & Smoking,genderxregion,M | US Other,t2,more / fun / drinking,2,20,0.1
+2024,G - Drinking & Smoking,genderxregion,M | US Other,t5,less / smoking / play,5,20,0.25
+2024,G - Drinking & Smoking,genderxregion,M | US Other,t6,little / drink / smoke,2,20,0.1
+2024,G - Drinking & Smoking,genderxregion,M | US Other,t7,same / much / vape,2,20,0.1
+2024,G - Drinking & Smoking,genderxregion,M | US Other,t4,recreation / change / legal,2,20,0.1
+2024,G - Drinking & Smoking,genderxregion,M | US Other,t3,cannabis / alcohol / daily,1,20,0.05
+2024,E - Singing & Dancing,burn_status,Virgin,t3,only / happy / nope,2,25,0.08
+2024,E - Singing & Dancing,burn_status,Virgin,t1,dance / all / music,4,25,0.16
+2024,E - Singing & Dancing,burn_status,Virgin,t4,good / music / better,3,25,0.12
+2024,E - Singing & Dancing,burn_status,Virgin,t0,don / daily / plan,7,25,0.28
+2024,E - Singing & Dancing,burn_status,Virgin,t7,others / fuck / better,1,25,0.04
+2024,E - Singing & Dancing,burn_status,Virgin,t2,being / alone / amazing,4,25,0.16
+2024,E - Singing & Dancing,burn_status,Virgin,t5,more / dancing / free,1,25,0.04
+2024,E - Singing & Dancing,burn_status,Virgin,t6,same / free / connected,3,25,0.12
+2024,E - Singing & Dancing,burn_status,Unknown,t4,good / music / better,2,17,0.117647
+2024,E - Singing & Dancing,burn_status,Unknown,t6,same / free / connected,1,17,0.058824
+2024,E - Singing & Dancing,burn_status,Unknown,t5,more / dancing / free,1,17,0.058824
+2024,E - Singing & Dancing,burn_status,Unknown,t2,being / alone / amazing,2,17,0.117647
+2024,E - Singing & Dancing,burn_status,Unknown,t7,others / fuck / better,1,17,0.058824
+2024,E - Singing & Dancing,burn_status,Unknown,t0,don / daily / plan,5,17,0.294118
+2024,E - Singing & Dancing,burn_status,Unknown,t1,dance / all / music,5,17,0.294118
+2024,E - Singing & Dancing,burn_status,Sophomore,t7,others / fuck / better,5,36,0.138889
+2024,E - Singing & Dancing,burn_status,Sophomore,t6,same / free / connected,3,36,0.083333
+2024,E - Singing & Dancing,burn_status,Sophomore,t4,good / music / better,3,36,0.083333
+2024,E - Singing & Dancing,burn_status,Sophomore,t3,only / happy / nope,4,36,0.111111
+2024,E - Singing & Dancing,burn_status,Sophomore,t5,more / dancing / free,8,36,0.222222
+2024,E - Singing & Dancing,burn_status,Sophomore,t1,dance / all / music,5,36,0.138889
+2024,E - Singing & Dancing,burn_status,Sophomore,t2,being / alone / amazing,4,36,0.111111
+2024,E - Singing & Dancing,burn_status,Sophomore,t0,don / daily / plan,4,36,0.111111
+2024,E - Singing & Dancing,burn_status,Veteran,t7,others / fuck / better,7,31,0.225806
+2024,E - Singing & Dancing,burn_status,Veteran,t4,good / music / better,6,31,0.193548
+2024,E - Singing & Dancing,burn_status,Veteran,t5,more / dancing / free,5,31,0.16129
+2024,E - Singing & Dancing,burn_status,Veteran,t0,don / daily / plan,4,31,0.129032
+2024,E - Singing & Dancing,burn_status,Veteran,t1,dance / all / music,6,31,0.193548
+2024,E - Singing & Dancing,burn_status,Veteran,t2,being / alone / amazing,1,31,0.032258
+2024,E - Singing & Dancing,burn_status,Veteran,t6,same / free / connected,1,31,0.032258
+2024,E - Singing & Dancing,burn_status,Veteran,t3,only / happy / nope,1,31,0.032258
+2024,E - Singing & Dancing,gender,M,t3,only / happy / nope,2,48,0.041667
+2024,E - Singing & Dancing,gender,M,t4,good / music / better,7,48,0.145833
+2024,E - Singing & Dancing,gender,M,t7,others / fuck / better,6,48,0.125
+2024,E - Singing & Dancing,gender,M,t0,don / daily / plan,10,48,0.208333
+2024,E - Singing & Dancing,gender,M,t5,more / dancing / free,6,48,0.125
+2024,E - Singing & Dancing,gender,M,t1,dance / all / music,9,48,0.1875
+2024,E - Singing & Dancing,gender,M,t6,same / free / connected,2,48,0.041667
+2024,E - Singing & Dancing,gender,M,t2,being / alone / amazing,6,48,0.125
+2024,E - Singing & Dancing,gender,O,t1,dance / all / music,3,24,0.125
+2024,E - Singing & Dancing,gender,O,t6,same / free / connected,1,24,0.041667
+2024,E - Singing & Dancing,gender,O,t4,good / music / better,2,24,0.083333
+2024,E - Singing & Dancing,gender,O,t0,don / daily / plan,5,24,0.208333
+2024,E - Singing & Dancing,gender,O,t5,more / dancing / free,4,24,0.166667
+2024,E - Singing & Dancing,gender,O,t7,others / fuck / better,4,24,0.166667
+2024,E - Singing & Dancing,gender,O,t2,being / alone / amazing,4,24,0.166667
+2024,E - Singing & Dancing,gender,O,t3,only / happy / nope,1,24,0.041667
+2024,E - Singing & Dancing,gender,F,t4,good / music / better,7,50,0.14
+2024,E - Singing & Dancing,gender,F,t6,same / free / connected,6,50,0.12
+2024,E - Singing & Dancing,gender,F,t1,dance / all / music,9,50,0.18
+2024,E - Singing & Dancing,gender,F,t7,others / fuck / better,5,50,0.1
+2024,E - Singing & Dancing,gender,F,t3,only / happy / nope,4,50,0.08
+2024,E - Singing & Dancing,gender,F,t2,being / alone / amazing,4,50,0.08
+2024,E - Singing & Dancing,gender,F,t0,don / daily / plan,7,50,0.14
+2024,E - Singing & Dancing,gender,F,t5,more / dancing / free,8,50,0.16
+2024,E - Singing & Dancing,region,Local/West,t3,only / happy / nope,3,55,0.054545
+2024,E - Singing & Dancing,region,Local/West,t4,good / music / better,7,55,0.127273
+2024,E - Singing & Dancing,region,Local/West,t7,others / fuck / better,8,55,0.145455
+2024,E - Singing & Dancing,region,Local/West,t6,same / free / connected,5,55,0.090909
+2024,E - Singing & Dancing,region,Local/West,t5,more / dancing / free,8,55,0.145455
+2024,E - Singing & Dancing,region,Local/West,t1,dance / all / music,9,55,0.163636
+2024,E - Singing & Dancing,region,Local/West,t0,don / daily / plan,10,55,0.181818
+2024,E - Singing & Dancing,region,Local/West,t2,being / alone / amazing,5,55,0.090909
+2024,E - Singing & Dancing,region,US Other,t7,others / fuck / better,7,62,0.112903
+2024,E - Singing & Dancing,region,US Other,t1,dance / all / music,12,62,0.193548
+2024,E - Singing & Dancing,region,US Other,t3,only / happy / nope,4,62,0.064516
+2024,E - Singing & Dancing,region,US Other,t6,same / free / connected,3,62,0.048387
+2024,E - Singing & Dancing,region,US Other,t4,good / music / better,8,62,0.129032
+2024,E - Singing & Dancing,region,US Other,t0,don / daily / plan,11,62,0.177419
+2024,E - Singing & Dancing,region,US Other,t5,more / dancing / free,10,62,0.16129
+2024,E - Singing & Dancing,region,US Other,t2,being / alone / amazing,7,62,0.112903
+2024,E - Singing & Dancing,age_band,30s,t3,only / happy / nope,4,38,0.105263
+2024,E - Singing & Dancing,age_band,30s,t7,others / fuck / better,7,38,0.184211
+2024,E - Singing & Dancing,age_band,30s,t6,same / free / connected,4,38,0.105263
+2024,E - Singing & Dancing,age_band,30s,t4,good / music / better,4,38,0.105263
+2024,E - Singing & Dancing,age_band,30s,t0,don / daily / plan,5,38,0.131579
+2024,E - Singing & Dancing,age_band,30s,t1,dance / all / music,6,38,0.157895
+2024,E - Singing & Dancing,age_band,30s,t5,more / dancing / free,6,38,0.157895
+2024,E - Singing & Dancing,age_band,30s,t2,being / alone / amazing,2,38,0.052632
+2024,E - Singing & Dancing,age_band,40s,t4,good / music / better,4,24,0.166667
+2024,E - Singing & Dancing,age_band,40s,t5,more / dancing / free,3,24,0.125
+2024,E - Singing & Dancing,age_band,40s,t7,others / fuck / better,4,24,0.166667
+2024,E - Singing & Dancing,age_band,40s,t2,being / alone / amazing,5,24,0.208333
+2024,E - Singing & Dancing,age_band,40s,t0,don / daily / plan,1,24,0.041667
+2024,E - Singing & Dancing,age_band,40s,t1,dance / all / music,4,24,0.166667
+2024,E - Singing & Dancing,age_band,40s,t6,same / free / connected,2,24,0.083333
+2024,E - Singing & Dancing,age_band,40s,t3,only / happy / nope,1,24,0.041667
+2024,E - Singing & Dancing,age_band,<30,t1,dance / all / music,6,23,0.26087
+2024,E - Singing & Dancing,age_band,<30,t4,good / music / better,2,23,0.086957
+2024,E - Singing & Dancing,age_band,<30,t0,don / daily / plan,7,23,0.304348
+2024,E - Singing & Dancing,age_band,<30,t5,more / dancing / free,3,23,0.130435
+2024,E - Singing & Dancing,age_band,<30,t2,being / alone / amazing,4,23,0.173913
+2024,E - Singing & Dancing,age_band,<30,t3,only / happy / nope,1,23,0.043478
+2024,E - Singing & Dancing,age_band,60+,t4,good / music / better,3,15,0.2
+2024,E - Singing & Dancing,age_band,60+,t7,others / fuck / better,1,15,0.066667
+2024,E - Singing & Dancing,age_band,60+,t1,dance / all / music,4,15,0.266667
+2024,E - Singing & Dancing,age_band,60+,t6,same / free / connected,2,15,0.133333
+2024,E - Singing & Dancing,age_band,60+,t0,don / daily / plan,5,15,0.333333
+2024,E - Singing & Dancing,age_band,50s,t5,more / dancing / free,6,19,0.315789
+2024,E - Singing & Dancing,age_band,50s,t7,others / fuck / better,2,19,0.105263
+2024,E - Singing & Dancing,age_band,50s,t2,being / alone / amazing,3,19,0.157895
+2024,E - Singing & Dancing,age_band,50s,t0,don / daily / plan,4,19,0.210526
+2024,E - Singing & Dancing,age_band,50s,t1,dance / all / music,2,19,0.105263
+2024,E - Singing & Dancing,age_band,50s,t4,good / music / better,1,19,0.052632
+2024,E - Singing & Dancing,age_band,50s,t3,only / happy / nope,1,19,0.052632
+2024,E - Singing & Dancing,burn_statusxgender,Sophomore | F,t6,same / free / connected,2,17,0.117647
+2024,E - Singing & Dancing,burn_statusxgender,Sophomore | F,t4,good / music / better,2,17,0.117647
+2024,E - Singing & Dancing,burn_statusxgender,Sophomore | F,t1,dance / all / music,5,17,0.294118
+2024,E - Singing & Dancing,burn_statusxgender,Sophomore | F,t3,only / happy / nope,2,17,0.117647
+2024,E - Singing & Dancing,burn_statusxgender,Sophomore | F,t5,more / dancing / free,3,17,0.176471
+2024,E - Singing & Dancing,burn_statusxgender,Sophomore | F,t2,being / alone / amazing,2,17,0.117647
+2024,E - Singing & Dancing,burn_statusxgender,Sophomore | F,t7,others / fuck / better,1,17,0.058824
+2024,E - Singing & Dancing,burn_statusxgender,Veteran | F,t0,don / daily / plan,2,15,0.133333
+2024,E - Singing & Dancing,burn_statusxgender,Veteran | F,t7,others / fuck / better,2,15,0.133333
+2024,E - Singing & Dancing,burn_statusxgender,Veteran | F,t1,dance / all / music,3,15,0.2
+2024,E - Singing & Dancing,burn_statusxgender,Veteran | F,t5,more / dancing / free,3,15,0.2
+2024,E - Singing & Dancing,burn_statusxgender,Veteran | F,t4,good / music / better,3,15,0.2
+2024,E - Singing & Dancing,burn_statusxgender,Veteran | F,t6,same / free / connected,1,15,0.066667
+2024,E - Singing & Dancing,burn_statusxgender,Veteran | F,t3,only / happy / nope,1,15,0.066667
+2024,E - Singing & Dancing,burn_statusxregion,Sophomore | US Other,t7,others / fuck / better,4,16,0.25
+2024,E - Singing & Dancing,burn_statusxregion,Sophomore | US Other,t3,only / happy / nope,2,16,0.125
+2024,E - Singing & Dancing,burn_statusxregion,Sophomore | US Other,t6,same / free / connected,1,16,0.0625
+2024,E - Singing & Dancing,burn_statusxregion,Sophomore | US Other,t5,more / dancing / free,5,16,0.3125
+2024,E - Singing & Dancing,burn_statusxregion,Sophomore | US Other,t2,being / alone / amazing,2,16,0.125
+2024,E - Singing & Dancing,burn_statusxregion,Sophomore | US Other,t1,dance / all / music,1,16,0.0625
+2024,E - Singing & Dancing,burn_statusxregion,Sophomore | US Other,t0,don / daily / plan,1,16,0.0625
+2024,E - Singing & Dancing,burn_statusxregion,Sophomore | Local/West,t4,good / music / better,2,17,0.117647
+2024,E - Singing & Dancing,burn_statusxregion,Sophomore | Local/West,t7,others / fuck / better,1,17,0.058824
+2024,E - Singing & Dancing,burn_statusxregion,Sophomore | Local/West,t1,dance / all / music,4,17,0.235294
+2024,E - Singing & Dancing,burn_statusxregion,Sophomore | Local/West,t5,more / dancing / free,3,17,0.176471
+2024,E - Singing & Dancing,burn_statusxregion,Sophomore | Local/West,t3,only / happy / nope,2,17,0.117647
+2024,E - Singing & Dancing,burn_statusxregion,Sophomore | Local/West,t0,don / daily / plan,3,17,0.176471
+2024,E - Singing & Dancing,burn_statusxregion,Sophomore | Local/West,t6,same / free / connected,1,17,0.058824
+2024,E - Singing & Dancing,burn_statusxregion,Sophomore | Local/West,t2,being / alone / amazing,1,17,0.058824
+2024,E - Singing & Dancing,burn_statusxregion,Veteran | US Other,t7,others / fuck / better,3,20,0.15
+2024,E - Singing & Dancing,burn_statusxregion,Veteran | US Other,t4,good / music / better,5,20,0.25
+2024,E - Singing & Dancing,burn_statusxregion,Veteran | US Other,t0,don / daily / plan,3,20,0.15
+2024,E - Singing & Dancing,burn_statusxregion,Veteran | US Other,t1,dance / all / music,4,20,0.2
+2024,E - Singing & Dancing,burn_statusxregion,Veteran | US Other,t5,more / dancing / free,4,20,0.2
+2024,E - Singing & Dancing,burn_statusxregion,Veteran | US Other,t3,only / happy / nope,1,20,0.05
+2024,E - Singing & Dancing,genderxregion,M | Local/West,t3,only / happy / nope,1,18,0.055556
+2024,E - Singing & Dancing,genderxregion,M | Local/West,t4,good / music / better,2,18,0.111111
+2024,E - Singing & Dancing,genderxregion,M | Local/West,t7,others / fuck / better,2,18,0.111111
+2024,E - Singing & Dancing,genderxregion,M | Local/West,t5,more / dancing / free,3,18,0.166667
+2024,E - Singing & Dancing,genderxregion,M | Local/West,t1,dance / all / music,3,18,0.166667
+2024,E - Singing & Dancing,genderxregion,M | Local/West,t0,don / daily / plan,5,18,0.277778
+2024,E - Singing & Dancing,genderxregion,M | Local/West,t2,being / alone / amazing,1,18,0.055556
+2024,E - Singing & Dancing,genderxregion,M | Local/West,t6,same / free / connected,1,18,0.055556
+2024,E - Singing & Dancing,genderxregion,M | US Other,t7,others / fuck / better,4,28,0.142857
+2024,E - Singing & Dancing,genderxregion,M | US Other,t3,only / happy / nope,1,28,0.035714
+2024,E - Singing & Dancing,genderxregion,M | US Other,t4,good / music / better,5,28,0.178571
+2024,E - Singing & Dancing,genderxregion,M | US Other,t0,don / daily / plan,5,28,0.178571
+2024,E - Singing & Dancing,genderxregion,M | US Other,t5,more / dancing / free,3,28,0.107143
+2024,E - Singing & Dancing,genderxregion,M | US Other,t6,same / free / connected,1,28,0.035714
+2024,E - Singing & Dancing,genderxregion,M | US Other,t2,being / alone / amazing,4,28,0.142857
+2024,E - Singing & Dancing,genderxregion,M | US Other,t1,dance / all / music,5,28,0.178571
+2024,E - Singing & Dancing,genderxregion,F | Local/West,t4,good / music / better,4,22,0.181818
+2024,E - Singing & Dancing,genderxregion,F | Local/West,t1,dance / all / music,5,22,0.227273
+2024,E - Singing & Dancing,genderxregion,F | Local/West,t7,others / fuck / better,3,22,0.136364
+2024,E - Singing & Dancing,genderxregion,F | Local/West,t3,only / happy / nope,1,22,0.045455
+2024,E - Singing & Dancing,genderxregion,F | Local/West,t0,don / daily / plan,3,22,0.136364
+2024,E - Singing & Dancing,genderxregion,F | Local/West,t5,more / dancing / free,2,22,0.090909
+2024,E - Singing & Dancing,genderxregion,F | Local/West,t6,same / free / connected,3,22,0.136364
+2024,E - Singing & Dancing,genderxregion,F | Local/West,t2,being / alone / amazing,1,22,0.045455
+2024,E - Singing & Dancing,genderxregion,F | US Other,t6,same / free / connected,2,26,0.076923
+2024,E - Singing & Dancing,genderxregion,F | US Other,t2,being / alone / amazing,3,26,0.115385
+2024,E - Singing & Dancing,genderxregion,F | US Other,t0,don / daily / plan,4,26,0.153846
+2024,E - Singing & Dancing,genderxregion,F | US Other,t5,more / dancing / free,6,26,0.230769
+2024,E - Singing & Dancing,genderxregion,F | US Other,t7,others / fuck / better,2,26,0.076923
+2024,E - Singing & Dancing,genderxregion,F | US Other,t1,dance / all / music,4,26,0.153846
+2024,E - Singing & Dancing,genderxregion,F | US Other,t4,good / music / better,2,26,0.076923
+2024,E - Singing & Dancing,genderxregion,F | US Other,t3,only / happy / nope,3,26,0.115385
+2024,E - Singing & Dancing,genderxregion,O | Local/West,t6,same / free / connected,1,15,0.066667
+2024,E - Singing & Dancing,genderxregion,O | Local/West,t1,dance / all / music,1,15,0.066667
+2024,E - Singing & Dancing,genderxregion,O | Local/West,t4,good / music / better,1,15,0.066667
+2024,E - Singing & Dancing,genderxregion,O | Local/West,t0,don / daily / plan,2,15,0.133333
+2024,E - Singing & Dancing,genderxregion,O | Local/West,t5,more / dancing / free,3,15,0.2
+2024,E - Singing & Dancing,genderxregion,O | Local/West,t7,others / fuck / better,3,15,0.2
+2024,E - Singing & Dancing,genderxregion,O | Local/West,t2,being / alone / amazing,3,15,0.2
+2024,E - Singing & Dancing,genderxregion,O | Local/West,t3,only / happy / nope,1,15,0.066667
+2025,D - Boundaries of Humanity,region,US Other,t1,love / place / one,13,19,0.684211
+2025,D - Boundaries of Humanity,region,US Other,t2,human / all / machine,3,19,0.157895
+2025,D - Boundaries of Humanity,region,US Other,t3,consciousness / possibly / more,1,19,0.052632
+2025,D - Boundaries of Humanity,region,US Other,t4,connection / yet / human,2,19,0.105263
+2025,B - Survival,gender,M,t2,water / camp / community,3,16,0.1875
+2025,B - Survival,gender,M,t1,shade / mask / solar,1,16,0.0625
+2025,B - Survival,gender,M,t4,days / open / community,3,16,0.1875
+2025,B - Survival,gender,M,t0,work / help / tent,5,16,0.3125
+2025,B - Survival,gender,M,t3,how / weeks / others,4,16,0.25
+2025,B - Survival,region,US Other,t1,shade / mask / solar,4,18,0.222222
+2025,B - Survival,region,US Other,t2,water / camp / community,2,18,0.111111
+2025,B - Survival,region,US Other,t3,how / weeks / others,3,18,0.166667
+2025,B - Survival,region,US Other,t4,days / open / community,3,18,0.166667
+2025,B - Survival,region,US Other,t0,work / help / tent,6,18,0.333333
+2025,C - Emotions & Experiences,gender,F,t3,art / own / cars,4,16,0.25
+2025,C - Emotions & Experiences,gender,F,t5,general / heat / experience,2,16,0.125
+2025,C - Emotions & Experiences,gender,F,t0,joy / yet / sure,4,16,0.25
+2025,C - Emotions & Experiences,gender,F,t2,all / stamp / roads,5,16,0.3125
+2025,C - Emotions & Experiences,gender,F,t1,acid / horny / rufus,1,16,0.0625
+2025,C - Emotions & Experiences,region,US Other,t5,general / heat / experience,3,16,0.1875
+2025,C - Emotions & Experiences,region,US Other,t0,joy / yet / sure,2,16,0.125
+2025,C - Emotions & Experiences,region,US Other,t2,all / stamp / roads,5,16,0.3125
+2025,C - Emotions & Experiences,region,US Other,t3,art / own / cars,4,16,0.25
+2025,C - Emotions & Experiences,region,US Other,t4,happy / happiness / love,2,16,0.125
+2025,C - Emotions & Experiences,region,Local/West,t3,art / own / cars,3,26,0.115385
+2025,C - Emotions & Experiences,region,Local/West,t5,general / heat / experience,8,26,0.307692
+2025,C - Emotions & Experiences,region,Local/West,t4,happy / happiness / love,2,26,0.076923
+2025,C - Emotions & Experiences,region,Local/West,t0,joy / yet / sure,7,26,0.269231
+2025,C - Emotions & Experiences,region,Local/West,t2,all / stamp / roads,3,26,0.115385
+2025,C - Emotions & Experiences,region,Local/West,t1,acid / horny / rufus,3,26,0.115385
